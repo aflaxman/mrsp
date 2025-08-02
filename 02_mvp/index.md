@@ -289,7 +289,7 @@ Score your project from 0 to 10:
 
 ## Checklist
 
-1.  Read through <a href="@root/checklist/">these checklists</a>.
+1.  Read through these checklists.
 1.  What do you not do?
 1.  What do you do differently?
 1.  What do you do that isn't listed?

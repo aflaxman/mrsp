@@ -44,5 +44,4 @@ and how to manage both staff and external contributors.
 1.  [Code of Conduct](./CODE_OF_CONDUCT.md)
 1.  [Bibliography](./bibliography.md)
 1.  [Glossary](./glossary.md)
-1.  [Checklist](@root/checklist/)
 1.  [Advice](@root/advice/)

@@ -114,7 +114,7 @@
 -   Karl Fogel for *[Producing Open Source Software][producing-oss]*
 -   Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, and Charlotte Wickham for *[Research Software Engineering with Python](https://merely-useful.tech/py-rse/)*
 -   Alexandra Elbakyan for [SciHub][sci-hub]
--   And everyone cited in <a href="@root/bibliography/">the bibliography</a>
+-   And everyone cited in [the bibliography](@root/bibliography/)
 
 <div class="center">
   <img src="@root/static/files/producing-oss.jpg" alt="Cover of 'Producing Open Source Software'" width="20%"/>
