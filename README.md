@@ -28,6 +28,8 @@ and how to manage both staff and external contributors.
 
 ## Syllabus
 
+<div id="syllabus" markdown="1">
+
 1.  [Introduction](@root/01_intro/): Who we are and where we're going
 1.  [A Minimum Viable Project](@root/02_mvp/): A technology base we can build on
 1.  [Newcomers](@root/03_newcomers/): How to bring new people into the project
@@ -38,10 +40,26 @@ and how to manage both staff and external contributors.
 1.  [Project Management](@root/08_project/): On time, on spec, and on budget
 1.  [Next Steps](@root/09_finale/): How to take over (a small part of) the world
 
+</div>
+
 ##  Appendices
+
+<div id="appendices" markdown="1">
 
 1.  [License](./LICENSE.md)
 1.  [Code of Conduct](./CODE_OF_CONDUCT.md)
 1.  [Bibliography](./bibliography.md)
 1.  [Glossary](./glossary.md)
 1.  [Advice](@root/advice/)
+
+</div>
+
+<p class="center">
+  <em>
+    Start where you are
+    <br/>
+    Use what you have
+    <br/>
+    Help who you can
+  </em>
+</p>
