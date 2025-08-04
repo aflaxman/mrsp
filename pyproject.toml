@@ -8,7 +8,7 @@ dependencies = [
 ]
 
 [tool.mccole]
-skips = ["CONTRIBUTING.md", "templates"]
+skips = ["CONTRIBUTING.md", "extras", "templates"]
 
 [tool.mccole.renames]
 "README.md" = ""

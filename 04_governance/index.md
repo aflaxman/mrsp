@@ -11,7 +11,7 @@
 
 ## Governance Models
 
--   <https://communityrule.info/> describes [lots of options]($root/files/gov-booklet-MASTER.pdf)
+-   <https://communityrule.info/> describes [lots of options](@root/files/gov-booklet-MASTER.pdf)
 -   Benevolent dictator (often the project founder)
     -   Common in young projects
     -   Brittle: founder can move on

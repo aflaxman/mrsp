@@ -30,15 +30,15 @@ and how to manage both staff and external contributors.
 
 <div id="syllabus" markdown="1">
 
-1.  [Introduction](@root/01_intro/): Who we are and where we're going
-1.  [A Minimum Viable Project](@root/02_mvp/): A technology base we can build on
-1.  [Newcomers](@root/03_newcomers/): How to bring new people into the project
-1.  [Governance](@root/04_governance/): How to manage meetings and make decisions
-1.  [Marketing](@root/05_marketing/): Making sure people know how you can help them
-1.  [Human Resources](@root/06_hr/): Hiring, firing, and in between
-1.  [Product Management](@root/07_product/): Building the right thing
-1.  [Project Management](@root/08_project/): On time, on spec, and on budget
-1.  [Next Steps](@root/09_finale/): How to take over (a small part of) the world
+1.  [Introduction](./01_intro/): Who we are and where we're going
+1.  [A Minimum Viable Project](./02_mvp/): A technology base we can build on
+1.  [Newcomers](./03_newcomers/): How to bring new people into the project
+1.  [Governance](./04_governance/): How to manage meetings and make decisions
+1.  [Marketing](./05_marketing/): Making sure people know how you can help them
+1.  [Human Resources](./06_hr/): Hiring, firing, and in between
+1.  [Product Management](./07_product/): Building the right thing
+1.  [Project Management](./08_project/): On time, on spec, and on budget
+1.  [Next Steps](./09_finale/): How to take over (a small part of) the world
 
 </div>
 
@@ -50,7 +50,7 @@ and how to manage both staff and external contributors.
 1.  [Code of Conduct](./CODE_OF_CONDUCT.md)
 1.  [Bibliography](./bibliography.md)
 1.  [Glossary](./glossary.md)
-1.  [Advice](@root/advice/)
+1.  [Advice](./advice/)
 
 </div>
 

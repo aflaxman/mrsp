@@ -1,0 +1,113 @@
+Missing file: glossary.md => #cc
+Missing file: glossary.md => #cc
+Missing file: glossary.md => #cc-by
+Missing file: glossary.md => #mental-model
+Missing file: glossary.md => #pre-condition
+Missing file: glossary.md => #post-condition
+Missing file: glossary.md => https:/en.wikipedia.org/wiki/Sci-Hub
+Missing file: glossary.md => #json
+Missing file: glossary.md => #markdown
+Missing file: README.md => @root/01_intro
+Missing file: README.md => @root/02_mvp
+Missing file: README.md => @root/03_newcomers
+Missing file: README.md => @root/04_governance
+Missing file: README.md => @root/05_marketing
+Missing file: README.md => @root/06_hr
+Missing file: README.md => @root/07_product
+Missing file: README.md => @root/08_project
+Missing file: README.md => @root/09_finale
+Missing file: README.md => @root/advice
+Missing file: 01_intro/index.md => 01_intro/https:/merely-useful.tech/py-rse
+Missing file: 01_intro/index.md => 01_intro/@root/bibliography
+Missing file: 04_governance/index.md => 04_governance/$root/files/gov-booklet-MASTER.pdf
+Missing file: 03_newcomers/index.md => governance
+Missing file: 03_newcomers/index.md => 03_newcomers/@root/governance
+Missing bibliography keys in advice/index.md: Jaffe2021, Wilkinson2016
+Unused bibliography keys: Behroozi2020, Noble2009, Robinson2021, Smalls2021, Taschuk2017
+Missing glossary keys in 02_mvp/index.md: Smalls2021
+Unused glossary keys: 2fa, 90-9-1, benchmark, benevolent-dictator, build-manager, casual-threat, cc, cc-0, cc-by, cc-by-nc, chief-programmer, chunking, ci, cognitive-load, community-of-practice, competent-practitioner, concept-map, decorator, design-by-contract, design-pattern, devops, doi, dynamic-loading, er-diagram, expert, expert-blind-spot, fair, false-beginner, fixture, flowchart, gpl, hero-project, hippocratic-license, information-hiding, insider-threat, intimate-threat, json, lazy-evaluation, least-privilege, legacy-code, logging, long-term-memory, loose-coupling, lpp, markdown, marthas-rules, mental-model, meritocracy, mit-license, novice, orcid, passphrase, password-manager, paywall, persona, phishing, pipe, post-condition, power-mapping, pre-condition, product-manager, profiler, project-manager, refactoring, reprex, rng-seed, roberts-rules, security-fatigue, security-theater, semantic-versioning, sense-vote, short-term-memory, situational-awareness, ssg, tdd, uml, unit-test, yaml
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":64.35-64.108: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":65.37-65.108: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":66.37-66.125: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":78.1-78.67: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":90.32-90.110: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":103.1-103.81: error: Bad value "40%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":122.1-122.67: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":123.1-123.67: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":137.31-137.99: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":138.38-138.114: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":168.1-168.106: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":169.1-169.116: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/01_intro/index.html":170.1-170.70: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":52.1-52.32: error: Element "doi:10.1145" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":70.1-70.32: error: Element "doi:10.1145" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":88.1-88.32: error: Element "doi:10.1073" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":101.1-101.37: error: Element "doi:10.1371" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":114.1-114.35: error: Element "doi:10.1177" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":121.1-121.37: error: Element "doi:10.1371" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":127.1-127.32: error: Element "doi:10.1145" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":133.1-133.32: error: Element "doi:10.1145" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":145.1-145.21: error: Element "doi:arxiv:1407.5648" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":164.1-164.37: error: Element "doi:10.1371" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":170.1-170.35: error: Element "doi:10.1038" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":177.1-177.37: error: Element "doi:10.1371" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":183.1-183.32: error: Element "doi:10.1145" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/bibliography/index.html":190.1-190.37: error: Element "doi:10.1371" not allowed as child of element "dd" in this context. (Suppressing further errors from this subtree.)
+"file:/Users/gvwilson/tut/mrsp/docs/04_governance/index.html":130.1-130.20: error: The "align" attribute on the "div" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/04_governance/index.html":131.1-131.66: error: Bad value "40%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/04_governance/index.html":226.1-226.91: error: Bad value "80%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/04_governance/index.html":282.1-282.20: error: The "align" attribute on the "div" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/04_governance/index.html":283.1-283.92: error: Bad value "40%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/09_finale/index.html":50.1-50.74: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/09_finale/index.html":57.1-57.76: error: Bad value "60%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/09_finale/index.html":100.1-100.103: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/09_finale/index.html":101.1-101.88: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/05_marketing/index.html":56.1-56.20: error: The "align" attribute on the "div" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/05_marketing/index.html":57.1-57.70: error: Bad value "40%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/05_marketing/index.html":63.1-63.89: error: Bad value "50%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/05_marketing/index.html":74.1-74.20: error: The "align" attribute on the "div" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/05_marketing/index.html":75.1-75.81: error: Bad value "60%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/05_marketing/index.html":209.1-209.20: error: The "width" attribute on the "table" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/07_product/index.html":100.1-100.75: error: Bad value "100%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/08_project/index.html":52.1-52.20: error: The "align" attribute on the "div" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/08_project/index.html":53.1-53.73: error: Bad value "100%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/08_project/index.html":60.1-60.20: error: The "align" attribute on the "div" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/08_project/index.html":68.1-68.20: error: The "align" attribute on the "div" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/08_project/index.html":173.1-173.20: error: The "align" attribute on the "div" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":46.1-46.67: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":47.1-47.69: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":70.1-70.85: error: Bad value "40%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":79.1-79.71: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":80.1-80.69: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":81.1-81.67: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":102.1-102.65: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":103.1-103.65: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":112.1-112.65: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":128.1-128.69: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":158.1-158.60: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":168.25-168.32: error: The "strike" element is obsolete. Use CSS instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":208.1-208.65: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":243.1-243.67: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":244.1-244.75: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":272.1-272.70: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":283.1-283.75: error: Bad value "25%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":284.1-284.75: error: Bad value "25%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/02_mvp/index.html":285.1-285.73: error: Bad value "25%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":63.1-63.101: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":64.1-64.110: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":65.1-65.103: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":102.1-102.73: error: Bad value "40%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":133.1-133.101: error: Bad value "15%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":134.1-134.110: error: Bad value "15%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":135.1-135.103: error: Bad value "15%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":136.1-136.110: error: Bad value "15%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":137.1-137.105: error: Bad value "15%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":155.1-155.101: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":156.1-156.110: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":157.1-157.103: error: Bad value "20%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":195.1-195.70: error: Bad value "30%" for attribute "width" on element "img": Expected a digit but saw "%" instead.
+"file:/Users/gvwilson/tut/mrsp/docs/06_hr/index.html":287.5-287.20: error: Table columns in range 3…4 established by element "th" have no cells beginning in them.
+"file:/Users/gvwilson/tut/mrsp/docs/extras/evaluation.html":1.1-5.1: error: Non-space characters found without seeing a doctype first. Expected "<!DOCTYPE html>".
+"file:/Users/gvwilson/tut/mrsp/docs/extras/evaluation.html":1.1-5.1: error: Element "head" is missing a required instance of child element "title".
+"file:/Users/gvwilson/tut/mrsp/docs/extras/programmer-competency-matrix.html":1.1-6.2: error: Non-space characters found without seeing a doctype first. Expected "<!DOCTYPE html>".
+"file:/Users/gvwilson/tut/mrsp/docs/extras/programmer-competency-matrix.html":1.1-6.2: error: Element "head" is missing a required instance of child element "title".

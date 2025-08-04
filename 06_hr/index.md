@@ -197,7 +197,7 @@
 -   Structure makes difficult conversations less difficult
 
 <table>
-  <tr><th colspan="4">COIN</th></tr>
+  <tr><th colspan="2">COIN</th></tr>
   <tr><td>Context</td><td>What you want to discuss and why</td></tr>
   <tr><td>Observation</td><td>Specific, factual description of what happened</td></tr>
   <tr><td>Impact</td><td>How the issue affects others in the team</td></tr>

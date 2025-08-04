@@ -24,13 +24,13 @@
     imposing no restriction of any kind on its use.
 
 <span id="cc-by">CC-BY</span>
-:   The [Creative Commons](#cc) - Attribution License, which allows
+:   The [Creative Commons](g:cc) - Attribution License, which allows
     copying, derived works, and for-profit sale so long as the
     original source is acknowledged.
 
 <span id="cc-by-nc">CC-BY-NC</span>
-:   The [Creative Commons](#cc) - Attribution - NonCommercial License,
-    which allows everything [CC-BY](#cc-by) does except commercial use
+:   The [Creative Commons](g:cc) - Attribution - NonCommercial License,
+    which allows everything [CC-BY](g:cc-by) does except commercial use
     without the license holder's permission.
 
 <span id="chief-programmer">chief programmer</span>
@@ -55,7 +55,7 @@
 
 <span id="concept-map">concept map</span>
 :   A box-and-connector diagram of the major elements in someone's
-    [mental model](#mental-model) of something.
+    [mental model](g:mental-model) of something.
 
 <span id="ci">continuous integration</span>
 :   A system that merges and tests changes automatically as soon as
@@ -73,8 +73,8 @@
 
 <span id="design-by-contract">esign by contrac</span>
 :   A style of designing software in which functions specify the
-    [pre-conditions](#pre-condition) that must be true in order for
-    them to run and the [post-conditions](#post-condition) they
+    [pre-conditions](g:pre-condition) that must be true in order for
+    them to run and the [post-conditions](g:post-condition) they
     guarantee will be true when they return.
 
 <span id="design-pattern">esign patter</span>
@@ -169,7 +169,7 @@
 
 <span id="lpp">egitimate peripheral participatio</span>
 :   Doing small tasks that a [community of
-    practice](#community-of-practice) regards as valuable in order to
+    practice](g:community-of-practice) regards as valuable in order to
     gradually become a member of that community.
 
 <span id="logging">logging</span>
@@ -340,6 +340,6 @@
 <span id="yaml">YAML</span>
 :   Short for "YAML Ain't Markup Language", a way to represent nested
     data using indentation rather than the parentheses and commas of
-    [JSON](#json).  YAML is often used in configuration files and to
-    define parameters for various flavors of [Markdown](#markdown)
+    [JSON](g:json).  YAML is often used in configuration files and to
+    define parameters for various flavors of [Markdown](g:markdown)
     documents.
