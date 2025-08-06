@@ -38,7 +38,7 @@ SYNOPSIS
 ## Starting Point
 
 <div class="center">
-  <img src="@root/static/files/dvc.svg" alt="DVC"/>
+  <img src="@/static/files/dvc.svg" alt="DVC"/>
 </div>
 
 ## Taking Notes
@@ -54,7 +54,7 @@ SYNOPSIS
 ## Concept Map
 
 <div class="center">
-  <img src="@root/static/files/concept-map.svg" alt="Concept Map" width="100%"/>
+  <img src="@/static/files/concept-map.svg" alt="Concept Map" width="100%"/>
 </div>
 
 ## Requirements Discovery
@@ -98,7 +98,7 @@ SYNOPSIS
 
 <section class="exercise" markdown="1">
 
-## Comparing Mental Models
+### Comparing Mental Models
 
 1.  Draw a concept map for the thing you're working on.
     -    Half a dozen concepts

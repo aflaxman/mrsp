@@ -23,9 +23,9 @@
     -   Like designing and building telescopes in astronomy
 
 <div class="center">
-  <a href="https://yt-project.org/"><img src="@root/static/files/yt_logo.png" alt="yt Project Logo" width="20%" /></a>
-  <a href="https://mlr3.mlr-org.com/"><img src="@root/static/files/mlr.png" alt="mlr3 Project Logo" width="20%" /></a>
-  <a href="https://cellprofiler.org/"><img src="@root/static/files/cellprofiler.png" alt="CellProfiler Project Logo" width="20%" /></a>
+  <a href="https://yt-project.org/"><img src="@/static/files/yt_logo.png" alt="yt Project Logo" width="20%" /></a>
+  <a href="https://mlr3.mlr-org.com/"><img src="@/static/files/mlr.png" alt="mlr3 Project Logo" width="20%" /></a>
+  <a href="https://cellprofiler.org/"><img src="@/static/files/cellprofiler.png" alt="CellProfiler Project Logo" width="20%" /></a>
 </div>
 
 ## Meet Jess
@@ -36,7 +36,7 @@
     -   Which all need to be cleaned up and put in a consistent format
 
 <div class="center">
-  <img src="@root/static/files/jess.svg" alt="Jess Avatar" width="30%" /></a>
+  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="30%" /></a>
 </div>
 
 ## Three Years Ago…
@@ -47,7 +47,7 @@
 -   Knew enough HTML and CSS from a high school workshop to tweak their web page on the lab site
 
 <div class="center">
-  <a href="https://jupyter.org/"><img src="@root/static/files/jupyter.png" alt="Jupyter Project Logo" width="30%" /></a>
+  <a href="https://jupyter.org/"><img src="@/static/files/jupyter.png" alt="Jupyter Project Logo" width="30%" /></a>
 </div>
 
 ## Their Goals
@@ -59,7 +59,7 @@
     -   I.e., ten times larger than any program they've ever written
 
 <div class="center">
-  <img src="@root/static/files/note-important.svg" alt="note: important" width="40%" />
+  <img src="@/static/files/note-important.svg" alt="note: important" width="40%" />
 </div>
 
 ## The Journey So Far
@@ -75,8 +75,8 @@
         who's kind of cute
 
 <div class="center">
-  <img src="@root/static/files/jess.svg" alt="Jess Avatar" width="20%" /></a>
-  <img src="@root/static/files/savi.svg" alt="Savi Avatar" width="20%" /></a>
+  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="20%" /></a>
+  <img src="@/static/files/savi.svg" alt="Savi Avatar" width="20%" /></a>
 </div>
 
 ## The Journey So Far
@@ -87,8 +87,8 @@
     - No branching and no collaborators: just a backup tool
 
 <div class="center">
-  <a href="https://github.com/"><img src="@root/static/files/github.svg" alt="GitHub logo" width="20%" /></a>
-  <a href="https://www.gitkraken.com/"><img src="@root/static/files/git-kraken.svg" alt="Git Kraken logo" width="20%" /></a>
+  <a href="https://github.com/"><img src="@/static/files/github.svg" alt="GitHub logo" width="20%" /></a>
+  <a href="https://www.gitkraken.com/"><img src="@/static/files/git-kraken.svg" alt="Git Kraken logo" width="20%" /></a>
 </div>
 
 -   Managing other people isn't a problem yet
@@ -102,10 +102,10 @@
 -   …and I've been lucky enough to hang out with some very smart people
 
 <div class="center">
-  <img src="@root/static/files/beautiful-code.png" alt="Cover of 'Beautiful Code'" />
-  <img src="@root/static/files/making-software.jpg" alt="Cover of 'Making Software'" />
-  <img src="@root/static/files/aosa1.png" alt="Cover of 'Architecture of Open Source Applications (volume 1)'" />
-  <img src="@root/static/files/aosa2.png" alt="Cover of 'Architecture of Open Source Applications (volume 2)'" />
+  <img src="@/static/files/beautiful-code.png" alt="Cover of 'Beautiful Code'" />
+  <img src="@/static/files/making-software.jpg" alt="Cover of 'Making Software'" />
+  <img src="@/static/files/aosa1.png" alt="Cover of 'Architecture of Open Source Applications (volume 1)'" />
+  <img src="@/static/files/aosa2.png" alt="Cover of 'Architecture of Open Source Applications (volume 2)'" />
 </div>
 
 ## Acknowledgments
@@ -117,14 +117,14 @@
 -   And everyone cited in the bibliography
 
 <div class="center">
-  <img src="@root/static/files/producing-oss.jpg" alt="Cover of 'Producing Open Source Software'" width="20%"/>
-  <img src="@root/static/files/py-rse-cover.png" alt="Cover of 'Research Software Engineering with Python'" width="20%"/>
-  <img src="@root/static/files/sci-hub.jpg" alt="SciHub logo" width="20%"/>
+  <img src="@/static/files/producing-oss.jpg" alt="Cover of 'Producing Open Source Software'" width="20%"/>
+  <img src="@/static/files/py-rse-cover.png" alt="Cover of 'Research Software Engineering with Python'" width="20%"/>
+  <img src="@/static/files/sci-hub.jpg" alt="SciHub logo" width="20%"/>
 </div>
 
 <section class="exercise" markdown="1">
 
-## Where Are You Now?
+### Where Are You Now?
 
 1.  Who uses your software?
 1.  How do they find it?

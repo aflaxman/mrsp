@@ -12,7 +12,7 @@
 5.   How will people know?
 
 <div align="center">
-  <img src="@root/static/files/clipboard.svg" alt="Clipboard" width="40%" /></a>
+  <img src="@/static/files/clipboard.svg" alt="Clipboard" width="40%" /></a>
 </div>
 
 ## The Good News
@@ -20,7 +20,7 @@
 <div class="row">
   <div class="col-4">
     <p class="center">
-      <img src="@root/static/files/managers-path.jpg" alt="The Manager's Path cover" width="50%" />
+      <img src="@/static/files/managers-path.jpg" alt="The Manager's Path cover" width="50%" />
     </p>
   </div>
   <div class="col-8">
@@ -33,7 +33,7 @@
 </div>
 
 <div align="center">
-  <img src="@root/static/files/askamanager.png" alt="Ask a Manager logo" width="60%" />
+  <img src="@/static/files/askamanager.png" alt="Ask a Manager logo" width="60%" />
 </div>
 
 ## On Beyond Engineering
@@ -174,7 +174,7 @@ A made-up surrogate for part of your community
 
 <section class="exercise" markdown="1">
 
-## Personas and Pitches
+### Personas and Pitches
 
 Create personas and pitches for any two of the following
 

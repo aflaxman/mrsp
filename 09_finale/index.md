@@ -8,7 +8,7 @@
     -   But their promotion still depends on research paper publications
 
 <div class="center">
-  <img src="@root/static/files/jess-older.svg" alt="Jess (older)" width="30%"/>
+  <img src="@/static/files/jess-older.svg" alt="Jess (older)" width="30%"/>
 </div>
 
 ## Stay the Course
@@ -16,7 +16,7 @@
 -   Option 1: continue to suffer
 
 <div class="center">
-  <img src="@root/static/files/this-is-fine.jpg" alt="This is Fine" width="60%"/>
+  <img src="@/static/files/this-is-fine.jpg" alt="This is Fine" width="60%"/>
 </div>
 
 -   Surprising how many RSEs choose this
@@ -51,8 +51,8 @@
     -   ...but the alternative is the next generation of researchers having fewer options and opportunities
 
 <div class="center">
-  <img src="@root/static/files/bpco.jpg" alt="Building Powerful Community Organizations cover" width="20%" />
-  <img src="@root/static/files/fearless-change.jpg" alt="Fearless Change cover" width="20%" />
+  <img src="@/static/files/bpco.jpg" alt="Building Powerful Community Organizations cover" width="20%" />
+  <img src="@/static/files/fearless-change.jpg" alt="Fearless Change cover" width="20%" />
 </div>
 
 ## Option 4: Change the Game
@@ -169,12 +169,12 @@
         to engage in computational work?
 
 <div class="center">
-  <img src="@root/static/files/tech-worker-handbook.png" alt="Tech Worker Handbook logo"/>
+  <img src="@/static/files/tech-worker-handbook.png" alt="Tech Worker Handbook logo"/>
 </div>
 
 <section class="exercise" markdown="1">
 
-## Those Emails
+### Those Emails
 
 1.  Replace one of the questions on the previous slide with a better one.
 1.  Send those emails.

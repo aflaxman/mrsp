@@ -11,7 +11,7 @@
 -   It's all about timescales
 
 <div align="center">
-  <img src="@root/static/files/timescales.svg" alt="Timescales" width="100%"/>
+  <img src="@/static/files/timescales.svg" alt="Timescales" width="100%"/>
 </div>
 
 ## Analysis & Estimation
@@ -20,7 +20,7 @@
 -   Lots of discussion
 
 <div align="center">
-  <img src="@root/static/files/prioritization-creating.png" alt="Prioritization (creating)"/>
+  <img src="@/static/files/prioritization-creating.png" alt="Prioritization (creating)"/>
 </div>
 
 ## Analysis & Estimation
@@ -29,7 +29,7 @@
 -   Lots of discussion
 
 <div align="center">
-  <img src="@root/static/files/prioritization-using.png" alt="Prioritization (using)"/>
+  <img src="@/static/files/prioritization-using.png" alt="Prioritization (using)"/>
 </div>
 
 ## Status Updates
@@ -135,7 +135,7 @@
 -   How long did it take?
 
 <div align="center">
-  <img src="@root/static/files/productivity.svg" alt="Programmer productivity measures from Prechelt"/>
+  <img src="@/static/files/productivity.svg" alt="Programmer productivity measures from Prechelt"/>
 </div>
 
 ## Productivity
@@ -171,7 +171,7 @@
 
 <section class="exercise" markdown="1">
 
-## In Progress
+### In Progress
 
 1.  What do you expect each of your colleagues to deliver this week?
 1.  What do *they* expect *you* to deliver?

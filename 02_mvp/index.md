@@ -6,8 +6,8 @@
 -   Wants to use the existing data and clean up some more
 
 <div class="center">
-  <img src="@root/static/files/jess.svg" alt="Jess Avatar" width="20%" /></a>
-  <img src="@root/static/files/tahia.svg" alt="Tahia Avatar" width="20%" /></a>
+  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="20%" /></a>
+  <img src="@/static/files/tahia.svg" alt="Tahia Avatar" width="20%" /></a>
 </div>
 
 -   Jess divides the code between two repositories
@@ -26,7 +26,7 @@
     -   And including links to questions and answers in code and commits
 
 <div class="center">
-  <img src="@root/static/files/stack-overflow.png" alt="Stack Overflow logo" width="40%" /></a>
+  <img src="@/static/files/stack-overflow.png" alt="Stack Overflow logo" width="40%" /></a>
 </div>
 
 ## Sharing Data as Files
@@ -36,9 +36,9 @@
 -   Require everyone in the lab to get an [ORCID][orcid]
 
 <div class="center">
-  <img src="@root/static/files/dryad.png" alt="DataDryad logo" width="30%" /></a>
-  <img src="@root/static/files/zenodo.png" alt="Zenodo logo" width="30%" /></a>
-  <img src="@root/static/files/orcid.svg" alt="ORCID logo" width="30%" /></a>
+  <img src="@/static/files/dryad.png" alt="DataDryad logo" width="30%" /></a>
+  <img src="@/static/files/zenodo.png" alt="Zenodo logo" width="30%" /></a>
+  <img src="@/static/files/orcid.svg" alt="ORCID logo" width="30%" /></a>
 </div>
 
 ## Sharing Data as Packages
@@ -57,8 +57,8 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
     -   Using tools they have to learn anyway
 
 <div class="center">
-  <img src="@root/static/files/cran.png" alt="CRAN logo" width="20%" /></a>
-  <img src="@root/static/files/pypi.svg" alt="PyPI logo" width="20%" /></a>
+  <img src="@/static/files/cran.png" alt="CRAN logo" width="20%" /></a>
+  <img src="@/static/files/pypi.svg" alt="PyPI logo" width="20%" /></a>
 </div>
 
 ## Regression
@@ -68,7 +68,7 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
 -   …but breaks processing of some other file
 
 <div class="center">
-  <img src="@root/static/files/ren.svg" alt="Ren Avatar" width="30%" /></a>
+  <img src="@/static/files/ren.svg" alt="Ren Avatar" width="30%" /></a>
 </div>
 
 -   Don't be Ren
@@ -82,7 +82,7 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
 -   *Testing accelerates development*
 
 <div class="center">
-  <img src="@root/static/files/pytest.png" alt="pytest logo" width="20%" /></a>
+  <img src="@/static/files/pytest.png" alt="pytest logo" width="20%" /></a>
 </div>
 
 ## Where Do Tests Come From?
@@ -105,7 +105,7 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
 -   So Jess refactors the code so that parts aren't as tightly coupled
 
 <div class="center">
-  <img src="@root/static/files/maze.svg" alt="maze" width="30%" /></a>
+  <img src="@/static/files/maze.svg" alt="maze" width="30%" /></a>
 </div>
 
 ## Taschuk's Rules
@@ -140,7 +140,7 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
     -   Hosted on [GitHub Pages][github-pages]
 
 <div class="center">
-  <img src="@root/static/files/hugo.svg" alt="Hugo logo" width="20%" /></a>
+  <img src="@/static/files/hugo.svg" alt="Hugo logo" width="20%" /></a>
 </div>
 
 ## …And Then It Happens
@@ -166,8 +166,8 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
     -   Eventually agree they're already being interrupted too often
 
 <div class="center">
-  <img src="@root/static/files/slack.svg" alt="Slack logo" width="20%" /></a>
-  <img src="@root/static/files/discourse.svg" alt="Discourse logo" width="20%" /></a>
+  <img src="@/static/files/slack.svg" alt="Slack logo" width="20%" /></a>
+  <img src="@/static/files/discourse.svg" alt="Discourse logo" width="20%" /></a>
 </div>
 
 -   List is moderated
@@ -189,7 +189,7 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
     -   Copy and paste into an issue each time the task needs to be done
 
 <div class="center">
-  <img src="@root/static/files/checklist.svg" alt="Checklist" width="30%"/>
+  <img src="@/static/files/checklist.svg" alt="Checklist" width="30%"/>
 </div>
 
 ## Passwords
@@ -199,9 +199,9 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
     -   And gives them a bit of protection from the disgruntled ex-contributor
 
 <div class="center">
-  <img src="@root/static/files/bitwarden.svg" alt="BitWarden logo" width="25%"/>
-  <img src="@root/static/files/1password.svg" alt="1password logo" width="25%"/>
-  <img src="@root/static/files/lastpass.svg" alt="LastPass logo" width="25%"/>
+  <img src="@/static/files/bitwarden.svg" alt="BitWarden logo" width="25%"/>
+  <img src="@/static/files/1password.svg" alt="1password logo" width="25%"/>
+  <img src="@/static/files/lastpass.svg" alt="LastPass logo" width="25%"/>
 </div>
 
 > Please see [[Smalls2021](g:Smalls2021)] for other steps you should take <em>right now</em>.
@@ -255,7 +255,7 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
 
 <section class="exercise" markdown="1">
 
-## The Hertweck Test
+### The Hertweck Test
 
 Score your project from 0 to 10:
 
@@ -277,7 +277,7 @@ Score your project from 0 to 10:
 
 <section class="exercise" markdown="1">
 
-## Roles and Responsibilities
+### Roles and Responsibilities
 
 1.  List things people do to keep your project going in Column A.
 1.  List people who contribute to the project in Column B.
@@ -287,7 +287,7 @@ Score your project from 0 to 10:
 
 <section class="exercise" markdown="1">
 
-## Checklist
+### Checklist
 
 1.  Read through these checklists.
 1.  What do you not do?

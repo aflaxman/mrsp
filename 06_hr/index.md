@@ -2,7 +2,7 @@
 
 ## Hiring
 
--   Different from <a href="@root/newcomers/">recruiting new contributors</a>
+-   Different from <a href="@/newcomers/">recruiting new contributors</a>
     -   Though what you do once someone is hired may be very similar
 -   People do lots of simple things wrong <cite>Behroozi2020</cite>
 -   Ask Human Resources for mentoring
@@ -17,9 +17,9 @@
     -   Even if you've gone through this before, rules can change
 
 <div class="center">
-  <img src="@root/static/files/jess.svg" alt="Jess Avatar" width="20%" style="vertical-align: text-top;"/>
-  <img src="@root/static/files/conversation.svg" alt="Conversation" width="20%" style="vertical-align: text-top;"/>
-  <img src="@root/static/files/aaron.svg" alt="Aaron Avatar" width="20%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="20%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/conversation.svg" alt="Conversation" width="20%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/aaron.svg" alt="Aaron Avatar" width="20%" style="vertical-align: text-top;"/>
 </div>
 
 ## 2. Contact
@@ -30,7 +30,7 @@
     -   Do they actually have the right skills for this job?
 
 <div class="center">
-  <p><em>Please <a href="@root/hr/programmer-competency-matrix/">explain your classification</a>.</em></p>
+  <p><em>Please <a href="@/hr/programmer-competency-matrix/">explain your classification</a>.</em></p>
 </div>
 
 -   Responsiveness
@@ -49,7 +49,7 @@
 -   [Canonical][canonical-hiring] is not
 
 <div class="center">
-  <img src="@root/static/files/calendly.jpg" alt="Calendly logo" width="40%"/>
+  <img src="@/static/files/calendly.jpg" alt="Calendly logo" width="40%"/>
 </div>
 
 ## 4. Interviews
@@ -73,11 +73,11 @@
 -   Let Human Resources handle this
 
 <div class="center">
-  <img src="@root/static/files/jess.svg" alt="Jess Avatar" width="15%" style="vertical-align: text-top;"/>
-  <img src="@root/static/files/conversation.svg" alt="Conversation" width="15%" style="vertical-align: text-top;"/>
-  <img src="@root/static/files/aaron.svg" alt="Aaron Avatar" width="15%" style="vertical-align: text-top;"/>
-  <img src="@root/static/files/conversation.svg" alt="Conversation" width="15%" style="vertical-align: text-top;"/>
-  <img src="@root/static/files/silvia.svg" alt="Silvia Avatar" width="15%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="15%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/conversation.svg" alt="Conversation" width="15%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/aaron.svg" alt="Aaron Avatar" width="15%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/conversation.svg" alt="Conversation" width="15%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/silvia.svg" alt="Silvia Avatar" width="15%" style="vertical-align: text-top;"/>
 </div>
 
 -   You *did* publish a salary band, right?
@@ -95,14 +95,14 @@
 -   Again, talk to someone in Human Resources before doing anything else
 
 <div class="center">
-  <img src="@root/static/files/jess.svg" alt="Jess Avatar" width="20%" style="vertical-align: text-top;"/>
-  <img src="@root/static/files/conversation.svg" alt="Conversation" width="20%" style="vertical-align: text-top;"/>
-  <img src="@root/static/files/aaron.svg" alt="Aaron Avatar" width="20%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="20%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/conversation.svg" alt="Conversation" width="20%" style="vertical-align: text-top;"/>
+  <img src="@/static/files/aaron.svg" alt="Aaron Avatar" width="20%" style="vertical-align: text-top;"/>
 </div>
 
 ## 1. "Legal" Requirements
 
--   <a href="@root/governance/">Governance</a> of every well-run open project spells out:
+-   <a href="@/governance/">Governance</a> of every well-run open project spells out:
     -   Criteria for being a project member
     -   Who gets to decide when that privilege is revoked
 -   *You can't wait until you need these to write them*
@@ -126,7 +126,7 @@
     -   Which helps keep roles and responsibilities up to date
 
 <div class="center">
-  <img src="@root/static/files/checklist.svg" alt="Checklist" width="30%"/>
+  <img src="@/static/files/checklist.svg" alt="Checklist" width="30%"/>
 </div>
 
 ## 3. Create a Transition Plan
@@ -212,7 +212,7 @@
 
 <section class="exercise" markdown="1">
 
-## Career Development
+### Career Development
 
 1.  Where do you want to be in two years?
 1.  What are you doing now to help you get there?
@@ -223,9 +223,9 @@
 
 <section class="exercise" markdown="1">
 
-## Team Evaluation
+### Team Evaluation
 
-Look over this <a href="@root/hr/evaluation/">teamwork evaluation rubric</a>.
+Look over this <a href="@/hr/evaluation/">teamwork evaluation rubric</a>.
 
 1.  What five questions would you put in a section titled "Technical Skills"?
 1.  Which five question would you remove from other sections to make room for these?

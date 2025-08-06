@@ -50,7 +50,7 @@ A community of practice [[Wenger1999](b:Wenger1999)]:
     -   Good connections
     -   Lots of free time
     -   Lots of self-confidence
--   We'll [come back to this](@root/governance/)
+-   We'll [come back to this](@/governance/)
 
 ## Document on Demand
 
@@ -131,7 +131,7 @@ Legitimate peripheral participation:
 
 <section class="exercise" markdown="1">
 
-## Fresh Eyes
+### Fresh Eyes
 
 1.  Swap contribution guidelines with another workshop participant.
     What *can't* you find out in the first 5 minutes?

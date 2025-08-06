@@ -11,7 +11,7 @@
 
 ## Governance Models
 
--   <https://communityrule.info/> describes [lots of options](@root/files/gov-booklet-MASTER.pdf)
+-   <https://communityrule.info/> describes [lots of options](@/files/gov-booklet-MASTER.pdf)
 -   Benevolent dictator (often the project founder)
     -   Common in young projects
     -   Brittle: founder can move on
@@ -69,7 +69,7 @@
 -   The meeting may not discuss or vote on a proposal unless its sponsor is present
 
 <div align="center">
-  <img src="@root/static/files/meeting.svg" alt="Meeting" width="40%" /></a>
+  <img src="@/static/files/meeting.svg" alt="Meeting" width="40%" /></a>
 </div>
 
 ## Presenting a Proposal
@@ -144,7 +144,7 @@
 
 <div class="row">
   <div class="col-4">
-    <img src="@root/static/files/noaa-ddb.png" alt="Dealing with Difficult Behavior" width="80%" />
+    <img src="@/static/files/noaa-ddb.png" alt="Dealing with Difficult Behavior" width="80%" />
   </div>
   <div class="col-8">
     <ul>
@@ -190,12 +190,12 @@
 -   [[Brookfield2016](b:Brookfield2016)] has a lot of good ideas for managing discussion
 
 <div align="center">
-  <img src="@root/static/files/discussion-book.jpg" alt="The Discussion Book cover" width="40%" /></a>
+  <img src="@/static/files/discussion-book.jpg" alt="The Discussion Book cover" width="40%" /></a>
 </div>
 
 <section class="exercise" markdown="1">
 
-## Who Decides?
+### Who Decides?
 
 1. Who gets a vote in your group?
 1. How are new people added to that pool?
