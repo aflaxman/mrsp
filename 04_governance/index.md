@@ -68,10 +68,6 @@
     -   A rule about when and how someone stops being a member
 -   The meeting may not discuss or vote on a proposal unless its sponsor is present
 
-<div align="center">
-  <img src="@/static/files/meeting.svg" alt="Meeting" width="40%" /></a>
-</div>
-
 ## Presenting a Proposal
 
 -   The sponsor presents the proposal
@@ -142,18 +138,9 @@
 
 ## 7. Manage "That Guy"
 
-<div class="row">
-  <div class="col-4">
-    <img src="@/static/files/noaa-ddb.png" alt="Dealing with Difficult Behavior" width="80%" />
-  </div>
-  <div class="col-8">
-    <ul>
-      <li>Three stickies</li>
-      <li>Interruption bingo</li>
-      <li><a href="https://coast.noaa.gov/ddb/">https://coast.noaa.gov/ddb/</a></li>
-    </ul>
-  </div>
-</div>
+-   Three stickies
+-   Interruption bingo
+-   <a href="https://coast.noaa.gov/ddb/">https://coast.noaa.gov/ddb/</a>
 
 ## 8. Be an Active Participant
 
@@ -188,10 +175,6 @@
 ## Recommended reading
 
 -   [[Brookfield2016](b:Brookfield2016)] has a lot of good ideas for managing discussion
-
-<div align="center">
-  <img src="@/static/files/discussion-book.jpg" alt="The Discussion Book cover" width="40%" /></a>
-</div>
 
 <section class="exercise" markdown="1">
 

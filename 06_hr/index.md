@@ -16,26 +16,17 @@
 -   Jess talks to Aaron in Human Resources *before doing anything else*
     -   Even if you've gone through this before, rules can change
 
-<div class="center">
-  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="20%" style="vertical-align: text-top;"/>
-  <img src="@/static/files/conversation.svg" alt="Conversation" width="20%" style="vertical-align: text-top;"/>
-  <img src="@/static/files/aaron.svg" alt="Aaron Avatar" width="20%" style="vertical-align: text-top;"/>
-</div>
-
 ## 2. Contact
 
 -   Pay attention to details
     -   Do they have or need work authorization?
     -   Are they willing to relocate?
     -   Do they actually have the right skills for this job?
-
-<div class="center">
-  <p><em>Please <a href="@/hr/programmer-competency-matrix/">explain your classification</a>.</em></p>
-</div>
-
 -   Responsiveness
     -   Acknowledge all communication
     -   Give them timelines (and updates when timelines change)
+
+> Please [explain your classification](@/extras/programmer-competency-matrix/)
 
 ## 3. Preparation
 
@@ -45,12 +36,6 @@
     -   If you have to reschedule twice, you're telling them you don't want them
 -   Hiring criteria
     -   Describe the process and the kinds of questions they'll be asked
--   [Automattic][automattic-hiring] is a good model
--   [Canonical][canonical-hiring] is not
-
-<div class="center">
-  <img src="@/static/files/calendly.jpg" alt="Calendly logo" width="40%"/>
-</div>
 
 ## 4. Interviews
 
@@ -71,15 +56,6 @@
 ## 6. Offer and negotiation
 
 -   Let Human Resources handle this
-
-<div class="center">
-  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="15%" style="vertical-align: text-top;"/>
-  <img src="@/static/files/conversation.svg" alt="Conversation" width="15%" style="vertical-align: text-top;"/>
-  <img src="@/static/files/aaron.svg" alt="Aaron Avatar" width="15%" style="vertical-align: text-top;"/>
-  <img src="@/static/files/conversation.svg" alt="Conversation" width="15%" style="vertical-align: text-top;"/>
-  <img src="@/static/files/silvia.svg" alt="Silvia Avatar" width="15%" style="vertical-align: text-top;"/>
-</div>
-
 -   You *did* publish a salary band, right?
 
 ## Firing
@@ -93,12 +69,6 @@
 
 -   Every jurisdiction has rules about firing people, too
 -   Again, talk to someone in Human Resources before doing anything else
-
-<div class="center">
-  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="20%" style="vertical-align: text-top;"/>
-  <img src="@/static/files/conversation.svg" alt="Conversation" width="20%" style="vertical-align: text-top;"/>
-  <img src="@/static/files/aaron.svg" alt="Aaron Avatar" width="20%" style="vertical-align: text-top;"/>
-</div>
 
 ## 1. "Legal" Requirements
 
@@ -124,10 +94,6 @@
 -   Suddenly asking someone to document their work is a give-away
 -   Better to ask everyone to do it all the time
     -   Which helps keep roles and responsibilities up to date
-
-<div class="center">
-  <img src="@/static/files/checklist.svg" alt="Checklist" width="30%"/>
-</div>
 
 ## 3. Create a Transition Plan
 
@@ -232,6 +198,4 @@ Look over this <a href="@/hr/evaluation/">teamwork evaluation rubric</a>.
 
 </section>
 
-[automattic-hiring]: https://automattic.com/work-with-us/how-we-hire-developers/
 [calendly]: https://calendly.com/
-[canonical-hiring]: https://third-bit.com/2021/09/13/iq-and-personality-tests/

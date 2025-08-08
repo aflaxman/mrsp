@@ -33,7 +33,6 @@ SYNOPSIS
 -   So they designed a simpler interface
 -   But online documentation had too powerful gravitational pull [[PerezDeRosso2016](b:PerezDeRosso2016)]
 -   In practice, retiring features is nearly impossible
-    -   Python 3 is now 14 years old…
 
 ## Starting Point
 
@@ -62,7 +61,7 @@ SYNOPSIS
 -   User: "I want to be able to add notes to my data"
 -   Product Manager:
     -   "What kind of notes?"
-    -   <span style="background-color: yellow;">"Are they shared with other people?"</span>
+    -   <span class="highlight">"Are they shared with other people?"</span>
     -   "Can you search for notes?"
     -   "Can you change them?"
     -   "If so, can you look at old notes?"
@@ -72,7 +71,7 @@ SYNOPSIS
 -   User: "I want to be able to add notes to my data"
 -   Product Manager:
     -   "What kind of notes?"
-    -   <span style="background-color: yellow;">"Are they shared with other people?"</span>
+    -   <span class="highlight">"Are they shared with other people?"</span>
     -   "Can you search for notes?"
     -   "Can you change them?"
     -   "If so, can you look at old notes?"
@@ -89,7 +88,6 @@ SYNOPSIS
     -   Add a file of notes in the cloud
     -   Add a single line to the <code>.dvc</code> file pointing at the shared notes
     -   Mumble mumble versioning
-
 -   *Not the product manager's responsibility*
 -   Developers are responsible for implementation
 -   But:

@@ -4,12 +4,6 @@
 
 -   Tahia joins the lab
 -   Wants to use the existing data and clean up some more
-
-<div class="center">
-  <img src="@/static/files/jess.svg" alt="Jess Avatar" width="20%" /></a>
-  <img src="@/static/files/tahia.svg" alt="Tahia Avatar" width="20%" /></a>
-</div>
-
 -   Jess divides the code between two repositories
   - One for data and data cleaning
   - The other for the simulation
@@ -25,21 +19,11 @@
 -   Starts posting questions for the first time
     -   And including links to questions and answers in code and commits
 
-<div class="center">
-  <img src="@/static/files/stack-overflow.png" alt="Stack Overflow logo" width="40%" /></a>
-</div>
-
 ## Sharing Data as Files
 
 -   Tahia and Jess decide to put data on [DataDryad][datadryad]
 -   Get a DOI for every dataset from [Zenodo][zenodo]
 -   Require everyone in the lab to get an [ORCID][orcid]
-
-<div class="center">
-  <img src="@/static/files/dryad.png" alt="DataDryad logo" width="30%" /></a>
-  <img src="@/static/files/zenodo.png" alt="Zenodo logo" width="30%" /></a>
-  <img src="@/static/files/orcid.svg" alt="ORCID logo" width="30%" /></a>
-</div>
 
 ## Sharing Data as Packages
 
@@ -56,20 +40,11 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
     -   With the code that manipulates it
     -   Using tools they have to learn anyway
 
-<div class="center">
-  <img src="@/static/files/cran.png" alt="CRAN logo" width="20%" /></a>
-  <img src="@/static/files/pypi.svg" alt="PyPI logo" width="20%" /></a>
-</div>
-
 ## Regression
 
 -   Jess's supervisor takes on an undergraduate intern named Ren to help with data cleaning
 -   Every change Ren makes works for the file he's looking at…
 -   …but breaks processing of some other file
-
-<div class="center">
-  <img src="@/static/files/ren.svg" alt="Ren Avatar" width="30%" /></a>
-</div>
 
 -   Don't be Ren
 
@@ -80,10 +55,6 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
     -   Test that the software reads and fixes the ones it's supposed to
     -   And that it actually fails when it's supposed to
 -   *Testing accelerates development*
-
-<div class="center">
-  <img src="@/static/files/pytest.png" alt="pytest logo" width="20%" /></a>
-</div>
 
 ## Where Do Tests Come From?
 
@@ -103,10 +74,6 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
 -   Both are signs that the code isn't modular
     -   And will be hard to fix or extend in future
 -   So Jess refactors the code so that parts aren't as tightly coupled
-
-<div class="center">
-  <img src="@/static/files/maze.svg" alt="maze" width="30%" /></a>
-</div>
 
 ## Taschuk's Rules
 
@@ -139,10 +106,6 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
     -   Eventually settles on [Hugo][hugo]
     -   Hosted on [GitHub Pages][github-pages]
 
-<div class="center">
-  <img src="@/static/files/hugo.svg" alt="Hugo logo" width="20%" /></a>
-</div>
-
 ## …And Then It Happens
 
 -   Jess completes their PhD and starts working at a government lab rewriting their simulation
@@ -164,12 +127,6 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
 -   Create a mailing list for discussion
     -   Debate using Slack and Discourse
     -   Eventually agree they're already being interrupted too often
-
-<div class="center">
-  <img src="@/static/files/slack.svg" alt="Slack logo" width="20%" /></a>
-  <img src="@/static/files/discourse.svg" alt="Discourse logo" width="20%" /></a>
-</div>
-
 -   List is moderated
     -   0.1% of Reddit users generate 38% of attacks on others
     -   1% accounts for 74% of attacks <cite>Kumar2018</cite>
@@ -188,23 +145,13 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
 -   Each one is a Markdown file in the project's Git repository
     -   Copy and paste into an issue each time the task needs to be done
 
-<div class="center">
-  <img src="@/static/files/checklist.svg" alt="Checklist" width="30%"/>
-</div>
-
 ## Passwords
 
 -   Also starts using a password manager
     -   Allows them to share credentials with Tahia
     -   And gives them a bit of protection from the disgruntled ex-contributor
 
-<div class="center">
-  <img src="@/static/files/bitwarden.svg" alt="BitWarden logo" width="25%"/>
-  <img src="@/static/files/1password.svg" alt="1password logo" width="25%"/>
-  <img src="@/static/files/lastpass.svg" alt="LastPass logo" width="25%"/>
-</div>
-
-> Please see [[Smalls2021](g:Smalls2021)] for other steps you should take <em>right now</em>.
+> Please see [[Smalls2021](b:Smalls2021)] for other steps you should take
 
 ## Roles and Responsibilities
 

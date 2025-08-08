@@ -11,30 +11,11 @@
 4.   Who's going to do the work?
 5.   How will people know?
 
-<div align="center">
-  <img src="@/static/files/clipboard.svg" alt="Clipboard" width="40%" /></a>
-</div>
-
 ## The Good News
 
-<div class="row">
-  <div class="col-4">
-    <p class="center">
-      <img src="@/static/files/managers-path.jpg" alt="The Manager's Path cover" width="50%" />
-    </p>
-  </div>
-  <div class="col-8">
-    <ul>
-      <li>You don't have to invent this yourself</li>
-      <li>[[Fournier2017](b:Fournier2017)]</li>
-      <li><a href="https://www.askamanager.org/">https://www.askamanager.org/</a></li>
-    </ul>
-  </div>
-</div>
-
-<div align="center">
-  <img src="@/static/files/askamanager.png" alt="Ask a Manager logo" width="60%" />
-</div>
+-   You don't have to invent this yourself
+-   [[Fournier2017](b:Fournier2017)]
+-   <a href="https://www.askamanager.org/">https://www.askamanager.org/</a>
 
 ## On Beyond Engineering
 
@@ -163,7 +144,7 @@ A made-up surrogate for part of your community
 
 ## Crafting Your Message
 
-<table width="100%">
+<table>
   <tr><td>For</td><td>post-docs, junior faculty, and industry equivalents</td></tr>
   <tr><td>who want</td><td>to manage research software projects,</td></tr>
   <tr><td>this&nbsp;workshop</td><td></td></tr>

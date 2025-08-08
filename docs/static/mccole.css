@@ -196,9 +196,13 @@ pre {
     padding: var(--len-half);
 }
 
+/* Highlights */
+span.highlight {
+    background-color: var(--color-highlight);
+}
+
 /* Table */
 table {
-  text-align: justify;
   width: 100%;
   border-collapse: collapse;
 }
@@ -206,6 +210,8 @@ table {
 td, th {
   padding: var(--len-half);
   border: solid var(--len-thin) var(--color-decorate);
+  vertical-align: top;
+  text-align: left;
 }
 
 tr:hover {

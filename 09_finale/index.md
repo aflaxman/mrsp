@@ -7,18 +7,9 @@
     -   Simulator has almost a thousand users worldwide, many in agriculture and local government
     -   But their promotion still depends on research paper publications
 
-<div class="center">
-  <img src="@/static/files/jess-older.svg" alt="Jess (older)" width="30%"/>
-</div>
-
 ## Stay the Course
 
 -   Option 1: continue to suffer
-
-<div class="center">
-  <img src="@/static/files/this-is-fine.jpg" alt="This is Fine" width="60%"/>
-</div>
-
 -   Surprising how many RSEs choose this
 
 ## Option 2: Raise More Funding
@@ -49,11 +40,6 @@
     -   Spend the social capital they've earned to run for a position in their professional body
 -   Yes, it means more committees and less time doing research...
     -   ...but the alternative is the next generation of researchers having fewer options and opportunities
-
-<div class="center">
-  <img src="@/static/files/bpco.jpg" alt="Building Powerful Community Organizations cover" width="20%" />
-  <img src="@/static/files/fearless-change.jpg" alt="Fearless Change cover" width="20%" />
-</div>
 
 ## Option 4: Change the Game
 
@@ -167,10 +153,6 @@
     1.  What specific curriculum guideline changes will you recommend
         to ensure that the next generation of researchers are properly prepared
         to engage in computational work?
-
-<div class="center">
-  <img src="@/static/files/tech-worker-handbook.png" alt="Tech Worker Handbook logo"/>
-</div>
 
 <section class="exercise" markdown="1">
 

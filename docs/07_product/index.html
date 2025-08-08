@@ -78,10 +78,7 @@ SYNOPSIS
     were significantly different from how it actually works</li>
 <li>So they designed a simpler interface</li>
 <li>But online documentation had too powerful gravitational pull [<a href="../bibliography/#PerezDeRosso2016">PerezDeRosso2016</a>]</li>
-<li>In practice, retiring features is nearly impossible<ul>
-<li>Python 3 is now 14 years old…</li>
-</ul>
-</li>
+<li>In practice, retiring features is nearly impossible</li>
 </ul>
 <h2>Starting Point</h2>
 <div class="center">
@@ -108,7 +105,7 @@ SYNOPSIS
 <li>User: "I want to be able to add notes to my data"</li>
 <li>Product Manager:<ul>
 <li>"What kind of notes?"</li>
-<li><span style="background-color: yellow;">"Are they shared with other people?"</span></li>
+<li><span class="highlight">"Are they shared with other people?"</span></li>
 <li>"Can you search for notes?"</li>
 <li>"Can you change them?"</li>
 <li>"If so, can you look at old notes?"</li>
@@ -120,7 +117,7 @@ SYNOPSIS
 <li>User: "I want to be able to add notes to my data"</li>
 <li>Product Manager:<ul>
 <li>"What kind of notes?"</li>
-<li><span style="background-color: yellow;">"Are they shared with other people?"</span></li>
+<li><span class="highlight">"Are they shared with other people?"</span></li>
 <li>"Can you search for notes?"</li>
 <li>"Can you change them?"</li>
 <li>"If so, can you look at old notes?"</li>
@@ -137,17 +134,13 @@ SYNOPSIS
 <h2>Division of Responsibilities</h2>
 <ul>
 <li>If they <em>aren't</em> shared, add data to <code>.dvc</code> file on user's computer</li>
-<li>
-<p>If they <em>are</em> shared:</p>
-<ul>
+<li>If they <em>are</em> shared:<ul>
 <li>Add a file of notes in the cloud</li>
 <li>Add a single line to the <code>.dvc</code> file pointing at the shared notes</li>
 <li>Mumble mumble versioning</li>
 </ul>
 </li>
-<li>
-<p><em>Not the product manager's responsibility</em></p>
-</li>
+<li><em>Not the product manager's responsibility</em></li>
 <li>Developers are responsible for implementation</li>
 <li>But:<ul>
 <li>There has to be conversation to identify this as the key question</li>

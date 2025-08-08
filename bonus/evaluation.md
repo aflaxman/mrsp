@@ -1,13 +1,8 @@
----
-template: page
-title: Teamwork Evaluation
----
+# Teamwork Evaluation
 
-<p>
-  This rubric is designed to assess individual performance within a team.
-  You can use it as a starting point for creating a rubric of your own.
-  Rate each item as "Yes," "Iffy," "No," or "Not Applicable."
-</p>
+This rubric is designed to assess individual performance within a team.
+You can use it as a starting point for creating a rubric of your own.
+Rate each item as "Yes," "Iffy," "No," or "Not Applicable."
 
 <table>
 <tr><td> Communication </td><td> Listens attentively to others without interrupting </td></tr>
