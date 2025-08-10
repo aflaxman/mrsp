@@ -75,9 +75,13 @@
 -   Who has the power to make the change?
 -   What do they care about?
 
-> Your neighbors don't make policy for your local public school:
-> school board trustees do,
-> so that's who you need to influence.
+<div class="callout" markdown="1">
+
+Your neighbors don't make policy for your local public school:
+school board trustees do,
+so that's who you need to influence.
+
+</div>
 
 -   Help someone who wants the same change as you get elected
 -   Help someone who doesn't oppose your change in exchange for support for your cause

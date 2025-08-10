@@ -7,10 +7,10 @@
 > of the problem being solved and work that needs to be done.
 >
 > — Lorin Hochstein
-
+>
 > In this house we call them "project managers".
 >
-> — Greg Wilson
+> — Greg Wilson
 
 ## Research Software
 

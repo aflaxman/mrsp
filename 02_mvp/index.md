@@ -150,8 +150,7 @@ pip install git+ssh://git@github.com/gvwilson/nitinat
 -   Also starts using a password manager
     -   Allows them to share credentials with Tahia
     -   And gives them a bit of protection from the disgruntled ex-contributor
-
-> Please see [[Smalls2021](b:Smalls2021)] for other steps you should take
+-   Please see [[Smalls2021](b:Smalls2021)] for other steps you should take.
 
 ## Roles and Responsibilities
 

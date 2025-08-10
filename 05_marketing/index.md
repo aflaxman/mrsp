@@ -94,9 +94,13 @@
 
 ## Marketing
 
-> Making sure that the people who ought to know
-> how you can make their lives better
-> actually do know.
+<div class="callout" markdown="1">
+
+Making sure that the people who ought to know
+how you can make their lives better
+actually do know.
+
+</div>
 
 -   If what you offer isn't actually useful, this relies on psychological tricks
     -   Manufacturing desire
@@ -123,13 +127,17 @@
 
 A made-up surrogate for part of your community
 
-> Dalha, 58, is a professor in geophysics and the Dean of Science at Euphoric State University.
-> She is evaluated annually on (a) how many high-citation publications faculty produce,
-> (b) whether research funding is increasing year-on-year, and
-> (c) how many of the university's PhD graduates are offered tenure-stream positions at top-10 schools.
-> Dalha is passionate about getting more young women into STEM,
-> and worried by the number of faculty and grad students
-> who are leaving the university for industry.
+<div class="callout" markdown="1">
+
+Dalha, 58, is a professor in geophysics and the Dean of Science at Euphoric State University.
+She is evaluated annually on (a) how many high-citation publications faculty produce,
+(b) whether research funding is increasing year-on-year, and
+(c) how many of the university's PhD graduates are offered tenure-stream positions at top-10 schools.
+Dalha is passionate about getting more young women into STEM,
+and worried by the number of faculty and grad students
+who are leaving the university for industry.
+
+</div>
 
 ## Crafting Your Message
 

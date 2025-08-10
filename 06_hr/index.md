@@ -26,7 +26,11 @@
     -   Acknowledge all communication
     -   Give them timelines (and updates when timelines change)
 
-> Please [explain your classification](@/extras/programmer-competency-matrix/)
+<div class="callout" markdown="1">
+
+Please [explain your classification](@/extras/programmer-competency-matrix/)
+
+</div>
 
 ## 3. Preparation
 
