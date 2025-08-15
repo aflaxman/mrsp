@@ -248,7 +248,6 @@ Score your project from 0 to 10:
 [datadryad]: https://datadryad.org/
 [flake8]: https://flake8.pycqa.org/
 [github-pages]: https://pages.github.com/
-[handover]: https://third-bit.com/rules/#handing-over-and-moving-on
 [hugo]: https://gohugo.io/
 [isort]: https://pycqa.github.io/
 [jamstack]: https://jamstack.org/generators/

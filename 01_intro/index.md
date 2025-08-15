@@ -91,4 +91,3 @@
 [jupyter]: https://jupyter.org/
 [mit-license]: https://opensource.org/licenses/MIT
 [noble-rules]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
-[sci-hub]: https://sci-hub.se/
