@@ -61,6 +61,13 @@ and how to manage both staff and external contributors.
     He was the co-founder and first Executive Director of Software Carpentry
     and received ACM SIGSOFT's Influential Educator Award in 2020.
 
+With thanks to:
+
+-   Daniel Standage for helping create the original workshop
+-   Karl Fogel for *[Producing Open Source Software][producing-oss]*
+-   Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, and Charlotte Wickham for *[Research Software Engineering with Python][py-rse]*
+-   And everyone cited in the bibliography
+
 <p class="center">
   <em>
     Start where you are
@@ -71,4 +78,6 @@ and how to manage both staff and external contributors.
   </em>
 </p>
 
+[producing-oss]: https://producingoss.com/
+[py-rse]: https://third-bit.com/py-rse/
 [wilson-greg]: https://third-bit.com/

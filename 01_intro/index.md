@@ -72,13 +72,6 @@
 -   …but I've built a lot of complicated software…
 -   …and I've been lucky enough to hang out with some very smart people
 
-## Acknowledgments
-
--   Daniel Standage for helping create the original workshop
--   Karl Fogel for *[Producing Open Source Software][producing-oss]*
--   Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, and Charlotte Wickham for *[Research Software Engineering with Python][py-rse]*
--   And everyone cited in the bibliography
-
 <section class="exercise" markdown="1">
 
 ### Where Are You Now?
@@ -98,6 +91,4 @@
 [jupyter]: https://jupyter.org/
 [mit-license]: https://opensource.org/licenses/MIT
 [noble-rules]: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424
-[producing-oss]: https://producingoss.com/
-[py-rse]: https://third-bit.com/py-rse/
 [sci-hub]: https://sci-hub.se/
