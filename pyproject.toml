@@ -9,7 +9,7 @@ dependencies = [
 ]
 
 [tool.mccole]
-skips = ["*.bib", "uv.lock"]
+skips = ["*~", "*.bib", "extras/**", "uv.lock"]
 
 [tool.mccole.renames]
 "README.md" = ""

@@ -12,7 +12,7 @@
 :   A person who has final say on all aspects of a project's operation
     and direction.
 
-<span id="build-manager">uild manage</span>
+<span id="build-manager">build manager</span>
 :   A program that keeps track of how files depend on one another and
     runs commands to update any files that are out of date.
 
@@ -41,7 +41,7 @@
 :   The act of grouping related concepts together so that they can be
     stored and processed as a single unit.
 
-<span id="cognitive-load">ognitive loa</span>
+<span id="cognitive-load">cognitive load</span>
 :   The amount of working memory needed to accomplish a set of
     simultaneous tasks.
 
@@ -71,13 +71,13 @@
 :   A function that takes some other function as input and replaces it
     with a modified version.
 
-<span id="design-by-contract">esign by contrac</span>
+<span id="design-by-contract">design by contract</span>
 :   A style of designing software in which functions specify the
     [pre-conditions](g:pre-condition) that must be true in order for
     them to run and the [post-conditions](g:post-condition) they
     guarantee will be true when they return.
 
-<span id="design-pattern">esign patter</span>
+<span id="design-pattern">design pattern</span>
 :   A recurring pattern in software design that is specific enough to
     be worth naming, but not so specific that a single best
     implementation can be provided by a library.
@@ -90,7 +90,7 @@
 <span id="doi">Digital Object Identifier (DOI)</span>
 :   A multi-part string that uniquely identifies a published document.
 
-<span id="dynamic-loading">ynamic loadin</span>
+<span id="dynamic-loading">dynamic loading</span>
 :   To import a module into memory while a program is already running.
     Most interpreted languages use dynamic loading, and provide tools
     so that programs can find and load modules dynamically to
@@ -118,11 +118,11 @@
 :   Someone who doesn't yet know much about this domain in specific,
     but who can transfer a lot of understanding from another domain.
 
-<span id="fixture">ixtur</span>
+<span id="fixture">fixture</span>
 :   The thing on which a test is run, such as the parameters to the
     function being tested or the file being processed.
 
-<span id="flowchart">lowchar</span>
+<span id="flowchart">flowchart</span>
 :   A block-and-arrow diagram showing the orders in which statements
     in a function can execute.
 
@@ -167,7 +167,7 @@
 :   Software that is either no longer supported or very difficult to
     support because of the accumulation of features and changes.
 
-<span id="lpp">egitimate peripheral participatio</span>
+<span id="lpp">legitimate peripheral participation</span>
 :   Doing small tasks that a [community of
     practice](g:community-of-practice) regards as valuable in order to
     gradually become a member of that community.
@@ -181,13 +181,13 @@
     time. Long-term memory is large, but slow, and cannot be accessed
     directly.
 
-<span id="loose-coupling">oose couplin</span>
+<span id="loose-coupling">loose coupling</span>
 :   Components in a software system are said to be loosely coupled if
     they are relatively independent of one another, i.e., if any one
     of them can be changed or replaced without others having to be
     altered as well.
 
-<span id="markdown">arkdow</span>
+<span id="markdown">markdown</span>
 :   A markup language with a simple syntax intended as an alternative
     to HTML.
 
@@ -247,7 +247,7 @@
     data transfer.  Pipes were popularized by the Unix shell, and are
     now used in many different programming languages and systems.
 
-<span id="post-condition">ost-conditio</span>
+<span id="post-condition">post-condition</span>
 :   Something that is guaranteed to be true after a function runs
     successfully. Post-conditions are often expressed as assertions
     that are guaranteed to be be true of a function's results.
@@ -256,7 +256,7 @@
 :   The process of figuring out who actually has the power to change
     something.
 
-<span id="pre-condition">pre-conditio</span>
+<span id="pre-condition">pre-condition</span>
 :   Something that must be true before a function runs in order for it
     to work correctly. Pre-conditions are often expressed as as
     assertions that must be true of a function's inputs in order for
@@ -299,7 +299,7 @@
     A PRNG will generate exactly the same sequence of values when
     given the seed again.
 
-<span id="semantic-versioning">emantic versionin</span>
+<span id="semantic-versioning">semantic versioning</span>
 :   A standard for identifying software releases. In the version
     identifier `major.minor.patch`, `major` changes when a new version
     of software is incompatible with old versions, `minor` changes
@@ -333,7 +333,7 @@
 <span id="uml">Unified Modeling Language (UML)</span>
 :   A set of graphical notations for modeling object-oriented systems.
 
-<span id="unit-test">nit tes</span>
+<span id="unit-test">unit test</span>
 :   A test that exercises one function or feature of a piece of
     software and produces pass, fail, or error.
 
