@@ -26,9 +26,9 @@ and how to handle people who spend more time arguing on Slack than writing code.
 This workshop will show them what a healthy mid-sized project looks like
 and how to manage both staff and external contributors.
 
-## Syllabus
+## Lessons
 
-<div id="syllabus" markdown="1">
+<div id="lessons" markdown="1">
 
 1.  [Introduction](./01_intro/): Who we are and where we're going
 1.  [A Minimum Viable Project](./02_mvp/): A technology base we can build on
