@@ -4,6 +4,17 @@
 :   90% of people will watch, 9% will speak up, and 1% will actually
     do things.
 
+<span id="at-will-employment">at-will employment</span>
+:   An employment arrangement, common in the United States, in which
+    either party can end the relationship at any time for any reason
+    not specifically prohibited by law.
+
+<span id="backfire-effect">backfire effect</span>
+:   The tendency for people to become more confident in a belief when
+    presented with evidence that contradicts it, because the
+    contradiction threatens group membership rather than simply
+    updating information.
+
 <span id="benchmark">benchmark</span>
 :   A program (or set of programs) used to measure or compare the
     performance of a piece of software.
@@ -24,14 +35,14 @@
     imposing no restriction of any kind on its use.
 
 <span id="cc-by">CC-BY</span>
-:   The [Creative Commons](g:cc) - Attribution License, which allows
-    copying, derived works, and for-profit sale so long as the
-    original source is acknowledged.
+:   The Creative Commons - Attribution License, which allows copying,
+    derived works, and for-profit sale so long as the original source
+    is acknowledged.
 
 <span id="cc-by-nc">CC-BY-NC</span>
-:   The [Creative Commons](g:cc) - Attribution - NonCommercial License,
-    which allows everything [CC-BY](g:cc-by) does except commercial use
-    without the license holder's permission.
+:   The Creative Commons - Attribution - NonCommercial License, which
+    allows everything CC-BY does except commercial use without the
+    license holder's permission.
 
 <span id="chief-programmer">chief programmer</span>
 :   A person responsible for most of the new code in a project,
@@ -55,7 +66,7 @@
 
 <span id="concept-map">concept map</span>
 :   A box-and-connector diagram of the major elements in someone's
-    [mental model](g:mental-model) of something.
+    mental model of something.
 
 <span id="ci">continuous integration</span>
 :   A system that merges and tests changes automatically as soon as
@@ -73,9 +84,8 @@
 
 <span id="design-by-contract">design by contract</span>
 :   A style of designing software in which functions specify the
-    [pre-conditions](g:pre-condition) that must be true in order for
-    them to run and the [post-conditions](g:post-condition) they
-    guarantee will be true when they return.
+    pre-conditions that must be true in order for them to run and the
+    post-conditions they guarantee will be true when they return.
 
 <span id="design-pattern">design pattern</span>
 :   A recurring pattern in software design that is specific enough to
@@ -168,9 +178,8 @@
     support because of the accumulation of features and changes.
 
 <span id="lpp">legitimate peripheral participation</span>
-:   Doing small tasks that a [community of
-    practice](g:community-of-practice) regards as valuable in order to
-    gradually become a member of that community.
+:   Doing small tasks that a community of practice regards as valuable
+    in order to gradually become a member of that community.
 
 <span id="logging">logging</span>
 :   Recording information about the execution of a program in a
@@ -209,6 +218,17 @@
 :   An open software license that requires people to acknowledge the
     source of the software, but does not require derived work to be
     open.
+
+<span id="moral-licensing">moral licensing</span>
+:   The tendency for people who believe a system is already fair to
+    feel less need to monitor their own judgments for bias, often
+    making explicitly meritocratic systems less equitable in practice.
+
+<span id="motivated-reasoning">motivated reasoning</span>
+:   The tendency to evaluate arguments more critically when they lead
+    to conclusions we dislike than when they support conclusions we
+    already hold, producing systematically biased judgments while
+    feeling like rigorous thinking.
 
 <span id="novice">novice</span>
 :   Someone who has not yet built a usable mental model of a domain
@@ -299,6 +319,17 @@
     A PRNG will generate exactly the same sequence of values when
     given the seed again.
 
+<span id="selectorate">selectorate</span>
+:   In selectorate theory, the full set of people whose nominal
+    support a leader needs to stay in power, most of whom are
+    interchangeable and receive few direct benefits compared to the
+    winning coalition.
+
+<span id="selectorate-theory">selectorate theory</span>
+:   A framework for understanding political and organizational
+    behavior based on the observation that leaders distribute benefits
+    to the minimum coalition necessary to maintain power.
+
 <span id="semantic-versioning">semantic versioning</span>
 :   A standard for identifying software releases. In the version
     identifier `major.minor.patch`, `major` changes when a new version
@@ -317,6 +348,12 @@
 <span id="situational-awareness">situational awareness</span>
 :   Understanding and paying attention to what's happening in one's
     immediate environment.
+
+<span id="social-legibility">social legibility</span>
+:   The ability to display tastes, manners, and cultural references
+    that signal membership in networks that gatekeepers recognize and
+    reward, which often functions as an informal filter in hiring and
+    selection processes.
 
 <span id="ssg">static site generator (SSG)</span>
 :   A program that compiles source files to create HTML pages for a
@@ -337,9 +374,18 @@
 :   A test that exercises one function or feature of a piece of
     software and produces pass, fail, or error.
 
+<span id="winning-coalition">winning coalition</span>
+:   In selectorate theory, the subset of supporters whose backing a
+    leader actually requires to stay in power, who receive direct
+    benefits in exchange for their loyalty.
+
+<span id="workplace-politics">workplace politics</span>
+:   The process by which disagreements about goals, priorities, and
+    resources get resolved in organizations through decisions that
+    favor some people's views and interests over others.
+
 <span id="yaml">YAML</span>
 :   Short for "YAML Ain't Markup Language", a way to represent nested
     data using indentation rather than the parentheses and commas of
-    [JSON](g:json).  YAML is often used in configuration files and to
-    define parameters for various flavors of [Markdown](g:markdown)
-    documents.
+    JSON.  YAML is often used in configuration files and to define
+    parameters for various flavors of Markdown documents.

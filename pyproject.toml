@@ -1,18 +1,27 @@
 [project]
 name = "mrsp"
 description = "managing research software projects"
-version = "0.1.0"
-requires-python = ">=3.12"
+version = "0.2.0"
+requires-python = ">=3.13"
 dependencies = [
-    "linkchecker",
-    "mccole"
+    "mccole>=4.1.0",
+    "taskipy>=1.14.1",
 ]
 
-[tool.mccole]
-skips = ["*~", "*.bib", "extras/**", "uv.lock"]
+[tool.taskipy.tasks]
+bib = {cmd = "mccole bib", help = "Check bibliography entries."}
+clean = {cmd = "find . -type f -name '*~' -exec rm {} \\; && find . -type d -name __pycache__ | xargs rm -rf && find . -type d -name .ruff_cache | xargs rm -rf", help = "Clean up generated and cache files."}
+db = {cmd = "cd _extras && rm -f example.db && sqlite3 example.db < example.sql", help = "make databases"}
+check = {cmd = "mccole check --src . --dst docs && typos *.md */*.md", help = "Check code and project."}
+serve = {cmd = "python -m http.server -d docs 8000", help = "Serve generated HTML on port 8000."}
+site = {cmd = "mccole build --src . --dst docs && touch docs/.nojekyll", help = "Build HTML."}
 
-[tool.mccole.renames]
-"README.md" = ""
-"CODE_OF_CONDUCT.md" = "conduct"
-"CONTRIBUTING.md" = "contrib"
-"LICENSE.md" = "license"
+[tool.mccole]
+brand = "MRSP"
+repo = "https://github.com/gvwilson/mrsp"
+skips = [
+    "**/*~",
+    "docs/**",
+    "log/**",
+    "uv.lock"
+]

@@ -5,46 +5,71 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>Glossary</title>
-<link href="../static/favicon.ico" rel="icon" type="image/x-icon"/>
-<link href="../static/page.css" rel="stylesheet" type="text/css"/>
+<meta content="Managing Research Software Projects" name="description"/>
+<link href="../_static/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="../_static/pygments.css" rel="stylesheet" type="text/css"/>
+<link href="../_static/chota.css" rel="stylesheet" type="text/css"/>
+<link href="../_static/mccole.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
-<nav>
-<a href="../">Home</a>
-      ·
-      <span class="dropdown">
-<a href="#">Lessons</a>
-<span class="dropdown-content" id="nav-lessons">
-<a href="../01_intro/">Introduction</a>
-<a href="../02_mvp/">A Minimum Viable Project</a>
-<a href="../03_newcomers/">Newcomers</a>
-<a href="../04_governance/">Governance</a>
-<a href="../05_marketing/">Marketing</a>
-<a href="../06_hr/">Human Resources</a>
-<a href="../07_product/">Product Management</a>
-<a href="../08_project/">Project Management</a>
-<a href="../09_finale/">Next Steps</a>
-</span>
-</span>
-      ·
-      <span class="dropdown">
-<a href="#">Extras</a>
-<span class="dropdown-content" id="nav-extras">
-<a href="../license/">License</a>
-<a href="../conduct/">Code of Conduct</a>
-<a href="../contrib/">Contributing</a>
-<a href="../bibliography/">Bibliography</a>
-<a href="../glossary/">Glossary</a>
-<a href="../advice/">Advice</a>
-</span>
-</span>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" class="nav">
+<div class="nav-left">
+<a class="brand" href="../">MRSP</a>
+<div class="dropdown">
+<button aria-controls="nav-lessons" aria-haspopup="true">Lessons</button>
+<ul class="dropdown-content" id="nav-lessons">
+<li><a href="../intro/">Introduction</a></li>
+<li><a href="../health/">Project Health</a></li>
+<li><a href="../checklist/">Checklists</a></li>
+<li><a href="../newcomers/">Welcoming Newcomers</a></li>
+<li><a href="../governance/">Governance</a></li>
+<li><a href="../marketing/">Marketing</a></li>
+<li><a href="../requirements/">Requirements</a></li>
+<li><a href="../hirefire/">Hiring and Firing</a></li>
+<li><a href="../performance/">Performance and Growth</a></li>
+<li><a href="../project/">Managing the Work</a></li>
+<li><a href="../finale/">The Next 90 Days</a></li>
+<li><a href="../upward/">Managing Your Manager</a></li>
+<li><a href="../safety/">Psychological Safety</a></li>
+<li><a href="../lifecycle/">Project Lifecycle and Succession</a></li>
+<li><a href="../career/">Career Development for RSEs</a></li>
+<li><a href="../remote/">Remote and Distributed Collaboration</a></li>
+<li><a href="../burnout/">Recognizing and Responding to Burnout</a></li>
+<li><a href="../politics/">Office Politics</a></li>
+<li><a href="../meritocracy/">The Myth of Meritocracy</a></li>
+<li><a href="../changeminds/">Why Facts Don't Change Minds</a></li>
+</ul>
+</div>
+<div class="dropdown">
+<button aria-controls="nav-appendices" aria-haspopup="true">Appendices</button>
+<ul class="dropdown-content" id="nav-appendices">
+<li><a href="../license/">License</a></li>
+<li><a href="../conduct/">Code of Conduct</a></li>
+<li><a href="../contributing/">Contributing</a></li>
+<li><a href="../bibliography/">Bibliography</a></li>
+<li><a class="active" href="../glossary/">Glossary</a></li>
+<li><a href="../advice/">Advice</a></li>
+</ul>
+</div>
+<a href="https://github.com/gvwilson/mrsp">Repository</a>
+</div>
 </nav>
-<main>
+<main id="main-content">
 <h1>Glossary</h1>
 <dl>
 <dt><span id="90-9-1">90-9-1 rule</span></dt>
 <dd>90% of people will watch, 9% will speak up, and 1% will actually
 do things.</dd>
+<dt><span id="at-will-employment">at-will employment</span></dt>
+<dd>An employment arrangement, common in the United States, in which
+either party can end the relationship at any time for any reason
+not specifically prohibited by law.</dd>
+<dt><span id="backfire-effect">backfire effect</span></dt>
+<dd>The tendency for people to become more confident in a belief when
+presented with evidence that contradicts it, because the
+contradiction threatens group membership rather than simply
+updating information.</dd>
 <dt><span id="benchmark">benchmark</span></dt>
 <dd>A program (or set of programs) used to measure or compare the
 performance of a piece of software.</dd>
@@ -60,13 +85,13 @@ runs commands to update any files that are out of date.</dd>
 <dd>A shorthand for putting something in the public domain, i.e.,
 imposing no restriction of any kind on its use.</dd>
 <dt><span id="cc-by">CC-BY</span></dt>
-<dd>The <a href="../glossary/#cc">Creative Commons</a> - Attribution License, which allows
-copying, derived works, and for-profit sale so long as the
-original source is acknowledged.</dd>
+<dd>The Creative Commons - Attribution License, which allows copying,
+derived works, and for-profit sale so long as the original source
+is acknowledged.</dd>
 <dt><span id="cc-by-nc">CC-BY-NC</span></dt>
-<dd>The <a href="../glossary/#cc">Creative Commons</a> - Attribution - NonCommercial License,
-which allows everything <a href="../glossary/#cc-by">CC-BY</a> does except commercial use
-without the license holder's permission.</dd>
+<dd>The Creative Commons - Attribution - NonCommercial License, which
+allows everything CC-BY does except commercial use without the
+license holder's permission.</dd>
 <dt><span id="chief-programmer">chief programmer</span></dt>
 <dd>A person responsible for most of the new code in a project,
 similar to a chief surgeon in a hospital.</dd>
@@ -84,7 +109,7 @@ mentor each other.</dd>
 under normal circumstances.</dd>
 <dt><span id="concept-map">concept map</span></dt>
 <dd>A box-and-connector diagram of the major elements in someone's
-<a href="../glossary/#mental-model">mental model</a> of something.</dd>
+mental model of something.</dd>
 <dt><span id="ci">continuous integration</span></dt>
 <dd>A system that merges and tests changes automatically as soon as
 they become available, typically in a temporary copy of the
@@ -98,9 +123,8 @@ set of licenses.</dd>
 with a modified version.</dd>
 <dt><span id="design-by-contract">design by contract</span></dt>
 <dd>A style of designing software in which functions specify the
-<a href="../glossary/#pre-condition">pre-conditions</a> that must be true in order for
-them to run and the <a href="../glossary/#post-condition">post-conditions</a> they
-guarantee will be true when they return.</dd>
+pre-conditions that must be true in order for them to run and the
+post-conditions they guarantee will be true when they return.</dd>
 <dt><span id="design-pattern">design pattern</span></dt>
 <dd>A recurring pattern in software design that is specific enough to
 be worth naming, but not so specific that a single best
@@ -172,9 +196,8 @@ define a schema.</dd>
 <dd>Software that is either no longer supported or very difficult to
 support because of the accumulation of features and changes.</dd>
 <dt><span id="lpp">legitimate peripheral participation</span></dt>
-<dd>Doing small tasks that a <a href="../glossary/#community-of-practice">community of
-practice</a> regards as valuable in order to
-gradually become a member of that community.</dd>
+<dd>Doing small tasks that a community of practice regards as valuable
+in order to gradually become a member of that community.</dd>
 <dt><span id="logging">logging</span></dt>
 <dd>Recording information about the execution of a program in a
 structured way for later analysis.</dd>
@@ -205,6 +228,15 @@ to have free time.</dd>
 <dd>An open software license that requires people to acknowledge the
 source of the software, but does not require derived work to be
 open.</dd>
+<dt><span id="moral-licensing">moral licensing</span></dt>
+<dd>The tendency for people who believe a system is already fair to
+feel less need to monitor their own judgments for bias, often
+making explicitly meritocratic systems less equitable in practice.</dd>
+<dt><span id="motivated-reasoning">motivated reasoning</span></dt>
+<dd>The tendency to evaluate arguments more critically when they lead
+to conclusions we dislike than when they support conclusions we
+already hold, producing systematically biased judgments while
+feeling like rigorous thinking.</dd>
 <dt><span id="novice">novice</span></dt>
 <dd>Someone who has not yet built a usable mental model of a domain
 and therefore struggles with even basic tasks.</dd>
@@ -273,6 +305,15 @@ more secure but which don't actually have any impact.</dd>
 <dd>A value used to (re-)start a pseudorandom number generator (PRNG).
 A PRNG will generate exactly the same sequence of values when
 given the seed again.</dd>
+<dt><span id="selectorate">selectorate</span></dt>
+<dd>In selectorate theory, the full set of people whose nominal
+support a leader needs to stay in power, most of whom are
+interchangeable and receive few direct benefits compared to the
+winning coalition.</dd>
+<dt><span id="selectorate-theory">selectorate theory</span></dt>
+<dd>A framework for understanding political and organizational
+behavior based on the observation that leaders distribute benefits
+to the minimum coalition necessary to maintain power.</dd>
 <dt><span id="semantic-versioning">semantic versioning</span></dt>
 <dd>A standard for identifying software releases. In the version
 identifier <code>major.minor.patch</code>, <code>major</code> changes when a new version
@@ -288,6 +329,11 @@ information that can be directly accessed by consciousness.</dd>
 <dt><span id="situational-awareness">situational awareness</span></dt>
 <dd>Understanding and paying attention to what's happening in one's
 immediate environment.</dd>
+<dt><span id="social-legibility">social legibility</span></dt>
+<dd>The ability to display tastes, manners, and cultural references
+that signal membership in networks that gatekeepers recognize and
+reward, which often functions as an informal filter in hiring and
+selection processes.</dd>
 <dt><span id="ssg">static site generator (SSG)</span></dt>
 <dd>A program that compiles source files to create HTML pages for a
 website rather than generating HTML on the fly.</dd>
@@ -302,18 +348,35 @@ something the person has <em>and</em> something they know.</dd>
 <dt><span id="unit-test">unit test</span></dt>
 <dd>A test that exercises one function or feature of a piece of
 software and produces pass, fail, or error.</dd>
+<dt><span id="winning-coalition">winning coalition</span></dt>
+<dd>In selectorate theory, the subset of supporters whose backing a
+leader actually requires to stay in power, who receive direct
+benefits in exchange for their loyalty.</dd>
+<dt><span id="workplace-politics">workplace politics</span></dt>
+<dd>The process by which disagreements about goals, priorities, and
+resources get resolved in organizations through decisions that
+favor some people's views and interests over others.</dd>
 <dt><span id="yaml">YAML</span></dt>
 <dd>Short for "YAML Ain't Markup Language", a way to represent nested
 data using indentation rather than the parentheses and commas of
-<a href="../glossary/#json">JSON</a>.  YAML is often used in configuration files and to
-define parameters for various flavors of <a href="../glossary/#markdown">Markdown</a>
-documents.</dd>
+JSON.  YAML is often used in configuration files and to define
+parameters for various flavors of Markdown documents.</dd>
 </dl>
 </main>
-<footer>
-<a href="../">Managing Research Software Projects</a>
-      copyright © 2025
-      <a href="../#acknowledgments">the authors</a>
+<footer aria-label="Page navigation">
+<div class="row">
+<div class="col-3 left">
+<span aria-hidden="true">⇐</span> <a href="../bibliography/">Bibliography</a>
+</div>
+<div class="col-6 center">
+<a href="../">MRSP</a>
+	  ©
+	  <a href="../#acknowledgments">the authors</a>
+</div>
+<div class="col-3 right">
+<a href="../advice/">Advice</a> <span aria-hidden="true">⇒</span>
+</div>
+</div>
 </footer>
 </body>
 </html>

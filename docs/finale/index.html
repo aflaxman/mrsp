@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<title>The Next 90 Days</title>
+<meta content="Managing Research Software Projects" name="description"/>
+<link href="../_static/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="../_static/pygments.css" rel="stylesheet" type="text/css"/>
+<link href="../_static/chota.css" rel="stylesheet" type="text/css"/>
+<link href="../_static/mccole.css" rel="stylesheet" type="text/css"/>
+</head>
+<body>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" class="nav">
+<div class="nav-left">
+<a class="brand" href="../">MRSP</a>
+<div class="dropdown">
+<button aria-controls="nav-lessons" aria-haspopup="true">Lessons</button>
+<ul class="dropdown-content" id="nav-lessons">
+<li><a href="../intro/">Introduction</a></li>
+<li><a href="../health/">Project Health</a></li>
+<li><a href="../checklist/">Checklists</a></li>
+<li><a href="../newcomers/">Welcoming Newcomers</a></li>
+<li><a href="../governance/">Governance</a></li>
+<li><a href="../marketing/">Marketing</a></li>
+<li><a href="../requirements/">Requirements</a></li>
+<li><a href="../hirefire/">Hiring and Firing</a></li>
+<li><a href="../performance/">Performance and Growth</a></li>
+<li><a href="../project/">Managing the Work</a></li>
+<li><a class="active" href="../finale/">The Next 90 Days</a></li>
+<li><a href="../upward/">Managing Your Manager</a></li>
+<li><a href="../safety/">Psychological Safety</a></li>
+<li><a href="../lifecycle/">Project Lifecycle and Succession</a></li>
+<li><a href="../career/">Career Development for RSEs</a></li>
+<li><a href="../remote/">Remote and Distributed Collaboration</a></li>
+<li><a href="../burnout/">Recognizing and Responding to Burnout</a></li>
+<li><a href="../politics/">Office Politics</a></li>
+<li><a href="../meritocracy/">The Myth of Meritocracy</a></li>
+<li><a href="../changeminds/">Why Facts Don't Change Minds</a></li>
+</ul>
+</div>
+<div class="dropdown">
+<button aria-controls="nav-appendices" aria-haspopup="true">Appendices</button>
+<ul class="dropdown-content" id="nav-appendices">
+<li><a href="../license/">License</a></li>
+<li><a href="../conduct/">Code of Conduct</a></li>
+<li><a href="../contributing/">Contributing</a></li>
+<li><a href="../bibliography/">Bibliography</a></li>
+<li><a href="../glossary/">Glossary</a></li>
+<li><a href="../advice/">Advice</a></li>
+</ul>
+</div>
+<a href="https://github.com/gvwilson/mrsp">Repository</a>
+</div>
+</nav>
+<main id="main-content">
+<h1>The Next 90 Days</h1>
+<p class="subtitle">long enough to finish something, short enough to be concrete</p>
+<h2>Learning Objectives</h2>
+<ul>
+<li>Write a 90-day plan with three concrete priorities.</li>
+<li>Know what to read next.</li>
+</ul>
+<h2>Planning at the Right Timescale (5 min)</h2>
+<p>Ninety days is the right planning horizon for a project at Jess's scale. It's long
+enough to finish something substantial and short enough to be concrete. A one-year
+plan for a two-person research software project is mostly fiction. A two-week plan
+doesn't force you to think about dependencies and sequencing. Ninety days is where
+a realistic plan and an ambitious plan can overlap.</p>
+<p>Two kinds of work must both appear in the plan. The first is maintenance: keeping
+the lights on. Bugs, pull request reviews, user questions, dependency updates,
+compliance reviews. This work is invisible until it isn't done, and it will reliably
+consume all available time if it isn't explicitly allocated. The second is development:
+making things better. If maintenance isn't in the plan, it eats all the development
+time. If development isn't in the plan, the project stagnates.</p>
+<p>Getting support you don't have yet requires a one-page impact summary: who uses the
+project, what it makes possible that wasn't possible before, and what it would take to
+keep it going. Funders and administrators make resource decisions based on impact, not
+on elegance of design.</p>
+<h3>Jess's Situation</h3>
+<p>Jess's first 90-day plan had five priorities. None of them could realistically be
+finished in 90 days. She wrote a second plan with three priorities, each with a clear
+definition of done. The third one still felt ambitious. Her supervisor read it and
+said: "What's the first thing you'll do on Monday morning for each of these?" For
+the third priority, Jess couldn't answer. She replaced it with something smaller.
+The two remaining priorities were both done at the 90-day mark. The third had turned
+into a year-long project that she was glad she hadn't committed to delivering in a
+quarter.</p>
+<div class="callout">
+<p>"What's the first thing you'll do on Monday morning?" is the single most useful
+question you can ask about any priority. If you can't answer it, the priority is too
+vague. Not "work on the documentation" but "write the installation guide section for
+users on Windows, starting with the GDAL dependency." The more specific, the more
+likely it gets done.</p>
+</div>
+<section class="exercise">
+<h3>Exercise A: Draft Your 90-Day Plan (12 min)</h3>
+<p>Suggested LLM prompt:</p>
+<blockquote>
+<p>"Based on this project health audit [paste rubric from Session 1] and these open
+issues [paste milestone from Session 8], suggest a 90-day plan with three concrete
+priorities. For each priority: what will be done, how will I know it's done, and
+what could prevent it."</p>
+</blockquote>
+<p>Steps:</p>
+<ol>
+<li>
+<p>(3 min) Run the prompt. Note any priority the LLM suggested that you know won't
+    happen because of a constraint it doesn't know: a funding cycle, team capacity,
+    an external deadline.</p>
+</li>
+<li>
+<p>(9 min) Fill in the provided template:</p>
+<ul>
+<li>Section 1: Your project's current state (one sentence per health dimension).</li>
+<li>Section 2: Your three priorities (each: what you'll do, how you'll know it's
+    done, what could stop you).</li>
+<li>Section 3: Two people you need to talk to (name or role, what you need).</li>
+</ul>
+</li>
+</ol>
+<p>Deliverable: a completed 90-day plan.</p>
+</section>
+<section class="exercise">
+<h3>Exercise B: Monday Morning Test (8 min)</h3>
+<p>In pairs:</p>
+<ol>
+<li>
+<p>Read one priority from your plan to your partner.</p>
+</li>
+<li>
+<p>They ask: "What's the first thing you'll do on Monday morning?" You answer in
+    one sentence. If you can't, the priority is too vague.</p>
+</li>
+<li>
+<p>Write: "The LLM got [X] wrong because it didn't know [Y]."</p>
+</li>
+</ol>
+<p>Deliverable: one priority that passes the Monday morning test.</p>
+</section>
+<h2>Wrap-up (5 min)</h2>
+<p>Each learner reads one priority from their plan (20 seconds each).</p>
+<p>Two questions, answered in writing:</p>
+<ol>
+<li>What is the single most useful thing you learned or produced today?</li>
+<li>What was included that you don't think you'll use?</li>
+</ol>
+<p>Further reading: Fogel <em><a href="https://producingoss.com/">Producing Open Source Software</a></em>,
+Fournier <em>The Manager's Path</em> [<a class="bib-ref" href="../bibliography/#Fournier2017">Fournier2017</a>], Manns and Rising
+<em>Fearless Change</em> [<a class="bib-ref" href="../bibliography/#Manns2015">Manns2015</a>], Gawande <em>The Checklist Manifesto</em>
+[<a class="bib-ref" href="../bibliography/#Gawande2009">Gawande2009</a>].</p>
+</main>
+<footer aria-label="Page navigation">
+<div class="row">
+<div class="col-3 left">
+<span aria-hidden="true">⇐</span> <a href="../project/">Managing the Work</a>
+</div>
+<div class="col-6 center">
+<a href="../">MRSP</a>
+	  ©
+	  <a href="../#acknowledgments">the authors</a>
+</div>
+<div class="col-3 right">
+<a href="../upward/">Managing Your Manager</a> <span aria-hidden="true">⇒</span>
+</div>
+</div>
+</footer>
+</body>
+</html>

@@ -5,48 +5,64 @@
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <title>Advice</title>
-<link href="../static/favicon.ico" rel="icon" type="image/x-icon"/>
-<link href="../static/page.css" rel="stylesheet" type="text/css"/>
+<meta content="Managing Research Software Projects" name="description"/>
+<link href="../_static/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="../_static/pygments.css" rel="stylesheet" type="text/css"/>
+<link href="../_static/chota.css" rel="stylesheet" type="text/css"/>
+<link href="../_static/mccole.css" rel="stylesheet" type="text/css"/>
 </head>
 <body>
-<nav>
-<a href="../">Home</a>
-      ·
-      <span class="dropdown">
-<a href="#">Lessons</a>
-<span class="dropdown-content" id="nav-lessons">
-<a href="../01_intro/">Introduction</a>
-<a href="../02_mvp/">A Minimum Viable Project</a>
-<a href="../03_newcomers/">Newcomers</a>
-<a href="../04_governance/">Governance</a>
-<a href="../05_marketing/">Marketing</a>
-<a href="../06_hr/">Human Resources</a>
-<a href="../07_product/">Product Management</a>
-<a href="../08_project/">Project Management</a>
-<a href="../09_finale/">Next Steps</a>
-</span>
-</span>
-      ·
-      <span class="dropdown">
-<a href="#">Extras</a>
-<span class="dropdown-content" id="nav-extras">
-<a href="../license/">License</a>
-<a href="../conduct/">Code of Conduct</a>
-<a href="../contrib/">Contributing</a>
-<a href="../bibliography/">Bibliography</a>
-<a href="../glossary/">Glossary</a>
-<a href="../advice/">Advice</a>
-</span>
-</span>
+<a class="skip-link" href="#main-content">Skip to main content</a>
+<nav aria-label="Site navigation" class="nav">
+<div class="nav-left">
+<a class="brand" href="../">MRSP</a>
+<div class="dropdown">
+<button aria-controls="nav-lessons" aria-haspopup="true">Lessons</button>
+<ul class="dropdown-content" id="nav-lessons">
+<li><a href="../intro/">Introduction</a></li>
+<li><a href="../health/">Project Health</a></li>
+<li><a href="../checklist/">Checklists</a></li>
+<li><a href="../newcomers/">Welcoming Newcomers</a></li>
+<li><a href="../governance/">Governance</a></li>
+<li><a href="../marketing/">Marketing</a></li>
+<li><a href="../requirements/">Requirements</a></li>
+<li><a href="../hirefire/">Hiring and Firing</a></li>
+<li><a href="../performance/">Performance and Growth</a></li>
+<li><a href="../project/">Managing the Work</a></li>
+<li><a href="../finale/">The Next 90 Days</a></li>
+<li><a href="../upward/">Managing Your Manager</a></li>
+<li><a href="../safety/">Psychological Safety</a></li>
+<li><a href="../lifecycle/">Project Lifecycle and Succession</a></li>
+<li><a href="../career/">Career Development for RSEs</a></li>
+<li><a href="../remote/">Remote and Distributed Collaboration</a></li>
+<li><a href="../burnout/">Recognizing and Responding to Burnout</a></li>
+<li><a href="../politics/">Office Politics</a></li>
+<li><a href="../meritocracy/">The Myth of Meritocracy</a></li>
+<li><a href="../changeminds/">Why Facts Don't Change Minds</a></li>
+</ul>
+</div>
+<div class="dropdown">
+<button aria-controls="nav-appendices" aria-haspopup="true">Appendices</button>
+<ul class="dropdown-content" id="nav-appendices">
+<li><a href="../license/">License</a></li>
+<li><a href="../conduct/">Code of Conduct</a></li>
+<li><a href="../contributing/">Contributing</a></li>
+<li><a href="../bibliography/">Bibliography</a></li>
+<li><a href="../glossary/">Glossary</a></li>
+<li><a class="active" href="../advice/">Advice</a></li>
+</ul>
+</div>
+<a href="https://github.com/gvwilson/mrsp">Repository</a>
+</div>
 </nav>
-<main>
+<main id="main-content">
 <h1>Advice</h1>
 <h2>Being Fired</h2>
 <p>I hope you're never fired, or if you are, that the company handles it
 professionally.  In case they don't, this advice is based on <a href="https://www.buzzfeednews.com/article/daveyalba/datacamp-sexual-harassment-metoo-tech-startup">my experience
 being fired by DataCamp</a> and on what friends and colleagues
 have gone through there and elsewhere Remember: however much you like your job,
-it won't love you back [<a href="../bibliography/#Jaffe2021">Jaffe2021</a>].</p>
+it won't love you back [<a class="bib-ref" href="../bibliography/#Jaffe2021">Jaffe2021</a>].</p>
 <dl>
 <dt>Insist on a record of all conversations.</dt>
 <dd>The biggest mistake you can make is to assume good faith on the part of
@@ -95,8 +111,8 @@ decisions, and you need to be at the top of your game.</dd>
 </dl>
 <h2>Findability</h2>
 <p>The <a href="https://www.go-fair.org/fair-principles/">FAIR Principles</a> encourage researchers to make data
-findable, accessible interoperable, and reusable [<a href="../bibliography/#Wilkinson2016">Wilkinson2016</a>].
-The tips below, taken from [<a href="../bibliography/#Lin2020">Lin2020</a>], will help you turn those
+findable, accessible interoperable, and reusable [<a class="bib-ref" href="../bibliography/#Wilkinson2016">Wilkinson2016</a>].
+The tips below, taken from [<a class="bib-ref" href="../bibliography/#Lin2020">Lin2020</a>], will help you turn those
 principles into practice.</p>
 <dl>
 <dt>Design for a wide range of users.</dt>
@@ -200,7 +216,7 @@ it is <em>about</em>: for example, this <em>is</em> a web page, but it is <em>ab
 making information findable. You can rely on filename suffixes to
 distinguish computational notebooks from PDF files, tabular data sets,
 or slide decks, but file formats can change (e.g., slides can be printed as a PDF).
-Naming and metadata conventions threfore tend to be more robust as well as more
+Naming and metadata conventions therefore tend to be more robust as well as more
 informative than relying on file types.</dd>
 <dt>Do not abbrvt.</dt>
 <dd>Acronyms and abbreviations make communication between those who know
@@ -263,7 +279,7 @@ Gilliam's <em>Brazil</em>.</dd>
 <h3>If you are a practitioner in industry…</h3>
 <dl>
 <dt>Remember that universities work in seasons, not weeks.</dt>
-<dd>The timescale mis-match described in Rule #1 is due in part to the fact that
+<dd>The timescale mismatch described in Rule #1 is due in part to the fact that
 academic researchers are almost always multi-tasking, and that many of those
 tasks are things they've never been trained to do. As students, they juggle
 several courses at once (which effectively means that they answer to several
@@ -338,7 +354,7 @@ give them a chance to test the waters and to get to know you and everyone
 else involved in whatever it is you want help with.  Don't be surprised or
 disappointed if that's where things end: everyone is busy or tired or has
 projects of their own, or maybe just has a different mental model of how
-collaboration is supposed to work.  Remember the 90-9-1 rule and set your
+collaboration is supposed to work.  Remember the <a class="gl-ref" href="../glossary/#90-9-1">90-9-1 rule</a> and set your
 expectations accordingly.</dd>
 <dt>Don't build a project: build a community.</dt>
 <dd>There is a softball team here in Toronto that never actually plays games:
@@ -373,10 +389,19 @@ fifth or the tenth person says "no", ask yourself if what you're trying to
 do makes sense and is worth doing.</dd>
 </dl>
 </main>
-<footer>
-<a href="../">Managing Research Software Projects</a>
-      copyright © 2025
-      <a href="../#acknowledgments">the authors</a>
+<footer aria-label="Page navigation">
+<div class="row">
+<div class="col-3 left">
+<span aria-hidden="true">⇐</span> <a href="../glossary/">Glossary</a>
+</div>
+<div class="col-6 center">
+<a href="../">MRSP</a>
+	  ©
+	  <a href="../#acknowledgments">the authors</a>
+</div>
+<div class="col-3 right">
+</div>
+</div>
 </footer>
 </body>
 </html>

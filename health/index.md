@@ -1,0 +1,157 @@
+# Project Health
+
+<p class="subtitle" markdown="1">a baseline to start from</p>
+
+## Learning Objectives
+
+-   Name the six dimensions of a minimum viable research software project.
+-   Score your own project on each dimension.
+-   Identify the highest-priority gaps.
+
+## Starting Point
+
+Three weeks after Jess started their post-doc,
+she got an email from Aaron at another lab,
+who had been trying to get the simulator running for two days without success.
+The setup instructions referenced a Conda environment file that no longer matched the pinned versions,
+and the tests didn't pass because he didn't have the dataset
+that Jess had downloaded on her machine.
+
+"Healthy" for a research software project means more than "runs on my machine."
+It means the project is findable by people who could use it,
+reproducible by people who want to build on it,
+and maintainable by someone who isn't you.
+Most research software projects score well on none of these,
+and most researchers don't find out until someone like Aaron emails them.
+
+## What "Healthy" Means (20 min)
+
+You can use these six dimensions to assess the state of your project:
+
+[%g findability "Findability" %]
+:   The project has a DOI and a `CITATION.cff` file,
+    and is listed in at least one relevant registry.
+    Without these,
+    two groups will independently build the same tool,
+    and neither will find the other until years later.
+
+[%g reproducibility "Reproducibility" %]
+:   Dependencies are [%g pin-dependencies "pinned" %],
+    the project runs inside a [%g virtual-environment "virtual environment" %] or [%g container "container" %],
+    and there is a script that re-runs the whole analysis from raw data.
+    Without this,
+    collaborators can't run the code or check results.
+
+[%g testability "Testability" %]
+:   Automated tests exist and are run on every change via [%g continuous-integration "continuous integration" %].
+    Without this, every fix can introduce new bugs.
+    (You may or may not track test [%g test-coverage "test coverage" %];
+    if you do,
+    you keep track so that it doesn't quietly decline.)
+
+[%g contribution-pathway "Contribution Pathway" %]
+:   There is a `CONTRIBUTING.md` that a stranger could follow,
+    issues are labeled so newcomers can find things to do,
+    and the process for submitting and reviewing pull requests is written down.
+    Without this, potential contributors will quickly give up.
+
+[%g governance "Governance" %]
+:   There are written rules for who decides what and how those decisions are made public.
+    Without this,
+    decisions get made by whoever shouts loudest or gives up last.
+
+[%g sustainability "Sustainability" %]
+:   More than one person can make a release,
+    the [%g lottery-factory "lottery factor" %] is documented,
+    and there is a [%g succession-plan "succession plan" %].
+    Without this, the project dies when the post-doc graduates.
+
+<div class="callout" markdown="1">
+
+These six points focus mostly on the software, not on the team,
+because that's what most participants in this workshop have the most experience with,
+and what they are most comfortable talking about at first.
+Later modules will talk more about the human aspects of management.
+
+</div>
+
+## Jess's Situation
+
+Here are Jess's scores:
+
+| item | score | explanation |
+| :--- | ----: | ----------- |
+| Findability | 2/5 |GitHub repo exists, no DOI, not in any registry|
+| Reproducibility | 1/5 |a `requirements.txt` exists but versions aren't pinned|
+| Testability | 3/5 |a pytest suite exists, but CI is not configured|
+| Contribution pathway | 1/5 |`CONTRIBUTING.md` is one sentence: "We welcome pull requests."|
+| Governance | 0/5 |nothing is written down|
+| Sustainability | 2/5 |Jess can make a release; her colleague Tahia probably could with help|
+
+The 0 on governance was the one that surprised her.
+She hadn't written down how decisions were made because nobody had disagreed yet.
+She found out later that this pattern is nearly universal:
+governance feels unnecessary until the moment it isn't.
+
+<div class="callout" markdown="1">
+
+Starting with an honest audit is uncomfortable.
+It matters because it tells you which something to fix first.
+Improving your lowest dimension by one point before next week
+is worth more than polishing a dimension that's already 4/5.
+
+In our experience,
+an LLM will usually give your project a higher score than it deserves:
+it has no way to know whether your `CONTRIBUTING.md` has been tested recently,
+whether your CI actually blocks merges,
+or whether anyone other than you can cut a release.
+
+</div>
+
+## Exercises
+
+<section class="exercise" markdown="1">
+
+### Self-Audit (10 min)
+
+Using the six-dimension rubric, score your project.
+Include evidence for each dimension,
+(e.g., the URL of the governance description).
+
+</section>
+
+<section class="exercise" markdown="1">
+
+### LLM Audit (5 min)
+
+Repeat the audit using an LLM.
+
+> I have a research software project called [name].
+> It does [one sentence].
+> Its repository is [URL if public].
+> Score it on these six dimensions and explain each score:
+> findability, reproducibility, testability,
+> contribution pathway, governance, sustainability.
+
+Note any dimension where the LLM seems to have assumed something exists
+that you know doesn't.
+Note dimensions where the LLM's score differs from yours by more than one point.
+
+</section>
+
+<section class="exercise" markdown="1">
+
+### Action Planning (5 min)
+
+1.  Identify the two dimensions with the largest gaps.
+
+2.  Write one concrete action you could take in the next two weeks to raise the score.
+
+</section>
+
+## Debrief (5 min)
+
+1.  Show of hands: which dimension scored lowest most often?
+    (Governance and contribution pathway are almost always near the bottom.)
+
+2.  One learner presents their LLM report and corrections.

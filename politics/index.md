@@ -1,0 +1,81 @@
+# Office Politics
+
+<p class="subtitle" markdown="1">the game that happens whether you play or not</p>
+
+## Learning Objectives
+
+-   Recognize that every organization is political and that "we don't do politics here" is itself a political position.
+-   Identify who holds meaningful power over a decision by asking whose support the decision-maker actually needs.
+-   Advocate for your work in ways that are honest, effective, and don't require pretending that politics doesn't exist.
+
+## Politics Is Not Optional (15 min)
+
+Three months after taking over the project, Jess proposed dropping a legacy file format that no active user had requested in two years. The technical case was solid: the format required a separate parser, created two open bugs, and was mentioned nowhere in the project's roadmap. The proposal was rejected. One of the project's early adopters had published a paper demonstrating the format's use, and that person's supervisor was on the same grant renewal committee as Jess's PI.
+
+Jess had treated the decision as technical. It wasn't.
+
+The political scientist Harold Lasswell defined politics in 1936 as the study of "who gets what, when, how" [%b Runciman2014 %]. His definition contains no implication that the getting is fair, no assumption that what gets distributed is material, and no requirement that the process be democratic. It is simply a description of how groups make binding decisions about the allocation of things people want.
+
+Politics is what happens when a group of people who do not fully agree on goals or values nonetheless need to act together. The alternative to politics is not harmony---it is coercion. A group that appears to have no politics is usually one in which someone has already won so decisively that further fighting seems pointless.
+
+Bueno de Mesquita and Smith developed [%g selectorate-theory "selectorate theory" %] to explain why leaders behave the way they do [%b BuenodeMesquita2011 %]. The core observation is simple: leaders of countries, companies, and volunteer organizations need enough support to stay in power. They get that support by distributing benefits to a minimum necessary [%g winning-coalition "winning coalition" %]---the subset of people whose support they actually require. Everyone else is what the theory calls the [%g selectorate "selectorate" %]: large enough to give the winning coalition options if any member defects, but not powerful enough to claim a significant share of the benefits.
+
+This framework applies directly to research software. When a feature gets funded, a hire gets approved, or a roadmap gets changed, the decision reflects someone's winning coalition---the people whose backing was needed. Identifying that coalition is more useful than constructing a better technical argument.
+
+<div class="callout" markdown="1">
+
+The phrase "we don't do politics here" appears regularly in tech companies and research labs. It usually means one of two things. The first is a genuine belief that technical decisions should be made on technical merit. This belief is reasonable, but mostly wrong about how decisions actually get made. The second meaning is that the people in the winning coalition have already gotten what they want from the current structure, so there is no need for them to engage in visible political activity. Describing existing arrangements as natural and political contestation as illegitimate is itself a political move [%b Crick2000 %].
+
+</div>
+
+## Acting on This (10 min)
+
+Jeffrey Pfeffer's research on organizations found that political skills---building coalitions, reading organizational dynamics, timing moves correctly---are stronger predictors of career advancement than technical competence [%b Pfeffer1992 %]. This is not a reason for cynicism. It is a reason to be deliberate.
+
+Understanding that your workplace is a political environment is not the same as deciding to become a political operator. Someone who believes their technical approach is correct and advocates for it strongly, seeks allies among colleagues with aligned interests, and times their proposal for when decision-makers are receptive is not doing something shameful. They are participating in the ordinary process by which organizations make decisions in the absence of shared goals. The person who refuses to do any of this and then wonders why their ideas never get adopted is not taking the moral high road. They are making a practical error while feeling virtuous about it.
+
+### Jess's Situation
+
+When the next controversial proposal came up, Jess went to two people she knew had credibility with the PI before the formal discussion. Neither of them was a technical expert. Both were people the PI trusted. She explained the issue in terms they cared about---stability for existing users, risk to the publication timeline---rather than in terms of code quality. The contested proposal was withdrawn before it reached the PI's desk.
+
+<section class="exercise" markdown="1">
+
+### Exercise A: Map the Coalition (10 min)
+
+Think of a decision that was made in your project or institution that surprised you---something that went differently than you expected based on the technical merits.
+
+Suggested LLM prompt:
+
+> "I'm trying to understand a decision that went differently than I expected. The decision was [describe it]. The technical case for the outcome I expected was [describe it]. The outcome that actually happened was [describe it]. What are three non-technical factors that might explain the actual outcome, and what information about the people involved would help me test each explanation?"
+
+Steps:
+
+1.  (5 min) Run the prompt. Does it identify stakeholders and their likely interests? Does it suggest any information you hadn't considered?
+
+2.  (5 min) For your actual situation: who needed to support the decision for it to go through? What did those people care about that wasn't captured in the technical argument?
+
+Deliverable: a one-paragraph account of who actually made the decision and what they cared about.
+
+</section>
+
+<section class="exercise" markdown="1">
+
+### Exercise B: Rewrite the Argument (10 min)
+
+Take a technical proposal you have made or plan to make. Rewrite the core argument for an audience that cares about something other than technical correctness.
+
+Rules: you cannot use any technical terms your audience would not know. You must frame the proposal in terms of something they already care about---risk, cost, reputation, or timeline.
+
+Switch roles if working in pairs. Write: "The LLM got [X] wrong because it didn't know [Y]."
+
+Deliverable: a one-paragraph version of your proposal written for a non-technical decision-maker.
+
+</section>
+
+## Debrief (5 min)
+
+-   "Who needs to support this?" is a more useful question than "what is the best technical argument?"
+-   Participating in organizational politics honestly and deliberately is different from manipulation.
+-   The person who opts out of politics entirely does not escape it. They simply lose.
+
+[%b BuenodeMesquita2011 Crick2000 Pfeffer1992 Runciman2014 %]

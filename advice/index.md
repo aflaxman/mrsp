@@ -6,7 +6,7 @@ I hope you're never fired, or if you are, that the company handles it
 professionally.  In case they don't, this advice is based on [my experience
 being fired by DataCamp][buzzfeed-datacamp] and on what friends and colleagues
 have gone through there and elsewhere Remember: however much you like your job,
-it won't love you back [[Jaffe2021](b:Jaffe2021)].
+it won't love you back [%b Jaffe2021 %].
 
 Insist on a record of all conversations.
 :   The biggest mistake you can make is to assume good faith on the part of
@@ -65,8 +65,8 @@ Remember that it's OK to cry.
 ## Findability
 
 The [FAIR Principles][fair-principles] encourage researchers to make data
-findable, accessible interoperable, and reusable [[Wilkinson2016](b:Wilkinson2016)].
-The tips below, taken from [[Lin2020](b:Lin2020)], will help you turn those
+findable, accessible interoperable, and reusable [%b Wilkinson2016 %].
+The tips below, taken from [%b Lin2020 %], will help you turn those
 principles into practice.
 
 Design for a wide range of users.
@@ -174,7 +174,7 @@ Understand the difference between format and subject.
     making information findable. You can rely on filename suffixes to
     distinguish computational notebooks from PDF files, tabular data sets,
     or slide decks, but file formats can change (e.g., slides can be printed as a PDF).
-    Naming and metadata conventions threfore tend to be more robust as well as more
+    Naming and metadata conventions therefore tend to be more robust as well as more
     informative than relying on file types.
 
 Do not abbrvt.
@@ -244,7 +244,7 @@ Apologize in advance for the state of academic publishing.
 ### If you are a practitioner in industry…
 
 Remember that universities work in seasons, not weeks.
-:   The timescale mis-match described in Rule #1 is due in part to the fact that
+:   The timescale mismatch described in Rule #1 is due in part to the fact that
     academic researchers are almost always multi-tasking, and that many of those
     tasks are things they've never been trained to do. As students, they juggle
     several courses at once (which effectively means that they answer to several
@@ -326,7 +326,7 @@ Start small.
     else involved in whatever it is you want help with.  Don't be surprised or
     disappointed if that's where things end: everyone is busy or tired or has
     projects of their own, or maybe just has a different mental model of how
-    collaboration is supposed to work.  Remember the 90-9-1 rule and set your
+    collaboration is supposed to work.  Remember the [%g 90-9-1 "90-9-1 rule" %] and set your
     expectations accordingly.
 
 Don't build a project: build a community.

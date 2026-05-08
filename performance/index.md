@@ -1,0 +1,218 @@
+# Performance and Growth
+
+<p class="subtitle" markdown="1">helping people do their best work</p>
+
+## Learning Objectives
+
+-   Give specific, actionable feedback using a structured format.
+-   Run a useful performance review rather than a compliance exercise.
+-   Help staff identify and pursue realistic career development goals.
+
+## The Conversation You Keep Postponing (15 min)
+
+Tahia had been submitting pull requests
+with commit messages like "fix stuff" and "more changes".
+Jess had been meaning to raise it for two months.
+She kept not doing it because it felt awkward and because the code itself was fine.
+
+The problem with postponing is that it compounds.
+By the time Jess did have the conversation,
+Tahia had a backlog of sixty commits with useless messages,
+and Jess had two months of low-grade frustration coloring
+how she interpreted everything else Tahia did.
+What would have been a two-minute conversation in week one
+had turned into an uncomfortable one in week nine.
+
+## Feedback
+
+Vague feedback like "your communication needs work"
+sends someone away with nothing they can act on;
+specific feedback gives them a target.
+The SBI format makes difficult conversations more manageable
+by forcing you to be specific:
+
+-   *Situation*: "In the last four pull requests…"
+-   *Behavior*: "…your commit messages describe what changed but not why,
+    for example 'fix stuff' and 'more changes'…"
+-   *Impact*: "…which means when I need to understand the history of a change six months from now,
+    I have to read the code rather than the log."
+
+Use the same format for positive feedback:
+"In last week's code review,
+you caught the edge case in the parser before it was merged,
+which saved us from a bug that would have affected every user of the wildlife dataset."
+
+When you give negative feedback,
+do it in a one-to-one meeting.
+Ambushing someone in a group setting turns the conversation into a status competition
+rather than a discussion about improvement.
+
+<div class="callout" markdown="1">
+
+Giving feedback is uncomfortable in both directions.
+The first time Jess used the SBI format with Tahia,
+she rehearsed it three times before the meeting.
+Tahia's response was, "Oh, I didn't know that was a problem. I'll fix it."
+The conversation Jess had been dreading for two months took four minutes.
+The discomfort before the conversation is almost always worse than the conversation itself.
+
+</div>
+
+## Performance Reviews
+
+Annual performance reviews are often described as a management best practice.
+In practice, most of them are a compliance exercise:
+a form gets filled out,
+a box gets checked,
+and nobody's behavior changes.
+The review that actually helps someone is the one that surprises them with nothing.
+
+That means the one-to-one meeting has to do the real work.
+A weekly or biweekly one-to-one with a three-part agenda
+(what did you do, what are you planning, what is blocking you)
+gives you and the person you manage a shared record of expectations and progress.
+When the annual review arrives,
+you are summarizing a conversation that has been happening all year,
+not reconstructing one from memory.
+
+A few things that make reviews more useful and less painful:
+
+-   Write down expectations before the review period starts, not during it.
+    "Meets expectations" only means something if the expectations were documented in advance.
+-   Separate the performance conversation from the compensation conversation.
+    When the two happen in the same meeting,
+    people stop hearing the feedback the moment money comes up.
+-   Document everything.
+    If a performance problem is serious enough to discuss,
+    it is serious enough to put in writing.
+    A pattern of undocumented verbal warnings does not help anyone.
+
+<div class="callout" markdown="1">
+
+If you are not sure whether a performance issue is serious enough to document formally,
+ask yourself:
+if this person were fired in six months,
+would I be able to explain to HR why it wasn't a surprise?
+If the answer is no,
+start writing things down now.
+
+</div>
+
+## Training and Skill Development
+
+Research software teams tend to underspend on training
+for the same reason they underspend on documentation:
+the return is diffuse and delayed,
+and the immediate cost is visible.
+The result is that people learn on the job in ways that are slow, uneven, and occasionally expensive.
+
+A more deliberate approach starts with identifying the gap between
+what someone can do and what the project needs them to be able to do—not in the abstract,
+but for specific tasks coming up in the next quarter.
+Training that connects to near-term work is more likely to stick
+than training that feels like a general self-improvement exercise.
+
+Training can take several forms:
+
+-   Pair programming and code review:
+    the cheapest form of skill transfer that already happens in most projects,
+    usually without being treated as training.
+-   Structured reading:
+    a paper or chapter a week, discussed in a one-to-one.
+    In practice, this rarely works because it is the first thing to be set aside
+    when "real" work needs to be done.
+-   Preparing a presentation:
+    the best way to get someone to learn something is
+    to tell them that they'll be teaching it to others four weeks from now.
+-   Workshops and short courses:
+    these are more expensive, but useful for filling specific gaps.
+-   Conference attendance:
+    also expensive,
+    but useful for exposure and networking.
+
+Whatever you budget, be consistent.
+If one person on a two-person team gets professional development funding and the other does not,
+you have created a grievance regardless of the reason.
+
+## Career Development Conversations
+
+Most managers wait for staff to bring up career goals.
+Most staff are nervous to do this
+because they do not want to seem like they are angling for something
+or planning to leave.
+The result is that career conversations do not happen
+until someone has already decided to go somewhere else.
+
+The conversation is simpler if you make it a standing item rather than a special occasion.
+"Where do you want to be in two years,
+and what would we need to be true for you to get there?"
+is not a threatening question if you ask it every six months.
+To make the discussion productive:
+
+-   Be honest about what is and is not possible in your project and institution.
+    Promising a promotion path that does not exist does more damage than having no promotion path.
+-   Connect the person's goals to the project's needs where you can.
+    "We need someone to own the data ingestion pipeline,
+    and you want more infrastructure experience—those could be the same thing"
+    is a conversation worth having.
+-   Document what you agree to.
+
+<div class="callout" markdown="1">
+
+Career development for research software engineers is complicated by the fact that
+RSE is still not a standard career track at most institutions.
+The people you manage may be trying to navigate toward a research position,
+a staff engineering role,
+or something that does not have a name yet.
+Be honest about the limits of what you can offer,
+and about what you have seen work elsewhere.
+
+</div>
+
+<section class="exercise" markdown="1">
+
+## Exercises
+
+### Feedback Role-Play (8 min)
+
+Prompt the LLM with this:
+
+> Play the role of a junior programmer on my research software team.
+> I'm going to give you feedback about a real situation.
+> Respond in character:
+> push back if the feedback is vague, accept it if it's specific and fair.
+> Here's the situation:
+> [describe a real or plausible scenario where you needed to give someone feedback
+> but found it difficult].
+
+Have the feedback conversation using the SBI format.
+If the LLM accepts your first attempt without pushback,
+your feedback was too vague,
+so try prompting it with more specifics.
+
+</section>
+
+<section class="exercise" markdown="1">
+
+### Career Conversation (7 min)
+
+Think of someone on your team or someone you manage in a volunteer project.
+Write answers to these two questions as if you were that person:
+
+-   Where do I want to be professionally in two years?
+-   What would need to be true for me to get there?
+
+Then switch perspective:
+write one thing the project could offer that would help them move toward that goal,
+and one honest constraint you would need to name.
+
+</section>
+
+## Debrief (5 min)
+
+-   The performance review that surprises no one is
+    the one that has been happening all year in one-to-one meetings.
+    The annual review form is the record, not the event.
+-   Career conversations can be uncomfortable for the same reason feedback conversations are:
+    specificity requires commitment.
+    "We'll see what we can do" is not a career development plan.
