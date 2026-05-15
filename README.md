@@ -47,6 +47,9 @@ day; Sessions 10-15 are additional half-day modules that can be added individual
 1.  [Bibliography](@/bibliography/)
 1.  [Glossary](@/glossary/)
 1.  [Advice](@/advice/)
+1.  [Development Process](@/process/)
+1.  [Managing Conflict](@/conflict/)
+1.  [Security](@/security/)
 
 </div>
 
