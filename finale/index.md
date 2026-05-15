@@ -68,7 +68,7 @@ Prompt the LLM like this:
     or an external deadline.
 1.  Make a list of two people you need to talk to
     (either by name or by role)
-	and what you need.
+    and what you need.
 
 </section>
 
