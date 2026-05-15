@@ -185,9 +185,3 @@ or your jurisdiction's legal requirements.
 if those are in the repository.)
 
 </section>
-
-## Debrief (5 min)
-
--   What are the most common protocol violations in the group?
--   What are the most common "don't know" responses in the group?
--   Who is most often identified as the person to talk to about these things?

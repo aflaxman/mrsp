@@ -117,9 +117,3 @@ Prompt the LLM with something like this:
     Flag any "in progress" issue with no recent activity as "stalled."
 
 </section>
-
-## Debrief
-
--   The Problems column is where the meeting's value lives.
--   The status update is not a performance review.
-    If people treat it as one, they will never put real blockers in the Problems column.

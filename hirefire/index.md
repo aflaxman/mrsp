@@ -224,12 +224,3 @@ The plan should include:
 -   The immediate actions required on their last day
 
 </section>
-
-## Debrief (5 min)
-
--   The most common hiring mistake is treating the process as a formality
-    once you have already decided who you want.
-    The paperwork exists to protect candidates, not to inconvenience managers.
--   The no-surprises rule is the one most managers know and most consistently ignore.
-    If someone is surprised they are being let go,
-    the performance management process failed before the termination decision.

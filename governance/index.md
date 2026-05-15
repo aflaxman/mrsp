@@ -230,18 +230,3 @@ The other two play roles:
     Ask one question about how they could have raised that disagreement.
 
 </section>
-
-## Debrief (5 min)
-
--   The most common gap in a governance statement is handling a situation where
-    the project lead is wrong and won't change their mind.
-    Whose governance statements covered this?
--   The second most common gap is
-    how decisions are communicated to users (and funders) who aren't contributors.
-    Whose governance statement covered this?
--   "Substantial contribution" is not specific.
-    "Wrote or reviewed more than 10% of the code,
-    as measured by git blame at the time of submission"
-    is specific.
--   The most common authorship conflict is the one nobody prepared for.
-    It never feels premature after it happens.

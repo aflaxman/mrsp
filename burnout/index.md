@@ -134,11 +134,3 @@ In pairs:
 Deliverable: three specific actions for this week.
 
 </section>
-
-## Debrief (5 min)
-
--   Maintenance work that is invisible is maintenance work that accumulates into burnout.
-    Making it visible is not bureaucracy; it is protection.
--   The sustainability check question---"is your current workload sustainable?"---is
-    most useful when asked regularly enough that the answer "no" doesn't feel like a
-    crisis confession.

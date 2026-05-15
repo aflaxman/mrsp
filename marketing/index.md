@@ -153,11 +153,3 @@ Switch roles and repeat the exercise,
 then rewrite your pitches.
 
 </section>
-
-## Debrief (5 min)
-
--   The most common error made by both people and LLMs is
-    describing the software's technical properties rather than the problems it solves.
--   Another common error is providing too much detail.
-    Try rewriting your pitch as a single sentence,
-    then think carefully about what you were able to throw away.

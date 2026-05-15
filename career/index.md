@@ -117,10 +117,3 @@ Deliverable: an advocacy list with at least one item per person, or a specific p
 for any gaps.
 
 </section>
-
-## Debrief (5 min)
-
--   The most common gap: team members whose contributions are visible inside the
-    project but invisible to the research community.
--   The career conversation is most useful before the person has already decided to
-    leave. By then, it's usually too late to change anything.

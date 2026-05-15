@@ -207,12 +207,3 @@ write one thing the project could offer that would help them move toward that go
 and one honest constraint you would need to name.
 
 </section>
-
-## Debrief (5 min)
-
--   The performance review that surprises no one is
-    the one that has been happening all year in one-to-one meetings.
-    The annual review form is the record, not the event.
--   Career conversations can be uncomfortable for the same reason feedback conversations are:
-    specificity requires commitment.
-    "We'll see what we can do" is not a career development plan.

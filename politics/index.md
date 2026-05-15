@@ -72,10 +72,6 @@ Deliverable: a one-paragraph version of your proposal written for a non-technica
 
 </section>
 
-## Debrief (5 min)
-
--   "Who needs to support this?" is a more useful question than "what is the best technical argument?"
--   Participating in organizational politics honestly and deliberately is different from manipulation.
--   The person who opts out of politics entirely does not escape it. They simply lose.
+## See Also
 
 [%b BuenodeMesquita2011 Crick2000 Pfeffer1992 Runciman2014 %]

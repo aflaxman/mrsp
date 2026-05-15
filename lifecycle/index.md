@@ -105,9 +105,3 @@ Write: "The hardest condition to write precisely was [X] because [Y]."
 Deliverable: a one-page advance directive with one unhandled scenario noted.
 
 </section>
-
-## Debrief (5 min)
-
--   The most common single point of failure is release credentials on a personal account.
--   Writing the advance directive is hardest for the person most central to the project,
-    because they are the one who has thought least about what happens without them.

@@ -147,8 +147,3 @@ Swap your draft with a partner.
     that their document doesn't answer.
 
 </section>
-
-## Debrief (5 min)
-
--   What were the most common gaps or errors in the contributor guidelines?
--   What did the LLM get wrong or miss entirely?

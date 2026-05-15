@@ -132,10 +132,3 @@ One person is the user, the other is the product manager.
     What did the LLM simulate well?
 
 </section>
-
-## Debrief (5 min)
-
--   The key question is almost never the first one the user raises.
--   The LLM cannot simulate the user's history with your software,
-    their workarounds,
-    and their emotional investment in how it currently works.

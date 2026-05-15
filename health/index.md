@@ -148,10 +148,3 @@ Note dimensions where the LLM's score differs from yours by more than one point.
 2.  Write one concrete action you could take in the next two weeks to raise the score.
 
 </section>
-
-## Debrief (5 min)
-
-1.  Show of hands: which dimension scored lowest most often?
-    (Governance and contribution pathway are almost always near the bottom.)
-
-2.  One learner presents their LLM report and corrections.

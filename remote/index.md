@@ -129,10 +129,3 @@ missed.
 Deliverable: a one-page communication structure document.
 
 </section>
-
-## Debrief (5 min)
-
--   The 48-hour review policy is the single change that most improves distributed
-    contributor engagement.
--   The time zone rotation for meetings signals that the project values contributors
-    in all locations. Not doing it signals the opposite, even if unintentionally.

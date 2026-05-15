@@ -129,10 +129,3 @@ Write: "The LLM got [X] wrong because it didn't know [Y]."
 Deliverable: one phrase you'll use and one you'll stop using.
 
 </section>
-
-## Debrief (5 min)
-
--   You cannot build psychological safety with a policy. It is built through hundreds
-    of small interactions over months.
--   The fastest way to destroy it is to respond badly to bad news once and then expect
-    people to forget.

@@ -32,8 +32,6 @@ day; Sessions 10-15 are additional half-day modules that can be added individual
 1.  [Remote and Distributed Collaboration](@/remote/)
 1.  [Recognizing and Responding to Burnout](@/burnout/)
 1.  [Office Politics](@/politics/)
-1.  [The Myth of Meritocracy](@/meritocracy/)
-1.  [Why Facts Don't Change Minds](@/changeminds/)
 
 </div>
 
@@ -46,7 +44,6 @@ day; Sessions 10-15 are additional half-day modules that can be added individual
 1.  [Contributing](@/contributing/)
 1.  [Bibliography](@/bibliography/)
 1.  [Glossary](@/glossary/)
-1.  [Advice](@/advice/)
 1.  [Development Process](@/process/)
 1.  [Managing Conflict](@/conflict/)
 1.  [Security](@/security/)
