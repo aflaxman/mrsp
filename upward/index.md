@@ -40,20 +40,20 @@ Three practices make the relationship work:
 Translate effort into impact.
 :   "That feature would take three weeks" rarely lands.
     "If we build that feature, we won't be able to fix the reproducibility problem
-	before the ESIP conference,
-	which means our three submitted talks will all demo a version that doesn't run on Windows" lands.
-	Managers make priority decisions by comparing impacts, not by estimating hours.
+    before the ESIP conference,
+    which means our three submitted talks will all demo a version that doesn't run on Windows" lands.
+    Managers make priority decisions by comparing impacts, not by estimating hours.
 
 Say no by offering alternatives.
 :   "I can't do that" puts your manager in the position of having to disagree with you or back down.
     "I can do that if we defer item 12, which would push the March release by two weeks" gives them a choice.
-	Most managers will make the trade-off sensibly when it is presented as a trade-off.
+    Most managers will make the trade-off sensibly when it is presented as a trade-off.
 
 Give written updates before they ask.
 :   A brief weekly email summarizing what's done, what's in progress, and what's blocking
-	takes five minutes to write and prevents thirty minutes of ad hoc check-ins.
-	It also creates a record that protects you when someone asks why the March release slipped:
-	you told them in February.
+    takes five minutes to write and prevents thirty minutes of ad hoc check-ins.
+    It also creates a record that protects you when someone asks why the March release slipped:
+    you told them in February.
 
 <div class="callout" markdown="1">
 
@@ -96,8 +96,8 @@ Prompt an LLM with something like this:
 
 1.  Rewrite the explanation for your actual supervisor,
     based on what they actually care about.
-	What would make them say yes?
-	What would make them say "let's wait until next quarter"?
+    What would make them say yes?
+    What would make them say "let's wait until next quarter"?
 reader.
 
 </section>
@@ -115,6 +115,6 @@ reader.
 
 1.  Repeat the exercise using an LLM as your manager.
     What prompt did you give it?
-	Was its output useful for helping you practice for a real conversation?
+    Was its output useful for helping you practice for a real conversation?
 
 </section>
