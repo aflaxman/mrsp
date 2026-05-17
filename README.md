@@ -52,10 +52,9 @@ day; Sessions 10-15 are additional half-day modules that can be added individual
 
 <p class="center">
   <em>
-    Start where you are
-    <br/>
-    Use what you have
-    <br/>
-    Help who you can
-  </em>
+    start where you are
+    &middot;
+    use what you have
+    &middot;
+    help who you can
 </p>
