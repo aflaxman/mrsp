@@ -4,6 +4,19 @@ Contributions are very welcome;
 please contact us [by email][email] or by filing an issue in [our repository][repo].
 All contributors must abide by our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
+## Contributors
+
+*[Greg Wilson][wilson-greg]* is a programmer, author, and educator based in Toronto.
+He was the co-founder and first Executive Director of Software Carpentry
+and received ACM SIGSOFT's Influential Educator Award in 2020.
+
+Thanks to:
+
+-   Daniel Standage for helping create the original workshop
+-   Karl Fogel for *[Producing Open Source Software][producing-oss]*
+-   Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, and Charlotte Wickham for *[Research Software Engineering with Python][py-rse]*
+-   Everyone cited in the bibliography
+
 ## Setup and Operation
 
 -   Install [uv][uv].

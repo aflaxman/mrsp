@@ -50,19 +50,6 @@ day; Sessions 10-15 are additional half-day modules that can be added individual
 
 </div>
 
-## Acknowledgments {: #acknowledgments}
-
--   *[Greg Wilson][wilson-greg]* is a programmer, author, and educator based in Toronto.
-    He was the co-founder and first Executive Director of Software Carpentry
-    and received ACM SIGSOFT's Influential Educator Award in 2020.
-
-With thanks to:
-
--   Daniel Standage for helping create the original workshop
--   Karl Fogel for *[Producing Open Source Software][producing-oss]*
--   Damien Irving, Kate Hertweck, Luke Johnston, Joel Ostblom, and Charlotte Wickham for *[Research Software Engineering with Python][py-rse]*
--   And everyone cited in the bibliography
-
 <p class="center">
   <em>
     Start where you are
