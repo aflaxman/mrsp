@@ -8,7 +8,7 @@
 -   Push back on requests you can't fulfill without losing credibility.
 -   Frame resource requests in terms of impact rather than effort.
 
-## Starting Point
+## Before
 
 At every team meeting,
 Jess's supervisor added items to the simulator's roadmap.
@@ -23,7 +23,7 @@ Jess could say yes to everything and deliver nothing on time
 while quietly resenting the situation,
 Or she could learn to manage the relationship.
 
-## Working With the People Above You (10 min)
+## Working With the People Above You
 
 Managing your manager does not mean undermining them or working around them.
 It means making the relationship productive in both directions.
@@ -65,7 +65,7 @@ If you don't give them that information, they'll make decisions without it.
 
 </div>
 
-### Jess's Situation
+## After
 
 Jess started keeping a one-page "capacity document" that listed the team's current commitments
 with rough time estimates.
@@ -75,6 +75,8 @@ she emailed it to him with one sentence for each proposed new item:
 Her supervisor stopped adding items without asking about capacity first.
 The conversation shifted from "here are more things to do"
 to "here is the trade-off I'm asking you to make".
+
+## Exercises
 
 <section class="exercise" markdown="1">
 

@@ -8,7 +8,7 @@
 -   Distinguish between claiming a practice is followed and having evidence it is followed.
 -   Identify the compliance and safety obligations most likely to apply to your project.
 
-## Starting Point
+## Before
 
 Jess reviewed Ren's first pull request thirty minutes after he submitted it.
 The code was fine,
@@ -24,6 +24,8 @@ before a commit was merged.
 She had assumed Ren would know not to commit credentials;
 Ren had assumed credentials in commit messages were fine
 because nobody had told him otherwise.
+
+## Trust, But Verify
 
 When Jess was a grad student,
 her job was to write tests and meaningful commit messages.
@@ -59,7 +61,7 @@ institutional compliance officers,
 collaborators deciding whether to depend on your software,
 and your future self trying to understand why a decision was made two years ago.
 
-An [%g audit_trail "audit trail" %] is not surveillance.
+An [%g audit-trail "audit trail" %] is not surveillance.
 You are not tracking your team members to catch them doing something wrong:
 you are doing it to prevent mishaps.
 The practices below are a review, not a tutorial.
@@ -76,8 +78,9 @@ Code review
     review comments are addressed, not just dismissed.
 
 Testing
-:   Tests are run before every merge; CI is configured and a failing
+:   [%g unit-test "Unit tests" %] are run before every merge; CI is configured and a failing
     build blocks the merge; coverage is tracked and not declining.
+    [%g tdd "Test-driven development" %] is one way to ensure tests exist before code is merged [%b Petre2014 %].
 
 Dependencies
 :   Versions are pinned; `pip audit` or the equivalent runs regularly;
@@ -106,11 +109,11 @@ IRB and ethics review
 Secrets in version control
 :   Api keys, passwords, and personal data committed to git are not
     gone when deleted: they live in history. Tools like `git-secrets`
-    or `trufflehog` detect them. [%g secret-rotation "Rotation" %],
+    or `trufflehog` detect them. [%g secret-rotation "Key rotation" %],
     not deletion, is the fix when accidents happen.
 
 Licensing
-:   A contributor who adds GPL code to your MIT-licensed project
+:   A contributor who adds [%g gpl "GPL" %] code to your [%g mit-license "MIT" %]-licensed project
     changes the license of the whole project. A Contributor License
     Agreement or Developer Certificate of Origin clarifies who owns
     what before it becomes a problem.
@@ -120,7 +123,7 @@ Export controls
     subject to export control regulations. This is your institution's
     legal team's problem, but you need to know the question exists.
 
-## Jess's Situation
+## After
 
 After the API key incident,
 Jess added `git-secrets` to the repository's pre-commit hooks

@@ -8,7 +8,7 @@
 -   Run a useful performance review rather than a compliance exercise.
 -   Help staff identify and pursue realistic career development goals.
 
-## The Conversation You Keep Postponing (15 min)
+## Before
 
 Tahia had been submitting pull requests
 with commit messages like "fix stuff" and "more changes".
@@ -31,10 +31,10 @@ specific feedback gives them a target.
 The SBI format makes difficult conversations more manageable
 by forcing you to be specific:
 
--   *Situation*: "In the last four pull requests…"
--   *Behavior*: "…your commit messages describe what changed but not why,
+-   Situation: "In the last four pull requests…"
+-   Behavior: "…your commit messages describe what changed but not why,
     for example 'fix stuff' and 'more changes'…"
--   *Impact*: "…which means when I need to understand the history of a change six months from now,
+-   Impact: "…which means when I need to understand the history of a change six months from now,
     I have to read the code rather than the log."
 
 Use the same format for positive feedback:

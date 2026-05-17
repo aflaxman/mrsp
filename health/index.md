@@ -8,7 +8,7 @@
 -   Score your own project on each dimension.
 -   Identify the highest-priority gaps.
 
-## Starting Point
+## Before
 
 Three weeks after Jess started their post-doc,
 she got an email from Aaron at another lab,
@@ -24,13 +24,15 @@ and maintainable by someone who isn't you.
 Most research software projects score well on none of these,
 and most researchers don't find out until someone like Aaron emails them.
 
-## What "Healthy" Means (20 min)
+## What "Healthy" Means
 
 You can use these six dimensions to assess the state of your project:
 
 [%g findability "Findability" %]
-:   The project has a DOI and a `CITATION.cff` file,
-    and is listed in at least one relevant registry.
+:   The project has a [%g doi "DOI" %] and a `CITATION.cff` file,
+    is listed in at least one relevant registry,
+    and follows the [%g fair "FAIR Principles" %] for findable, accessible, interoperable,
+    and reusable data [%b Lin2020 Wilkinson2016 %].
     Without these,
     two groups will independently build the same tool,
     and neither will find the other until years later.
@@ -38,12 +40,13 @@ You can use these six dimensions to assess the state of your project:
 [%g reproducibility "Reproducibility" %]
 :   Dependencies are [%g pin-dependencies "pinned" %],
     the project runs inside a [%g virtual-environment "virtual environment" %] or [%g container "container" %],
-    and there is a script that re-runs the whole analysis from raw data.
+    and there is a script that re-runs the whole analysis from raw data
+    with a fixed [%g rng-seed "seed" %] for any stochastic steps [%b Taschuk2017 %].
     Without this,
     collaborators can't run the code or check results.
 
 [%g testability "Testability" %]
-:   Automated tests exist and are run on every change via [%g continuous-integration "continuous integration" %].
+:   Automated tests exist and are run on every change via [%g ci "continuous integration" %].
     Without this, every fix can introduce new bugs.
     (You may or may not track test [%g test-coverage "test coverage" %];
     if you do,
@@ -75,7 +78,20 @@ Later modules will talk more about the human aspects of management.
 
 </div>
 
-## Jess's Situation
+## Honesty is Uncomfortable
+
+Starting with an honest audit is uncomfortable.
+It matters because it tells you which something to fix first.
+Improving your lowest dimension by one point before next week
+is worth more than polishing a dimension that's already 4/5.
+
+In our experience,
+an LLM will usually give your project a higher score than it deserves:
+it has no way to know whether your `CONTRIBUTING.md` has been tested recently,
+whether your CI actually blocks merges,
+or whether anyone other than you can cut a release.
+
+## After
 
 Here are Jess's scores:
 
@@ -92,21 +108,6 @@ The 0 on governance was the one that surprised her.
 She hadn't written down how decisions were made because nobody had disagreed yet.
 She found out later that this pattern is nearly universal:
 governance feels unnecessary until the moment it isn't.
-
-<div class="callout" markdown="1">
-
-Starting with an honest audit is uncomfortable.
-It matters because it tells you which something to fix first.
-Improving your lowest dimension by one point before next week
-is worth more than polishing a dimension that's already 4/5.
-
-In our experience,
-an LLM will usually give your project a higher score than it deserves:
-it has no way to know whether your `CONTRIBUTING.md` has been tested recently,
-whether your CI actually blocks merges,
-or whether anyone other than you can cut a release.
-
-</div>
 
 ## Exercises
 

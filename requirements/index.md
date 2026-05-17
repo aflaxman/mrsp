@@ -8,7 +8,7 @@
 -   Conduct a short requirements conversation and extract a concrete specification.
 -   Prioritize a backlog using a two-axis framework.
 
-## What Users Say vs. What They Need (20 min)
+## Before
 
 The email arrived on a Tuesday:
 "Hi Jess, I love the simulator but I really need to be able to add notes to my data.
@@ -73,7 +73,7 @@ but this doesn't justify building it if few users will notice when it's done.
 and that adding features makes maintenance harder
 for everyone who uses the features you already have [%b Perri2018 %].)
 
-## Jess's Situation
+## After
 
 After the notes conversation,
 Jess applied the same five-question approach to the four oldest items on her backlog.

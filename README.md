@@ -29,7 +29,7 @@ day; Sessions 10-15 are additional half-day modules that can be added individual
 1.  [Psychological Safety](@/safety/)
 1.  [Succession and Endings](@/lifecycle/)
 1.  [Career Development for RSEs](@/career/)
-1.  [Remote and Distributed Collaboration](@/remote/)
+1.  [Remote Collaboration](@/remote/)
 1.  [Recognizing and Responding to Burnout](@/burnout/)
 1.  [Office Politics](@/politics/)
 

@@ -1,5 +1,4 @@
 [black]: https://black.readthedocs.io/
-[calendly]: https://calendly.com/
 [closure-workshop]: https://third-bit.com/closure/
 [coverage]: https://coverage.readthedocs.io/
 [datadryad]: https://datadryad.org/

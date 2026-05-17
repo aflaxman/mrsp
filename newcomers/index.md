@@ -8,7 +8,7 @@
 -   Evaluate a `CONTRIBUTING.md` for a real newcomer's experience.
 -   Produce a draft `CONTRIBUTING.md` that a stranger could follow.
 
-## Starting Point
+## Before
 
 Two external contributors had submitted pull requests to the simulator
 six weeks before this workshop.
@@ -22,6 +22,8 @@ Both contributors had gone quiet.
 When Jess emailed to apologize,
 the Finnish postdoc replied politely that she'd already implemented the feature in her own fork.
 The New Zealand student didn't reply at all.
+
+## Feeling Welcome
 
 [%b Steinmacher2015 %] studied why newcomers abandon open source projects
 and found that the majority of drop-off doesn't happen because of technical problems,
@@ -62,9 +64,11 @@ If they can't estimate, the issue isn't ready for the label.
 
 </div>
 
+## Legitimate Peripheral Participation
+
 [%g lpp "Legitimate peripheral participation" %] is the idea that
-newcomers ease into a community by starting with small, low-risk tasks
-that still contribute something real [%b Wenger1999 %].
+newcomers ease into a [%g community-of-practice "community of practice" %] by starting with small, low-risk tasks
+that still contribute something real [%b Sholler2019 Wenger1999 %].
 Jess asked Ren to write one test before touching any production code.
 He learned the project structure,
 got a successful pull request merged,
@@ -86,7 +90,7 @@ you need to write it before [%b Aurora2019 %].
 
 </div>
 
-## Jess's Situation
+## After
 
 After the two abandoned pull requests,
 Jess rewrote the `CONTRIBUTING.md` from scratch.

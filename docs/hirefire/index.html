@@ -34,7 +34,7 @@
 <li><a href="../safety/">Psychological Safety</a></li>
 <li><a href="../lifecycle/">Succession and Endings</a></li>
 <li><a href="../career/">Career Development for RSEs</a></li>
-<li><a href="../remote/">Remote and Distributed Collaboration</a></li>
+<li><a href="../remote/">Remote Collaboration</a></li>
 <li><a href="../burnout/">Recognizing and Responding to Burnout</a></li>
 <li><a href="../politics/">Office Politics</a></li>
 </ul>
@@ -64,7 +64,7 @@
 <li>Follow a structured process for letting someone go without making it worse.</li>
 <li>Know how to protect yourself if you are the one being let go.</li>
 </ul>
-<h2>Two Decisions You Can't Take Back (15 min)</h2>
+<h2>Before</h2>
 <p>Jess needed to fill a six-month contract position to help with data pipeline work
 while Tahia was on maternity leave.
 She mentioned it to a colleague at lunch,
@@ -92,9 +92,14 @@ The basics that frequently get skipped:</p>
     "Must have experience with large-scale distributed data pipelines"
     helps both sides.</li>
 </ul>
+<h2>Interviewing</h2>
 <p>[<a class="bib-ref" href="../bibliography/#Behroozi2020">Behroozi2020</a>] studied hundreds of technical hiring processes
 and found that interviewers consistently overrate performance under artificial pressure
 and underrate communication skills and documentation habits.
+Hiring decisions also systematically favor candidates whose cultural references and manner
+signal membership in networks the interviewer recognizes—a form of
+<a class="gl-ref" href="../glossary/#social-legibility">social legibility</a> that disadvantages equally qualified people from
+different backgrounds [<a class="bib-ref" href="../bibliography/#Rivera2015">Rivera2015</a>].
 The person who freezes on a whiteboard problem
 but writes clear commit messages and asks good questions in code review
 is usually more valuable to a research software team than the reverse.</p>
@@ -116,32 +121,34 @@ Keeping them on is bad for morale as well as productivity.
 Firing them is the hardest part of managing a team.
 The steps below don't make it easier,
 but they make it less likely to go badly.</p>
-<p><em>Talk to HR first.</em>
-Every jurisdiction has rules about termination.
+<dl>
+<dt>Talk to HR first.</dt>
+<dd>Every jurisdiction has rules about termination, and some offer
+<a class="gl-ref" href="../glossary/#at-will-employment">at-will employment</a> while others require documented cause.
 Talk to Human Resources before doing anything else,
 including before telling anyone on your team that you're considering it.
 If your project is open source and the person is a volunteer contributor,
 your governance document should already spell out criteria for membership
-and who decides when that privilege is revoked.</p>
-<p><em>Check with someone outside the project.</em>
-It is hard to think clearly about someone who has frustrated you for months.
+and who decides when that privilege is revoked.</dd>
+<dt>Check with someone outside the project.</dt>
+<dd>It is hard to think clearly about someone who has frustrated you for months.
 Not liking someone is not sufficient reason to let them go,
 and the two are easy to confuse.
 Before you do anything you might regret,
 talk to a colleague or mentor outside the project with no stake in the outcome.
 They are more likely to be objective
-(and less likely to let something slip back to your team before you are ready to act).</p>
-<p><em>Create a transition plan.</em>
-The better practice is to ask everyone to document their work all the time,
+(and less likely to let something slip back to your team before you are ready to act).</dd>
+<dt>Create a transition plan.</dt>
+<dd>The better practice is to ask everyone to document their work all the time,
 which keeps roles and responsibilities current
 and means you are not caught short in any departure, voluntary or otherwise.
 Before the termination conversation,
 write out the immediate steps,
 like changing passwords and removing them from permission lists.
 Going through this list in advance is also a useful reminder of
-how much organizational overhead has quietly accumulated around your project.</p>
-<p><em>No surprises.</em>
-If someone is surprised they are being fired, you have made a mistake.
+how much organizational overhead has quietly accumulated around your project.</dd>
+<dt>No surprises.</dt>
+<dd>If someone is surprised they are being fired, you have made a mistake.
 If the reason is behavior,
 they should know what is in the code of conduct,
 and you should have given them clear warnings before reaching this point.
@@ -150,26 +157,27 @@ you should have told them directly that they were not meeting expectations
 and given them a genuine opportunity to improve.
 The no-surprises rule also protects you:
 you will feel bad if you discover they have been missing deadlines
-because of a family illness they were too embarrassed to mention.</p>
-<p><em>Delivery.</em>
-Write out what you are going to say and keep it short.
+because of a family illness they were too embarrassed to mention.</dd>
+<dt>Delivery.</dt>
+<dd>Write out what you are going to say and keep it short.
 Practice it out loud:
 not to read from a script,
 but because rehearsing forces you to find the words before the moment arrives.
 Get straight to the point and do not get drawn into "what if" discussions.
-Stick to the practical matters you identified in the transition plan.</p>
-<p><em>Telling the team.</em>
-Make sure your team hears the news from you before rumors start.
+Stick to the practical matters you identified in the transition plan.</dd>
+<dt>Telling the team.</dt>
+<dd>Make sure your team hears the news from you before rumors start.
 Keep the statement brief and factual and do not discuss the details.
 The person you let go has a right to privacy,
 and other team members will notice that you talked about someone's private situation
-and wonder what you would say about them.</p>
-<p><em>Keep a record.</em>
-Do all follow-up communication by email so that both sides have accurate records.
+and wonder what you would say about them.</dd>
+<dt>Keep a record.</dt>
+<dd>Do all follow-up communication by email so that both sides have accurate records.
 If someone insists on a call,
 ask to record it or have a neutral third party present.
 People do not always act in good faith when they are hurt or angry,
-and a record protects everyone.</p>
+and a record protects everyone.</dd>
+</dl>
 <h2>Being Fired</h2>
 <p>Most management guides skip this section.
 They probably shouldn't,
@@ -187,36 +195,38 @@ Their lawyers probably will not allow any statement that acknowledges wrongdoing
 and whatever happened probably wouldn't have
 if they were the sort of institution that could readily admit mistakes.</p>
 </div>
-<p><em>You are not a lawyer.</em>
-Do not cite specific laws unless a lawyer tells you to.
+<dl>
+<dt>You are not a lawyer.</dt>
+<dd>Do not cite specific laws unless a lawyer tells you to.
 Legal language probably does not mean what you think it means,
 and whoever fired you almost certainly has legal representation
-that will seize on any misstatement you make.</p>
-<p><em>Keep public statements brief.</em>
-People may care about what happened to you,
+that will seize on any misstatement you make.</dd>
+<dt>Keep public statements brief.</dt>
+<dd>People may care about what happened to you,
 but most will not care as much as you do.
-A simple, factual account is usually more damning to whoever fired you than an emotional one.</p>
-<p><em>Correct mistakes publicly.</em>
-If you need to correct something said publicly about your departure,
+A simple, factual account is usually more damning to whoever fired you than an emotional one.</dd>
+<dt>Correct mistakes publicly.</dt>
+<dd>If you need to correct something said publicly about your departure,
 add a timestamped correction rather than editing what you previously wrote.
 Editing looks like rewriting history,
-and you should be prepared for the other side to imply that you're being dishonest.</p>
-<p><em>Be honest about your own failings.</em>
-Speak to all the issues directly rather than glossing over things you would rather not discuss.
+and you should be prepared for the other side to imply that you're being dishonest.</dd>
+<dt>Be honest about your own failings.</dt>
+<dd>Speak to all the issues directly rather than glossing over things you would rather not discuss.
 Your honesty is your greatest asset in this kind of situation,
-and it is hypocritical to criticize the organization for spin if you are doing the same thing.</p>
-<p><em>Don't sign away your right to speak.</em>
-Do not sign any agreement that prevents you from speaking about moral or legal concerns
+and it is hypocritical to criticize the organization for spin if you are doing the same thing.</dd>
+<dt>Don't sign away your right to speak.</dt>
+<dd>Do not sign any agreement that prevents you from speaking about moral or legal concerns
 without ensuring your concerns are explicitly excluded first.
 This advice is easier to follow from a position of financial security.
 Someone whose immigration status or family income is threatened may not have a real choice,
-which is precisely why people who do have a choice also have an obligation to push back when they can.</p>
-<p><em>Cry if you need to.</em>
-Or go for long walks,
+which is precisely why people who do have a choice also have an obligation to push back when they can.</dd>
+<dt>Cry if you need to.</dt>
+<dd>Or go for long walks,
 or pick up something that requires you to focus
 on anything other than the situation for a while.
 Exhausted people make poor decisions,
-and you need to be at your best.</p>
+and you need to be at your best.</dd>
+</dl>
 <section class="exercise">
 <h2>Exercises</h2>
 <h3>The Hiring Brief (10 min)</h3>

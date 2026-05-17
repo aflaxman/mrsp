@@ -8,7 +8,7 @@
 -   Identify specific behaviors that create or destroy it.
 -   Change one practice in your own project to make it safer to admit uncertainty.
 
-## When People Stop Telling You Things
+## Before
 
 Jess had been noticing for a while that
 Ren only brought problems to her after they had become crises.
@@ -47,7 +47,7 @@ rather than about people's competence or standing.
 A team where nobody ever says, "I don't think that's right," is not a psychologically safe team—it's
 a team where people have learned that disagreement is dangerous.
 
-### What Managers Do to Destroy It
+## What Managers Do to Destroy It
 
 The most common manager behaviors that destroy psychological safety
 are small, repeated, and often unintentional:
@@ -62,7 +62,7 @@ are small, repeated, and often unintentional:
 -   Changing direction without explaining why,
     which teaches people that their work can be cancelled without warning
 
-### What Managers Do to Build It
+## What Managers Do to Build It
 
 -   Respond to bad news with curiosity rather than frustration:
      "tell me more about how this happened"
@@ -73,7 +73,7 @@ are small, repeated, and often unintentional:
 -   Close the loop:
     when someone flags a risk and it turns out to be real, acknowledge that they were right
 
-### Jess's Situation
+## After
 
 After the conversation with Ren,
 Jess started keeping track of how she responded when people brought her bad news.
@@ -98,6 +98,8 @@ If the answers are "late," "rarely," and "all of them,"
 psychological safety is the likely culprit.
 
 </div>
+
+## Exercises
 
 <section class="exercise" markdown="1">
 

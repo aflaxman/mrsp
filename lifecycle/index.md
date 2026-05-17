@@ -8,7 +8,7 @@
 -   Write a one-page advance directive for your project.
 -   Begin a succession plan for your own role.
 
-## Starting Point
+## Before
 
 At Tahia's annual review,
 she mentioned that she was applying for faculty positions,
@@ -47,8 +47,9 @@ A shared credentials document
     the recovery key is with the department administrator."
 
 A release checklist
-:   The exact steps to make a release,
-    with enough detail that someone who has never done it can follow the checklist and succeed.
+:   The exact steps to make a release—including how to update the version number
+    following [%g semantic-versioning "semantic versioning" %]—with enough detail
+    that someone who has never done it can follow the checklist and succeed.
     Run through it with a second person or an LLM before you need to.
     The moment you need to use it for real is not the moment to discover that
     it is incomplete and out of date..
@@ -72,7 +73,7 @@ not the person who already knows how everything works.
 
 </div>
 
-### Jess's Situation
+## After
 
 Jess spent two afternoons with Tahia documenting the release process and the HPC configuration.
 They discovered that two steps in the process required a personal account
@@ -82,6 +83,8 @@ in a way that hadn't been committed to the repository.
 The documentation surfaced both problems before they became emergencies.
 Tahia ended up staying for another year,
 but the project was no longer fragile in the same way.
+
+## Exercises
 
 <section class="exercise" markdown="1">
 

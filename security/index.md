@@ -50,10 +50,11 @@ Enable [%g 2fa "two-factor authentication" %] everywhere it is available.
 :   An attacker who gets your password still can't log in without your second
     factor. Use an authenticator app rather than SMS, which can be intercepted.
 
-Never share confirmation codes.
+Recognize [%g phishing "phishing" %].
 :   A common attack is to trigger a password reset and then call the target
-    pretending to be IT support, asking them to read back the confirmation code
+    pretending to be IT support—asking them to read back the confirmation code
     to "verify their identity." If you give them the code, they own your account.
+    Never share confirmation codes with anyone who contacts you.
 
 As a developer, require strong passwords and support two-factor authentication
 for any system where users have accounts. Use a well-tested library; don't build
@@ -98,7 +99,7 @@ Know your institution's requirements.
     not suggestions. If you aren't sure what applies to your project, ask your
     institution's research data office before setting up your infrastructure.
 
-## [%g security-theater "Security Theater" %]
+## Security Theater
 
 Much of what gets called security is actually [%g security-theater "security
 theater" %]: practices that create the appearance of protection without
@@ -106,6 +107,8 @@ meaningfully reducing risk. Requiring passwords to be changed every 90 days
 makes people choose worse passwords. Mandatory complex password rules ("must
 include a number, a capital letter, and a hieroglyph") produce passwords like
 "Password1!" that are in every attacker's dictionary.
+The predictable result is [%g security-fatigue "security fatigue" %]:
+people stop caring about security precisely because the demands are unreasonable.
 
 Real security comes from a small number of practices applied consistently:
 unique passwords via a password manager, two-factor authentication, least

@@ -1,96 +1,35 @@
 # Glossary
 
-<span id="90-9-1">90-9-1 rule</span>
-:   90% of people will watch, 9% will speak up, and 1% will actually
-    do things.
-
 <span id="at-will-employment">at-will employment</span>
 :   An employment arrangement, common in the United States, in which
     either party can end the relationship at any time for any reason
     not specifically prohibited by law.
 
-<span id="backfire-effect">backfire effect</span>
-:   The tendency for people to become more confident in a belief when
-    presented with evidence that contradicts it, because the
-    contradiction threatens group membership rather than simply
-    updating information.
-
-<span id="benchmark">benchmark</span>
-:   A program (or set of programs) used to measure or compare the
-    performance of a piece of software.
-
-<span id="benevolent-dictator">benevolent dictator</span>
-:   A person who has final say on all aspects of a project's operation
-    and direction.
-
-<span id="build-manager">build manager</span>
-:   A program that keeps track of how files depend on one another and
-    runs commands to update any files that are out of date.
+<span id="audit-trail">audit trail</span>
+:   A chronological record of actions taken in a system that allows
+    later verification of who did what, when, and why.
 
 <span id="casual-threat">casual threat</span>
 :   A low-effort threat from a relatively unskilled attacker.
-
-<span id="cc-0">CC-0</span>
-:   A shorthand for putting something in the public domain, i.e.,
-    imposing no restriction of any kind on its use.
-
-<span id="cc-by">CC-BY</span>
-:   The Creative Commons - Attribution License, which allows copying,
-    derived works, and for-profit sale so long as the original source
-    is acknowledged.
-
-<span id="cc-by-nc">CC-BY-NC</span>
-:   The Creative Commons - Attribution - NonCommercial License, which
-    allows everything CC-BY does except commercial use without the
-    license holder's permission.
-
-<span id="chief-programmer">chief programmer</span>
-:   A person responsible for most of the new code in a project,
-    similar to a chief surgeon in a hospital.
-
-<span id="chunking">chunking</span>
-:   The act of grouping related concepts together so that they can be
-    stored and processed as a single unit.
-
-<span id="cognitive-load">cognitive load</span>
-:   The amount of working memory needed to accomplish a set of
-    simultaneous tasks.
 
 <span id="community-of-practice">community of practice</span>
 :   A group of people working together on something who assist and
     mentor each other.
 
-<span id="competent-practitioner">competent practitioner</span>
-:   Someone who can do normal tasks in some domain with normal effort
-    under normal circumstances.
-
-<span id="concept-map">concept map</span>
-:   A box-and-connector diagram of the major elements in someone's
-    mental model of something.
+<span id="container">container</span>
+:   A lightweight, portable unit of software that packages an application
+    with all its dependencies and runtime environment so that it runs
+    consistently across different machines.
 
 <span id="ci">continuous integration</span>
 :   A system that merges and tests changes automatically as soon as
     they become available, typically in a temporary copy of the
     project.
 
-<span id="cc">Creative Commons</span>
-:   A non-profit organization that helps overcome barriers to sharing
-    knowledge, principally by publishing and defending a widely-used
-    set of licenses.
-
-<span id="decorator">decorator</span>
-:   A function that takes some other function as input and replaces it
-    with a modified version.
-
-<span id="design-by-contract">design by contract</span>
-:   A style of designing software in which functions specify the
-    pre-conditions that must be true in order for them to run and the
-    post-conditions they guarantee will be true when they return.
-
-<span id="design-pattern">design pattern</span>
-:   A recurring pattern in software design that is specific enough to
-    be worth naming, but not so specific that a single best
-    implementation can be provided by a library.
+<span id="contribution-pathway">contribution pathway</span>
+:   The documented process a newcomer follows to make their first
+    contribution to a project, from setting up the development environment
+    through submitting a pull request and getting it reviewed.
 
 <span id="devops">DevOps</span>
 :   A set of software development, deployment, and management
@@ -100,58 +39,27 @@
 <span id="doi">Digital Object Identifier (DOI)</span>
 :   A multi-part string that uniquely identifies a published document.
 
-<span id="dynamic-loading">dynamic loading</span>
-:   To import a module into memory while a program is already running.
-    Most interpreted languages use dynamic loading, and provide tools
-    so that programs can find and load modules dynamically to
-    configure themselves.
-
-<span id="er-diagram">entity-relationship diagram</span>
-:   A diagram showing the tables in a database, the fields in each,
-    and the relationships between those tables' keys.
-
-<span id="expert">expert</span>
-:   Someone who can diagnose and handle unusual situations, knows when
-    the usual rules do not apply, and tends to recognize solutions
-    rather than reasoning to them.
-
-<span id="expert-blind-spot">expert blind spot</span>
-:   The inability of experts to empathize with novices who are
-    encountering concepts or practices for the first time because they
-    have forgotten what it's like to *not* know something.
-
 <span id="fair">FAIR Principles</span>
 :   Guidelines for making data findable, accessible interoperable, and
     reusable.
 
-<span id="false-beginner">false beginner</span>
-:   Someone who doesn't yet know much about this domain in specific,
-    but who can transfer a lot of understanding from another domain.
-
-<span id="fixture">fixture</span>
-:   The thing on which a test is run, such as the parameters to the
-    function being tested or the file being processed.
-
-<span id="flowchart">flowchart</span>
-:   A block-and-arrow diagram showing the orders in which statements
-    in a function can execute.
+<span id="findability">findability</span>
+:   The degree to which people who could use a project are able to
+    discover it through search engines, software registries, and other
+    channels.
 
 <span id="gpl">GNU Public License (GPL)</span>
 :   An open software license that requires people to share the source
     code of changes or extensions they make.
 
+<span id="governance">governance</span>
+:   The rules and processes by which a project makes decisions, including
+    who has authority over what and how those decisions are recorded and
+    communicated.
+
 <span id="hero-project">hero project</span>
 :   A project in which one person or a small number of people are
     responsible for almost all interactions.
-
-<span id="hippocratic-license">Hippocratic License</span>
-:   A software license that allows people to use and share software so
-    long as they do not violate human rights.
-
-<span id="information-hiding">information hiding</span>
-:   Keeping the implementation details of a class or module internal
-    to that class or module, which allows those details to be changed
-    without affecting other classes or modules.
 
 <span id="insider-threat">insider threat</span>
 :   A threat in which the attacker already has access to privileged
@@ -163,80 +71,29 @@
     information or critical systems because of their personal
     relationship with the target.
 
-<span id="json">JavaScript Object Notation (JSON)</span>
-:   A way to represent data by combining basic values like numbers and
-    character strings in lists and dictionaries. The acronym stands
-    for "JavaScript Object Notation"; unlike better-defined standards
-    like XML, it is unencumbered by a syntax for comments or ways to
-    define a schema.
-
-<span id="lazy-evaluation">lazy evaluation</span>
-:   Delaying a computation until the value is actually needed.
-
-<span id="legacy-code">legacy code</span>
-:   Software that is either no longer supported or very difficult to
-    support because of the accumulation of features and changes.
-
 <span id="lpp">legitimate peripheral participation</span>
 :   Doing small tasks that a community of practice regards as valuable
     in order to gradually become a member of that community.
 
-<span id="logging">logging</span>
-:   Recording information about the execution of a program in a
-    structured way for later analysis.
-
-<span id="long-term-memory">long-term memory</span>
-:   The part of memory that stores information for long periods of
-    time. Long-term memory is large, but slow, and cannot be accessed
-    directly.
-
-<span id="loose-coupling">loose coupling</span>
-:   Components in a software system are said to be loosely coupled if
-    they are relatively independent of one another, i.e., if any one
-    of them can be changed or replaced without others having to be
-    altered as well.
-
-<span id="markdown">markdown</span>
-:   A markup language with a simple syntax intended as an alternative
-    to HTML.
+<span id="lottery-factory">lottery factor</span>
+:   A measure of project fragility: how many people would need to be
+    unexpectedly unavailable before the project could not function.
+    A lottery factor of one means the project is one departure or illness
+    away from a crisis.
 
 <span id="marthas-rules">Martha's Rules</span>
 :   A simple set of rules for making decisions in small groups.
-
-<span id="mental-model">mental model</span>
-:   A simplified representation of the key elements and relationships
-    of some problem domain that is good enough to support problem
-    solving.
-
-<span id="meritocracy">meritocracy</span>
-:   A system in which advancement is theoretically based on individual
-    ability.  In practice, they reward those who are well-connected
-    enough to know what the unwritten rules are and/or affluent enough
-    to have free time.
 
 <span id="mit-license">MIT License</span>
 :   An open software license that requires people to acknowledge the
     source of the software, but does not require derived work to be
     open.
 
-<span id="moral-licensing">moral licensing</span>
-:   The tendency for people who believe a system is already fair to
-    feel less need to monitor their own judgments for bias, often
-    making explicitly meritocratic systems less equitable in practice.
-
 <span id="motivated-reasoning">motivated reasoning</span>
 :   The tendency to evaluate arguments more critically when they lead
     to conclusions we dislike than when they support conclusions we
     already hold, producing systematically biased judgments while
     feeling like rigorous thinking.
-
-<span id="novice">novice</span>
-:   Someone who has not yet built a usable mental model of a domain
-    and therefore struggles with even basic tasks.
-
-<span id="orcid">Open Researcher and Contributor ID (ORCID)</span>
-:   An alphanumeric code that uniquely identifies someone publishing
-    research results.
 
 <span id="passphrase">passphrase</span>
 :   A password made up of several words. Passphrases are usually more
@@ -246,41 +103,23 @@
 :   A program that manages passwords used by multiple sites or
     applications.
 
-<span id="paywall">paywall</span>
-:   A feature that prevents people from accessing content unless they
-    have paid to do so. Many researchers use
-    [Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub) to circumvent
-    paywalls.
-
 <span id="persona">persona</span>
-:   A brief description of an fictional persona that captures key
-    features of something's intended audience.
+:   A brief description of a fictional character that captures key
+    features of a project's intended audience.
 
 <span id="phishing">phishing</span>
 :   An attack in which someone pretends to represent a legitimate
     organization, e.g., by sending an email that appears to come from
     an actual bank or university.
 
-<span id="pipe">pipe</span>
-:   To use the output of one computation as the input for the next, or
-    the connection between the two computations responsible for the
-    data transfer.  Pipes were popularized by the Unix shell, and are
-    now used in many different programming languages and systems.
-
-<span id="post-condition">post-condition</span>
-:   Something that is guaranteed to be true after a function runs
-    successfully. Post-conditions are often expressed as assertions
-    that are guaranteed to be be true of a function's results.
+<span id="pin-dependencies">pinned dependencies</span>
+:   Dependencies whose exact version numbers are specified in a
+    requirements or lock file so that the same software versions are
+    installed every time the project is set up.
 
 <span id="power-mapping">power mapping</span>
 :   The process of figuring out who actually has the power to change
     something.
-
-<span id="pre-condition">pre-condition</span>
-:   Something that must be true before a function runs in order for it
-    to work correctly. Pre-conditions are often expressed as as
-    assertions that must be true of a function's inputs in order for
-    it to run successfully.
 
 <span id="least-privilege">Principle of Least Privilege</span>
 :   Restricting access rights for people and programs to the absolute
@@ -290,21 +129,29 @@
 :   The person responsible for defining what features a product should
     have.
 
-<span id="profiler">profiler</span>
-:   A tool that builds a performance profile showing how much time is
-    spent on each line (or in each function) of a program.
-
 <span id="project-manager">project manager</span>
 :   The person responsible for ensuring that a project moves forward.
 
 <span id="refactoring">refactoring</span>
 :   Reorganizing software without changing its behavior.
 
-<span id="reprex">reproducible example (reprex)</span>
-:   A small, self-contained example of a problem.
+<span id="reproducibility">reproducibility</span>
+:   The ability to re-run a computation and get the same result, which
+    typically requires pinned dependencies, a clean environment, and
+    a documented sequence of steps starting from raw data.
 
 <span id="roberts-rules">Robert's Rules</span>
 :   A set of rules for managing large meetings and organizations.
+
+<span id="sandbagging">sandbagging</span>
+:   Presenting a proposal to people without giving them enough time
+    to think it through, making it easier to push past objections that
+    would arise with more careful consideration.
+
+<span id="secret-rotation">secret rotation</span>
+:   The practice of replacing compromised or potentially exposed
+    credentials with new ones, rather than simply deleting the old ones,
+    since deleted secrets may still exist in logs, history, or caches.
 
 <span id="security-fatigue">security fatigue</span>
 :   A reluctance to deal effectively with security threats caused by
@@ -341,38 +188,48 @@
 :   A preliminary vote used to determine whether further discussion is
     needed in a meeting.
 
-<span id="short-term-memory">short-term memory</span>
-:   The part of memory that briefly stores small amounts of
-    information that can be directly accessed by consciousness.
-
-<span id="situational-awareness">situational awareness</span>
-:   Understanding and paying attention to what's happening in one's
-    immediate environment.
-
 <span id="social-legibility">social legibility</span>
 :   The ability to display tastes, manners, and cultural references
     that signal membership in networks that gatekeepers recognize and
     reward, which often functions as an informal filter in hiring and
     selection processes.
 
-<span id="ssg">static site generator (SSG)</span>
-:   A program that compiles source files to create HTML pages for a
-    website rather than generating HTML on the fly.
+<span id="succession-plan">succession plan</span>
+:   A document describing how responsibilities will be transferred when
+    a key team member leaves, specifying who takes over what, in what
+    order, and how to verify the handoff worked.
+
+<span id="sustainability">sustainability</span>
+:   The ability of a project to continue operating when key contributors
+    are unavailable or leave, typically measured by whether more than one
+    person can perform each critical function.
+
+<span id="test-coverage">test coverage</span>
+:   The proportion of a program's code that is executed when its test
+    suite runs, often used as a rough proxy for how thoroughly the tests
+    check the software's behavior.
 
 <span id="tdd">test-driven development (TDD)</span>
 :   A programming practice in which tests are written before a new
     feature is added or a bug is fixed in order to clarify the goal.
 
+<span id="testability">testability</span>
+:   The degree to which a software system supports automated testing,
+    including whether functions can be called in isolation and whether
+    side effects can be verified.
+
 <span id="2fa">two-factor authentication</span>
 :   A means of proving identity (e.g., to log into a computer) using
     something the person has *and* something they know.
 
-<span id="uml">Unified Modeling Language (UML)</span>
-:   A set of graphical notations for modeling object-oriented systems.
-
 <span id="unit-test">unit test</span>
 :   A test that exercises one function or feature of a piece of
     software and produces pass, fail, or error.
+
+<span id="virtual-environment">virtual environment</span>
+:   An isolated directory containing a specific Python installation and
+    set of packages, which prevents conflicts between the requirements
+    of different projects on the same machine.
 
 <span id="winning-coalition">winning coalition</span>
 :   In selectorate theory, the subset of supporters whose backing a
@@ -383,9 +240,3 @@
 :   The process by which disagreements about goals, priorities, and
     resources get resolved in organizations through decisions that
     favor some people's views and interests over others.
-
-<span id="yaml">YAML</span>
-:   Short for "YAML Ain't Markup Language", a way to represent nested
-    data using indentation rather than the parentheses and commas of
-    JSON.  YAML is often used in configuration files and to define
-    parameters for various flavors of Markdown documents.

@@ -9,7 +9,7 @@
 -   Write a one-paragraph governance statement for your project.
 -   Establish authorship and credit policies before a conflict makes them necessary.
 
-## Why Informal Governance Fails (20 min)
+## Before
 
 The simulator now had four regular contributors outside the lab.
 In October, two of them—Carlos from a university in Brazil
@@ -32,8 +32,12 @@ and "Jess chose Carlos's approach because she knows him better."
 
 <div class="callout" markdown="1">
 
+## Why Informal Governance Fails
+
+Jo Freeman's classic essay on the tyranny of structurelessness [%b Freeman1972 %] argued
+that informal groups always have power structures—they're just invisible and unaccountable.
 [%b Majumder2019 %] analyzed over a thousand GitHub projects
-and found that 80% are "hero projects"
+and found that 80% are [%g hero-project "hero projects" %]
 in which 5% or fewer of contributors account for 95% or more of substantive interactions.
 This is understandable in specialized research domains,
 but if a project wants to attract new contributors (and keep existing ones)
@@ -52,12 +56,13 @@ Every project, no matter how small, needs written answers to three questions:
 3.  How does someone raise a concern if they don't have a seat at the table?
 
 [%g marthas-rules "Martha's Rules" %] [%b Minahan1986 %] is
-a lightweight decision process that answers all three:
+a lightweight decision process that answers all three
+(and scales better than [%g roberts-rules "Robert's Rules" %] for small teams):
 
 -   Proposals are filed at least 24 hours before a meeting.
 -   A proposal is at most one page:
     a summary, a concrete proposal, some discussion of pros and cons, and alternatives.
--   Members cast a sense vote: support, neutral, or oppose.
+-   Members cast a [%g sense-vote "sense vote" %]: support, neutral, or oppose.
 -   If everyone supports or is neutral, the motion passes.
 -   If there is opposition,
     the group gets 10 minutes of moderated discussion followed by a binary vote
@@ -90,19 +95,7 @@ it is too late to write it calmly.
 The Fatima incident took a minutes to create and two months to discover.
 Writing down how competing pull requests are handled would have taken twenty minutes.
 
-## Jess's Situation
-
-After the Fatima incident,
-Jess wrote a one-page governance document.
-The hardest question to answer is the first one:
-who gets a vote.
-Jess realized she didn't have an answer
-because she'd never thought of the project as having an "outside".
-She had been treating it as a small group of people
-who trusted her to make all the decisions.
-It had quietly become something larger, and the governance hadn't kept up.
-
-<div class="callout" markdown="1">
+## Meetings as Governance
 
 Good meetings are a governance tool.
 An agenda with time allocations sent in advance,
@@ -115,7 +108,17 @@ Brief status updates in the format
 "what I did, what I'll do, what's blocking me"
 keep meetings focused on problems rather than updates.
 
-</div>
+## After
+
+After the Fatima incident,
+Jess wrote a one-page governance document.
+The hardest question to answer is the first one:
+who gets a vote.
+Jess realized she didn't have an answer
+because she'd never thought of the project as having an "outside".
+She had been treating it as a small group of people
+who trusted her to make all the decisions.
+It had quietly become something larger, and the governance hadn't kept up.
 
 ## Credit
 

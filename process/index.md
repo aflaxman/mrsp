@@ -100,5 +100,3 @@ be in January" is useful information. The same news delivered on October 30 is
 not. Real users and collaborators will respect the honesty if it gives them time
 to plan around it. They will not respect a release that includes a broken version
 of a feature you promised.
-
-[calendly]: https://calendly.com/

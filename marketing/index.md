@@ -8,7 +8,7 @@
 -   Write a one-paragraph description of your project aimed at a specific audience.
 -   Identify one concrete action to make your project easier to find and adopt.
 
-## Making Sure the Right People Know You Exist (20 min)
+## Before
 
 Jess discovered the problem when a colleague forwarded her a grant proposal citing
 "RodentSim, a widely-used simulator for mammal range change".
@@ -31,7 +31,7 @@ and describing that something else in their grant proposals.
 
 "Marketing" has a bad reputation in academic circles,
 but it just means making sure that
-the people you could help know you exist and understand what you can do for them.
+the people you could help know you exist and understand what you can do for them [%b Kuchner2011 %].
 If you don't do this,
 then either someone else will describe your software for you (usually incorrectly)
 or nobody will talk about it at all.
@@ -82,7 +82,7 @@ The things that cost almost nothing help the most:
 
 </div>
 
-## Jess's Situation
+## After
 
 After discovering RodentSim,
 Jess spent one afternoon doing three things:

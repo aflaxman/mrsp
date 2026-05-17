@@ -7,7 +7,7 @@
 -   Write a 90-day plan with three concrete priorities.
 -   Know what to read next.
 
-## Planning at the Right Timescale (5 min)
+## Planning at the Right Timescale
 
 Ninety days is the right planning horizon for a project at Jess's scale:
 it's long enough to finish something substantial and short enough to be concrete.
@@ -26,7 +26,7 @@ but it's worth remembering that
 funders and administrators usually make resource decisions based on impact,
 not on elegant design.
 
-### Jess's Situation
+## Jess's Situation
 
 Jess's first 90-day plan had five priorities,
 none of which could realistically be finished in that time.
@@ -48,6 +48,8 @@ the goal is too vague.
 is more likely to get done.
 
 </div>
+
+## Exercises
 
 <section class="exercise" markdown="1">
 
