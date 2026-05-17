@@ -33,9 +33,7 @@ adjusts their plan.
 Scrum works well for research software teams when:
 
 -   Requirements change frequently, which is true of most research software.
-
 -   The team is small enough that everyone can be in a single stand-up.
-
 -   People can make meaningful progress at least a few days a week.
 
 The danger of adopting "agile" without discipline is that it becomes an excuse
@@ -47,7 +45,7 @@ every day for a week is not a stand-up; it's a warning sign.
 
 If you have a rough sense of what needs to be done over the next few months, a
 planning session at the start of each sprint is worth the time. The
-[%g product-manager "product manager" %]—which in a small lab is often you—
+[%g product-manager "product manager" %] (who in a small lab is often you)
 brings a prioritized list of desired work. The team discusses what's feasible in
 the sprint, makes estimates, and commits to a subset.
 

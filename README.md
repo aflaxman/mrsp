@@ -4,8 +4,7 @@
 
 This workshop introduces the ideas and tools you need to manage a team of up to a
 dozen people working together to build research software. Each session ends with
-something you can take home and use the following week. Sessions 1-9 form a single
-day; Sessions 10-15 are additional half-day modules that can be added individually.
+something you can take home and use the following week.
 
 <div id="lessons" markdown="1">
 
@@ -28,9 +27,9 @@ day; Sessions 10-15 are additional half-day modules that can be added individual
 1.  [Managing Your Manager](@/upward/)
 1.  [Psychological Safety](@/safety/)
 1.  [Succession and Endings](@/lifecycle/)
-1.  [Career Development for RSEs](@/career/)
+1.  [Career Development](@/career/)
 1.  [Remote Collaboration](@/remote/)
-1.  [Recognizing and Responding to Burnout](@/burnout/)
+1.  [Burnout](@/burnout/)
 1.  [Office Politics](@/politics/)
 
 </div>
@@ -47,6 +46,7 @@ day; Sessions 10-15 are additional half-day modules that can be added individual
 1.  [Development Process](@/process/)
 1.  [Managing Conflict](@/conflict/)
 1.  [Security](@/security/)
+1.  [Performance Review Counterexamples](@/perfreview/)
 
 </div>
 

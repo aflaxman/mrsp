@@ -1,4 +1,4 @@
-# Recognizing and Responding to Burnout
+# Burnout
 
 <p class="subtitle" markdown="1">the difference between tired and burned out matters</p>
 
