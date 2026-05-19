@@ -77,6 +77,14 @@ or cut the feature.
 None of these feels good,
 but deciding to cut two weeks after you should have is always more expensive.
 
+<div class="callout" markdown="1">
+
+LLMs make it easy to generate more features and more options,
+which makes the work of cutting harder
+because saying "no" is not automated.
+
+</div>
+
 ## After
 
 Jess instituted two changes after the sprint planning failure.
@@ -86,6 +94,20 @@ Second, she labeled Ren's blocker immediately as "needs external help"
 and spent thirty minutes on the dependency issue with him before her next meeting.
 He had been stuck for two days on something that took thirty minutes to resolve
 because she hadn't known to look.
+
+## What About AI?
+
+-   Positive:
+    LLM-assisted sprint planning tools can estimate issue complexity from the code changes required
+    and flag when an issue has hidden dependencies that weren't mentioned in the ticket.
+    This cal reduce "two hours of work takes two days" problem.
+
+-   Negative:
+    LLM task management tools optimize for issues closed and PRs merged,
+    not for correctness or long-term maintainability.
+    A team that lets an LLM prioritize its backlog will be nudged toward closing many small issues
+    rather than addressing a few deep architectural problems
+    because the former produces more visible output.
 
 ## Exercises
 

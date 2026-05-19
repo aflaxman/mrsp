@@ -110,6 +110,24 @@ Writing pitches for different audiences is practice for writing grant proposals.
 
 </div>
 
+## What About AI?
+
+-   Positive:
+    LLMs are good at converting dense technical documentation into readable READMEs,
+    blog posts,
+    or grant report summaries.
+    A first draft of a project pitch written from the existing docs
+    takes minutes instead of hours.
+
+-   Negative:
+    LLM-generated READMEs and documentation often omit failure modes, known limitations, and caveats
+    because training data rewards confident, positive-sounding text.
+
+-   Negative:
+    LLM-generated pitches sound generic.
+    The specific "only we could write this" voice that persuades grant officers
+    is precisely what LLMs average out.
+
 ## Exercises
 
 <section class="exercise" markdown="1">

@@ -109,6 +109,25 @@ She hadn't written down how decisions were made because nobody had disagreed yet
 She found out later that this pattern is nearly universal:
 governance feels unnecessary until the moment it isn't.
 
+## What About AI?
+
+-   Positive:
+    As well as style issues,
+    LLM-based tools can flag semantic bugs or security issues.
+    These can reduce the cost of a first pass.
+
+-   Positive:
+    LLMs can auto-generate summaries of what a PR actually changes
+    versus what the author claims it changes,
+    making the "claims vs. evidence" distinction concrete and checkable.
+
+-   Negative:
+    LLM-generated commit messages and PR descriptions are often fluent but inaccurate:
+    they describe what the code looks like, not what it does or why.
+    A health metric worth tracking is
+    the ratio of PRs whose descriptions were validated
+    against tests that actually cover the claimed behavior.
+
 ## Exercises
 
 <section class="exercise" markdown="1">

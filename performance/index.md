@@ -159,6 +159,12 @@ To make the discussion productive:
 
 <div class="callout" markdown="1">
 
+LLMs are changing what skills are durable.
+RSEs who built careers on the ability to write boilerplate
+like tests, documentation, and API endpoints faster than their colleagues
+are in a different position than they were two years ago.
+Managers need to have explicit conversations about this, not avoid it.
+
 Career development for research software engineers is complicated by the fact that
 RSE is still not a standard career track at most institutions.
 The people you manage may be trying to navigate toward a research position,
@@ -170,6 +176,26 @@ and about what you have seen work elsewhere.
 </div>
 
 <section class="exercise" markdown="1">
+ 
+## What About AI?
+
+-   Positive:
+    An LLM can help a manager draft a performance improvement plan
+    that covers the required elements
+    (specific behavior, measurable improvement criteria, timeline, support offered)
+    and avoids legally problematic language.
+
+-   Negative:
+    LLM tools can write performance review drafts that sound thorough and balanced
+    but are not based on actual evidence of the person's work.
+    (This is a great way to destroy the person's trust in their manager.)
+
+-   Negative:
+    Courses generated or curated by LLMs have a specific failure mode:
+    they teach skills that were valuable when the training data was collected,
+    not necessarily now.
+    An LLM-generated learning path for "modern Python"
+    may emphasize patterns that were best practice three years ago.
 
 ## Exercises
 

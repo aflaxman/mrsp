@@ -102,6 +102,26 @@ across time zones.
 Ji-ho started asking questions again within two weeks of the policy change.
 He said the previous silence had felt like indifference.
 
+## What About AI?
+
+-   Positive:
+    LLM meeting summarizers can produce action-item lists
+    that are accurate enough to replace manual note-taking for routine standups.
+    This reduces communicaction overhead *if* you are willing to share your project's internals
+    with the company that runs the LLM.
+
+-   Negative:
+    LLM-generated meeting summaries currently flatten nuance
+    and lose the hedging language that indicates uncertainty:
+    "I think we might be able to do X" becomes "team agreed to do X."
+
+-   Negative:
+    Distribtued teams that rely heavily on LLM summaries
+    lose the informal social texture of communication
+    that builds trust and reveals when someone is struggling.
+    LLM communication is efficient and affectless in a way
+    that makes early warning signs harder to see.
+
 ## Exercises
 
 <section class="exercise" markdown="1">

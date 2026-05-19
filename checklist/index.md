@@ -149,6 +149,27 @@ Asking a search engine or an LLM is not the same as asking any of them.
 
 </div>
 
+## What About AI?
+
+-   Positive:
+    An LLM can generate a first draft of an onboarding checklist
+    from existing documentation like `CONTRIBUTING.md` or `README.md`.
+    It can also catch gaps between what the docs say and what the repo actually requires,
+    e.g., a CI step that isn't documented,
+    which is particularly helpful as the project evolves.
+
+-   Negative:
+    Contributors increasingly use LLMs to fill out PR checklists,
+    answering "yes, I tested this" because the LLM suggested it
+    rather than because they ran  enthe tests.
+    A  checklist item that can be answered by an LLM without actually being run
+    is not a safety check: it's theater.
+
+-   A specific technique to add:
+    ask contributors to paste the actual test output or CI run link next to checklist items,
+    not just a checkbox.
+    This is one thing LLMs cannot yet fabricate convincingly in a verifiable way.
+
 ## Exercises
 
 <section class="exercise" markdown="1">

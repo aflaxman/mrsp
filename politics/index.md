@@ -101,6 +101,21 @@ She explained the issue in terms they cared about—stability for existing users
 risk to the publication timeline—rather than in terms of code quality.
 The contested proposal was withdrawn before it reached the PI's desk.
 
+## What About AI?
+
+-   Negative:
+    LLMs make it easy to produce large volumes of professionally written position papers,
+    policy proposals,
+    and apparently rigorous analyses,
+    so teams using these tools have an  advantage over teams that don't,
+    regardless of who is actually right.
+    This is sometimes referred to as "continuous sandbagging".
+
+-   Negative:
+    It's harder to read signals of the author's actual state in LLM-drafted content.
+    Political skill in organizations partly consists of reading between the lines;
+    LLM text generation degrades the signal.
+
 ## Exercises
 
 <section class="exercise" markdown="1">

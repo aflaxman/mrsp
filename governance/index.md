@@ -177,6 +177,28 @@ because they required being specific about things she had been comfortable leavi
 
 <section class="exercise" markdown="1">
 
+## What About AI?
+
+-   Positive:
+    LLM summaries of chat threads or issue discussions
+    can surface the specific points of disagreement before a meeting,
+    reducing the time spent on re-litigating context.
+
+-   Negative:
+    When a governance dispute goes to a vote,
+    LLM-drafted position statements look equally authoritative
+    regardless of whether they're backed by evidence or not.
+    This levels a playing field in a bad direction:
+    the person willing to use LLMs to produce the most voluminous argument wins,
+    regardless of merit.
+
+-   Negative:
+    LLM tools can generate plausible-sounding governance documents
+    that copy structure from well-known projects
+    but omit the operational detail that makes them useful for *your* particular project.
+    Projects that use LLM-drafted governance docs without reviewing them carefully
+    have essentially adopted time bombs.
+
 ## Exercises
 
 ### Draft Your Governance Statement (12 min)

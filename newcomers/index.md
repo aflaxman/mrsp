@@ -105,6 +105,29 @@ Jess had forgotten she'd installed GDAL separately years ago.
 The test took forty minutes and found a bug in the instructions
 that three years of contributors had silently worked around.
 
+## What About AI?
+
+-   Weak positive:
+    An LLM can draft the first response to a new contributor's PR
+    pointing out style issues, missing tests, or documentation gaps
+    faster than a maintainer can.
+    This reduces the latency that most often causes newcomers to abandon their first contribution,
+    but undermines the actual purpose of first response messages (see below).
+
+-   Negative:
+    Good first issues labeled for newcomers are increasingly claimed by automated bots
+    or by contributors using LLMs to solve them in minutes
+    without actually learning the codebase.
+    This undermines the real values of a "good first issue",
+    which is that it forces the newcomer to navigate real code.
+
+-   A specific technique to add:
+    Schedule a real-time review conversation in which
+    the new contributor walks you through the changes.
+    This increases stickiness
+    (people are more likely to contribute to projects where they get personal attention)
+    but is a significant burden on existing maintainers.
+
 ## Exercises
 
 <section class="exercise" markdown="1">

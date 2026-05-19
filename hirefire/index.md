@@ -199,6 +199,35 @@ Cry if you need to.
 
 <section class="exercise" markdown="1">
 
+## What About AI?
+
+-   Positive:
+    An LLM can check whether the requirements list in a job posting is internally consistent
+    (e.g., "3 years of experience" with a framework that was released 18 months ago)
+    and whether the language is unnecessarily exclusionary
+    (e.g., requiring a PhD for a role that doesn't need one).
+
+-   Negative:
+    LLM-generated cover letters and application materials
+    have made it trivially easy for applicants to produce polished, keyword-optimized applications
+    for jobs they are not qualified for.
+    The signal value of a well-written application has dropped significantly.
+    Hiring managers increasingly have to rely on personal connections to find candidates,
+    but that's just another name for the old boy's network.
+
+-   Negative:
+    Using an LLM to screen resumes introduces and amplifies bias.
+    If the LLM was trained on a corpus of successful hires at similar institutions,
+    it will reproduce whatever demographic and background biases those institutions had.
+
+-   Negative:
+    Candidates who used LLMs to prepare for technical interviews
+    (or in them, often surreptitiously)
+    often perform well on expected questions and poorly on follow-up probes.
+    Even "unrehearsable" questions,
+    like "tell me about a time your code was wrong in a way you didn't expect and how you found it",
+    can now be faked convincingly.
+
 ## Exercises
 
 ### The Hiring Brief (10 min)

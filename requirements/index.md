@@ -96,6 +96,26 @@ the human conversation is where you learn what actually matters.
 
 </div>
 
+##  What About AI?
+
+-   Positive:
+    LLMs can cluster GitHub issues by topic and find patterns
+    faster than a maintainer reading them individually.
+
+-   Positive/Negative:
+    LLMs can rapidly generate user stories from a feature request,
+    which helps structure a conversation with stakeholders,
+    but stories will reflect the LLM's generic assumption about what users probably want,
+    not what Jess's specific contributors have asked for.
+    Treating LLM-generated user stories as a starting point for conversation is fine;
+    treating them as a requirements document is not.
+
+-   Negative:
+    An LLM asked to prioritize a backlog will produce a ranked list that sounds authoritative
+    but is based on text similarity from other projects,
+    not on the actual constraints of your team
+    or the actual needs of their specific user community.
+
 ## Exercises
 
 <section class="exercise" markdown="1">

@@ -54,3 +54,10 @@ Each exercise is designed accordingly:
 1.  Some role-play exercises use the LLM as the other party.
     This lets learners practice at their own pace and repeat if they want.
 1.  The debrief for each session discuss common LLM errors.
+
+## What About AI?
+
+This workshop was written before LLM coding assistants became mainstream.
+Many RSEs now use LLMs for code, documentation, and issue triage.
+The workshop addresses both the positive and negative aspects of this,
+but all of its advice has the shelf life of milk.

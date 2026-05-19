@@ -117,6 +117,30 @@ and that nobody had emailed her to say the project was collapsing.
 She took this as evidence that she was less of a single point of failure than she'd feared,
 and more of an obstacle to her team's autonomy than she'd realized.
 
+## What About AI?
+
+-   Positive:
+    For maintainers who are overwhelmed by low-quality issues,
+    LLM triage can filter duplicates and report missing information reports
+    before items reach the maintainer's queue.
+
+-   Negative:
+    LLMs are causing a *lot* of expectation inflation.
+    Stakeholders who have seen LLMs generate code in seconds
+    ask why a complex feature takes two weeks,
+    so managers face are pressured to justify timelines that include "extras"
+    like problem definition, testing, and debugging.
+    This is the "why can't you just…" conversation dialed up by a factor of ten.
+
+-   Negative:
+    Developers who use LLMs heavily report that the LLM gets them to 80% quickly,
+    but the remaining 20%
+    (including integration, edge cases, and debugging LLM-generated errors)
+    takes disproportionate time
+    and produces a different kind of cognitive exhaustion than writing the code themselves would have.
+    This is too new to be characterized in the burnout literature,
+    but appears to be a real phenomenon.
+
 ## Exercises
 
 <section class="exercise" markdown="1">

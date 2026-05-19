@@ -8,13 +8,43 @@ dependencies = [
     "taskipy>=1.14.1",
 ]
 
-[tool.taskipy.tasks]
-bib = {cmd = "mccole bib", help = "Check bibliography entries."}
-clean = {cmd = "find . -type f -name '*~' -exec rm {} \\; && find . -type d -name __pycache__ | xargs rm -rf && find . -type d -name .ruff_cache | xargs rm -rf", help = "Clean up generated and cache files."}
-db = {cmd = "cd _extras && rm -f example.db && sqlite3 example.db < example.sql", help = "make databases"}
-check = {cmd = "mccole check --src . --dst docs && typos *.md */*.md", help = "Check code and project."}
-serve = {cmd = "python -m http.server -d docs 8000", help = "Serve generated HTML on port 8000."}
-site = {cmd = "mccole build --src . --dst docs && touch docs/.nojekyll", help = "Build HTML."}
+[tool.taskipy.tasks.bib]
+help = "Check bibliography entries."
+cmd = "mccole bib"
+
+[tool.taskipy.tasks.clean]
+help = "Clean up generated and cache files."
+cmd = """
+    find . -type f -name '*~' -exec rm {} \\;
+    find . -type d -name __pycache__ | xargs rm -rf
+    find . -type d -name .ruff_cache | xargs rm -rf
+"""
+
+[tool.taskipy.tasks.db]
+help = "make databases"
+cmd = """
+    cd _extras
+    rm -f example.db
+    sqlite3 example.db < example.sql
+"""
+
+[tool.taskipy.tasks.check]
+help = "Check code and project."
+cmd = """
+    mccole check --src . --dst docs
+    typos *.md */*.md
+"""
+
+[tool.taskipy.tasks.serve]
+help = "Serve generated HTML on port 8000."
+cmd = "python -m http.server -d docs 8000"
+
+[tool.taskipy.tasks.site]
+help = "Build HTML."
+cmd = """
+    mccole build --src . --dst docs
+    touch docs/.nojekyll
+"""
 
 [tool.mccole]
 brand = "MRSP"
