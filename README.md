@@ -6,6 +6,9 @@ This workshop introduces the ideas and tools you need to manage a team of up to 
 dozen people working together to build research software. Each session ends with
 something you can take home and use the following week.
 
+<div class="row" markdown="1">
+<div class="col-6" markdown="1">
+
 <div id="lessons" markdown="1">
 
 ## Sessions
@@ -33,10 +36,12 @@ something you can take home and use the following week.
 1.  [Office Politics](@/politics/)
 
 </div>
+</div>
+
+<div class="col-6" markdown="1">
+<div id="appendices" markdown="1">
 
 ##  Appendices
-
-<div id="appendices" markdown="1">
 
 1.  [License](@/license/)
 1.  [Code of Conduct](@/conduct/)
@@ -47,6 +52,9 @@ something you can take home and use the following week.
 1.  [Managing Conflict](@/conflict/)
 1.  [Security](@/security/)
 1.  [Performance Review Counterexamples](@/perfreview/)
+
+</div>
+</div>
 
 </div>
 
