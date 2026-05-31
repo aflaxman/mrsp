@@ -51,7 +51,9 @@ brand = "MRSP"
 repo = "https://github.com/gvwilson/mrsp"
 skips = [
     "**/*~",
-    "docs/**",
-    "log/**",
+    "CLAUDE.md",
+    "docs",
+    "log",
+    "typos.toml",
     "uv.lock"
 ]
