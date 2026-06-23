@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">they can't use something if they don't know it exists</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Distinguish between marketing, sales, and support.
 -   Write a one-paragraph description of your project aimed at a specific audience.
 -   Identify one concrete action to make your project easier to find and adopt.
+
+</div>
 
 ## Before
 

@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">you only have one chance to make a first impression</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Explain why a `CONTRIBUTING.md` file matters even for a two-person project.
 -   Evaluate a `CONTRIBUTING.md` for a real newcomer's experience.
 -   Produce a draft `CONTRIBUTING.md` that a stranger could follow.
+
+</div>
 
 ## Before
 

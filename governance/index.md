@@ -2,12 +2,16 @@
 
 <p class="subtitle" markdown="1">making decisions together</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Describe two ways informal decision-making fails as projects grow.
 -   Apply Martha's Rules to a concrete proposal.
 -   Write a one-paragraph governance statement for your project.
 -   Establish authorship and credit policies before a conflict makes them necessary.
+
+</div>
 
 ## Before
 

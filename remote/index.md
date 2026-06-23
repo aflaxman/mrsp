@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">most of your contributors have never been in the same room</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Identify the specific failure modes of distributed research software teams.
 -   Apply async-first practices to reduce latency and improve inclusion.
 -   Design a communication structure that works across time zones.
+
+</div>
 
 ## Before
 

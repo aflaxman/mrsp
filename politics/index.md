@@ -2,7 +2,9 @@
 
 <p class="subtitle" markdown="1">the game that happens whether you play or not</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Recognize that every organization is political
     and that "we don't do politics here" is itself a political position.
@@ -10,6 +12,8 @@
     by asking whose support the decision-maker actually needs.
 -   Advocate for your work in ways that are honest and effective,
     and don't require pretending that politics doesn't exist.
+	
+</div>
 
 ## Before
 

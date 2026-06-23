@@ -2,10 +2,14 @@
 
 <p class="subtitle" markdown="1">knowing who is doing what and what is in their way</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Set up a lightweight tracking system for a small team.
 -   Write a status update that makes blockers visible.
+
+</div>
 
 ## Before
 

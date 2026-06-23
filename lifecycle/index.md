@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">planning for endings before they're emergencies</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Assess your project's lottery factor and identify single points of failure.
 -   Write a one-page advance directive for your project.
 -   Begin a succession plan for your own role.
+
+</div>
 
 ## Before
 

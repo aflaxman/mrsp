@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">your job is to make sure</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Reframe individual-contributor technical practices as management responsibilities.
 -   Distinguish between claiming a practice is followed and having evidence it is followed.
 -   Identify the compliance and safety obligations most likely to apply to your project.
+
+</div>
 
 ## Before
 

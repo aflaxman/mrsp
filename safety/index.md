@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">why your team won't tell you what you need to know</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Describe what psychological safety is and why it predicts team performance.
 -   Identify specific behaviors that create or destroy it.
 -   Change one practice in your own project to make it safer to admit uncertainty.
+
+</div>
 
 ## Before
 

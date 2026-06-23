@@ -2,10 +2,14 @@
 
 <p class="subtitle" markdown="1">long enough to finish something, short enough to be concrete</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Write a 90-day plan with three concrete priorities.
 -   Know what to read next.
+
+</div>
 
 ## Planning at the Right Timescale
 

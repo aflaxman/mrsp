@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">a baseline to start from</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Name the six dimensions of a minimum viable research software project.
 -   Score your own project on each dimension.
 -   Identify the highest-priority gaps.
+
+</div>
 
 ## Before
 

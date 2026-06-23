@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">the decisions that define your team</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Describe the most common mistakes in hiring for a research software position.
 -   Follow a structured process for letting someone go without making it worse.
 -   Know how to protect yourself if you are the one being let go.
+
+</div>
 
 ## Before
 

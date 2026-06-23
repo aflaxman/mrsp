@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">the relationship that controls your freedom to act</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Translate technical decisions into language non-technical decision-makers can act on.
 -   Push back on requests you can't fulfill without losing credibility.
 -   Frame resource requests in terms of impact rather than effort.
+
+</div>
 
 ## Before
 

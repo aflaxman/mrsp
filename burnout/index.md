@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">the difference between tired and burned out matters</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Distinguish burnout from ordinary fatigue and underperformance.
 -   Identify early warning signs in yourself and your team members.
 -   Take at least one concrete protective action for your team this week.
+
+</div>
 
 ## Before
 

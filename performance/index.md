@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">helping people do their best work</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Give specific, actionable feedback using a structured format.
 -   Run a useful performance review rather than a compliance exercise.
 -   Help staff identify and pursue realistic career development goals.
+
+</div>
 
 ## Before
 

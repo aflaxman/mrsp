@@ -48,6 +48,7 @@ something you can take home and use the following week.
 1.  [Contributing](@/contributing/)
 1.  [Bibliography](@/bibliography/)
 1.  [Glossary](@/glossary/)
+1.  [Retrospective](@/retro/)
 1.  [Development Process](@/process/)
 1.  [Managing Conflict](@/conflict/)
 1.  [Security](@/security/)

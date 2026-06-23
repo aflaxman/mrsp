@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">growth that the institution hasn't named yet</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Describe what career growth means for someone on a non-standard research software track.
 -   Conduct a career conversation with a team member whose goals differ from yours.
 -   Identify one concrete way to advocate for a team member's recognition.
+
+</div>
 
 ## Before
 

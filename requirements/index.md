@@ -2,11 +2,15 @@
 
 <p class="subtitle" markdown="1">figuring out what people actually need</p>
 
-## Learning Objectives
+<div class="syllabus" markdown="1">
+
+**Learning Objectives**
 
 -   Distinguish between a feature request and an underlying need.
 -   Conduct a short requirements conversation and extract a concrete specification.
 -   Prioritize a backlog using a two-axis framework.
+
+</div>
 
 ## Before
 
