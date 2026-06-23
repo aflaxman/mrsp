@@ -10,7 +10,7 @@
 
 ## Before
 
-Three weeks after Jess started their post-doc,
+Three weeks after Jess started her post-doc,
 she got an email from Aaron at another lab,
 who had been trying to get the simulator running for two days without success.
 The setup instructions referenced a Conda environment file that no longer matched the pinned versions,
