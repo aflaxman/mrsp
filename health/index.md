@@ -50,7 +50,7 @@ You can use these six dimensions to assess the state of your project:
     collaborators can't run the code or check results.
 
 [%g testability "Testability" %]
-:   Automated tests exist and are run on every change via [%g ci "continuous integration" %].
+:   Automated tests exist and are run on every change via [%g ci "continuous integration" %] (CI).
     Without this, every fix can introduce new bugs.
     (You may or may not track test [%g test-coverage "test coverage" %];
     if you do,
@@ -72,6 +72,15 @@ You can use these six dimensions to assess the state of your project:
     the [%g lottery-factory "lottery factor" %] is documented,
     and there is a [%g succession-plan "succession plan" %].
     Without this, the project dies when the post-doc graduates.
+
+These dimensions are *not* independent.
+A project with a low governance score almost always has poor sustainability
+because nobody agrees on who makes release decisions.
+Similarly,
+a project with poor reproducibility usually has low testability
+because tests that pass on some contributors' machines
+fail for other people or for CI.
+We will explore these dependencies more in the exercises.
 
 <div class="callout" markdown="1">
 
@@ -136,19 +145,22 @@ governance feels unnecessary until the moment it isn't.
 
 <section class="exercise" markdown="1">
 
-### Self-Audit (10 min)
+### Dependencies (5 min)
 
-Using the six-dimension rubric, score your project.
-Include evidence for each dimension,
-(e.g., the URL of the governance description).
+Sort the six dimensions in the order in which you think they should be tackled.
+Compare your order to other people's.
+Are any of the differences important?
 
 </section>
 
 <section class="exercise" markdown="1">
 
-### LLM Audit (5 min)
+### Project Audit (15 min)
 
-Repeat the audit using an LLM.
+Using the six-dimension rubric, score your project.
+Include evidence for each dimension,
+(e.g., the URL of the governance description).
+Repeat the audit using an LLM:
 
 > I have a research software project called [name].
 > It does [one sentence].
@@ -157,9 +169,8 @@ Repeat the audit using an LLM.
 > findability, reproducibility, testability,
 > contribution pathway, governance, sustainability.
 
-Note any dimension where the LLM seems to have assumed something exists
-that you know doesn't.
-Note dimensions where the LLM's score differs from yours by more than one point.
+Where does the LLM seem to have assumed something exists that you know doesn't?
+Where do the LLM's scores differ from yours by more than one point?
 
 </section>
 
