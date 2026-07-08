@@ -75,6 +75,21 @@ a lightweight decision process that answers all three
     because the proposal is either going to be adopted or not.
 -   Decisions go in a public decision log.
 
+<div class="callout" markdown="1">
+
+A decision log can (and should) be as simple as
+a Markdown file in the project repository with one entry per decision.
+Each entry should include the date,
+who proposed it,
+and a one-sentence summary,
+and the outcome(s) of the vote(s).
+Groups don't usually record how each person voted,
+but vary on whether to record the number of each kind of vote
+or just whether the proposal passed or failed.
+Remember to include a link to the log in `GOVERNANCE.md`.
+
+</div>
+
 What makes it work is that
 proposals must be written and specific before discussion starts.
 Most governance fights Jess had experienced,
@@ -111,6 +126,28 @@ they make the project's behavior visible and predictable to people who weren't i
 Brief status updates in the format
 "what I did, what I'll do, what's blocking me"
 keep meetings focused on problems rather than updates.
+
+## Externals and Escalation
+
+Martha's Rules describes a process for a team with an established membership,
+but do not say how external contributors can make proposals or escalate concerns.
+`GOVERNANCE.md` needs to address this explicitly:
+can someone who has submitted five pull requests vote?
+If not,
+do they raise an issue by asking a maintainer to bring it up on their behalf,
+or in some other way?
+Omitting this is *not* neutral:
+it's equivalent to "maintainers decide and contributors have to live with it,"
+which is a choice worth making consciously.
+
+Similarly,
+`GOVERNANCE.md` should spell out what to do when
+the rules produce a decision that someone considers unfair.
+If there isn't an appeal process,
+say that,
+and make it clear how the group feels about disaffected people forking the project.
+If there *is* a way to appeal via an ombudsperson or a parent organization,
+point that out.
 
 ## After
 
