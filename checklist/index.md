@@ -84,7 +84,8 @@ Code review
 Testing
 :   [%g unit-test "Unit tests" %] are run before every merge; CI is configured and a failing
     build blocks the merge; coverage is tracked and not declining.
-    [%g tdd "Test-driven development" %] is one way to ensure tests exist before code is merged [%b Petre2014 %].
+    [%g tdd "Test-driven development" %] is one way to ensure
+    that tests exist before code is merged [%b Petre2014 %].
 
 Dependencies
 :   Versions are pinned; `pip audit` or the equivalent runs regularly;
@@ -94,9 +95,23 @@ Documentation
 :   Every public function has a docstring; every release has a
     changelog entry; the README contains at least one working example.
 
+<div class="callout" markdown="1">
+
+The list above is intimidating,
+and very few projects do everything in it.
+Rather than overwhelming yourself,
+discuss it with the team and pick one thing to implement first.
+The change that usually pays off most quickly fastest is branch protection,
+i.e.,
+requiring at least one review before merge.
+This catches lots of accidental mistakes
+without requiring any configuration beyond a checkbox.
+
+</div>
+
 ## Safety and Compliance
 
-Research software carries obligations that other open-source software usually doesn't:
+Research software often has obligations that other open-source software doesn't:
 
 Data privacy
 :   If your software touches data about human subjects, you are in
@@ -104,11 +119,11 @@ Data privacy
     source. "Anonymized" is not a safe harbor: re-identification
     attacks are routine.
 
-IRB and ethics review
+Ethics review
 :   Software that collects or processes data about human subjects may
     require ethics board approval even if the software is just a
-    tool. The IRB office, not a web search, is the right place to
-    ask. Not asking is not a defense.
+    tool. Your institution's review board, not a web search, is the
+    right place to ask. Not asking is not a defense.
 
 Secrets in version control
 :   Api keys, passwords, and personal data committed to git are not
@@ -117,15 +132,24 @@ Secrets in version control
     not deletion, is the fix when accidents happen.
 
 Licensing
-:   A contributor who adds [%g gpl "GPL" %] code to your [%g mit-license "MIT" %]-licensed project
-    changes the license of the whole project. A Contributor License
-    Agreement or Developer Certificate of Origin clarifies who owns
-    what before it becomes a problem.
+:   A contributor who adds [%g gpl "GPL" %] code to your
+    [%g mit-license "MIT" %]-licensed project changes the license of
+    the whole project. A Contributor License Agreement or Developer
+    Certificate of Origin clarifies who owns what before it becomes a
+    problem.
 
 Export controls
 :   Accepting contributions from people in certain countries may be
     subject to export control regulations. This is your institution's
     legal team's problem, but you need to know the question exists.
+
+<div class="callout" markdown="1">
+
+Pre-commit hooks and CI don't enforce themselves:
+someone needs to be responsible for acting when a check starts failing.
+Name that person in CONTRIBUTING.md.
+
+</div>
 
 ## After
 
@@ -175,6 +199,20 @@ Asking a search engine or an LLM is not the same as asking any of them.
     This is one thing LLMs cannot yet fabricate convincingly in a verifiable way.
 
 ## Exercises
+
+<section class="exercise" markdown="1">
+
+### How to Check (5 min)
+
+The list below gives specific things to look for when doing an audit of practices.
+Add three more,
+two of which cover areas that these three don't.
+
+-   Version control: a branch protection rule in GitHub.
+-   Code review: a rule requiring reviewers on PRs before merging.
+-   Testing: coverage reports checked into version control.
+
+</section>
 
 <section class="exercise" markdown="1">
 
