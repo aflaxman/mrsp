@@ -50,10 +50,11 @@ It needs to say:
 -   How to submit a pull request and what happens next
 -   Who to contact when stuck, and a realistic response time
 
-A useless `CONTRIBUTING.md` contains aspirational language about community values,
+A `CONTRIBUTING.md` that contains aspirational language about community values,
 instructions that assume a specific operating system or Python version,
-and setup steps that haven't been tested in eight months.
-Most projects have the useless version.
+and setup steps that haven't been tested in eight months is useless.
+Unfortunately,
+that's what many projects have.
 
 <div class="callout" markdown="1">
 
@@ -66,6 +67,19 @@ have someone who hasn't worked on that part of the code estimate
 how long it would take them.
 If they can't estimate, the issue isn't ready for the label.
 
+</div>
+
+<div class="callout" markdown="1">
+
+Two specific things that maintainers can do to make newcomers feel welcome are 
+(a) set realistic expectations in `CONTRIBUTING.md`,
+such as "we aim to respond within two weeks",
+and
+(b) acknowledge every PR with a brief comment immediately,
+even if the message is only "Thanks - I'll try to review this by [date]."
+If the review slips more than once,
+let the PR author know what's happening.
+	
 </div>
 
 ## Legitimate Peripheral Participation
@@ -91,6 +105,36 @@ and how,
 is decoration.
 Do cannot write the enforcement mechanism when you need it;
 you need to write it before [%b Aurora2019 %].
+
+</div>
+
+## Types of Contributors
+
+Treating every contributor as if they will become a core maintainer is exhausting.
+On the other hand,
+treating every contributor as if they won't is a self-fulfilling prophecy.
+It's therefore useful to distinguish between three groups of contributors:
+
+-   **One-off bug reporters**
+    are unlikely to return,
+    and need a fast, friendly response.
+
+-   **Occasional contributors**
+    are likely to return if the experience is good,
+	and are therefore worth investing in.
+
+-   **Regulars**
+    need a path to becoming project members,
+	which is discussed in the lesson on [governance](@/governance/).
+
+<div class="callout" markdown="1">
+
+A common occurrence with occasional contributors is a PR that fixes a real problem,
+but not the way the maintainer would.
+Accepting it as-is builds goodwill but adds debt;
+rejecting it can cost the project a contributor.
+The best response is a specific, actionable review comment with an offer to pair on the revision.
+This is more work in the short term but potentially more rewarding over the project's lifetime.
 
 </div>
 
