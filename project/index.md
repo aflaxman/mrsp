@@ -28,8 +28,9 @@ because he hadn't wanted to look like he couldn't handle it.
 
 Project management at Jess's scale is not Gantt charts.
 It is knowing who is working on what and what is in their way.
-[%b Brooks1995 Fournier2017 %] both put it clearly:
-the manager's job is to remove obstacles, not to assign tasks.
+As [%b Fournier2017 %] says,
+the manager's job is to remove obstacles,
+not to assign tasks.
 The planning meeting matters less than the Monday morning check-in
 that reveals that someone is stuck.
 
@@ -43,10 +44,12 @@ everyone writes *and shares* bullet points explaining:
 -   *Problems*: what is blocking them (or might)
 
 Progress and Plans are read; the meeting discusses Problems.
+If the project's leader can't resolve a problem,
+it is their responsibility to escalate it.
 
 <div class="callout" markdown="1">
 
-This format only works if "Problems" is psychologically safe to fill in.
+This format only works if "Problems" is [psychologically safe](@/safety/) to fill in honestly.
 If people think admitting a blocker will be treated as evidence of incompetence,
 they'll leave it blank,
 and the manager will find out two weeks later.
@@ -70,6 +73,19 @@ go through all newly-filed issues and assign each a category and a priority
 
 </div>
 
+<div class="callout" markdown="1">
+
+Nobody is good at estimating how long things will take
+until they have done it for a while
+*and* kept track of how accurate their estimates were.
+People also often need to tune their estimates when they move from one project to another.
+As a manager,
+you should make this explicit:
+the first few times they give estimates are for learning,
+and only after that do you start to ask, "Didn't you say you'd be done by now?"
+
+</div>
+
 ## Cutting
 
 Cutting scope always feels like failure,
@@ -86,6 +102,19 @@ but deciding to cut two weeks after you should have is always more expensive.
 LLMs make it easy to generate more features and more options,
 which makes the work of cutting harder
 because saying "no" is not automated.
+
+</div>
+
+<div class="callout" markdown="1">
+
+A task can overshoot because the original estimate was wrong (common and acceptable)
+or because decided to solve a related problem along the way (a choice).
+The second kind of change should trigger a conversation,
+not because it is necessarily wrong to do the extra work,
+but because a planning decision that affects other items in the schedule should be made explicitly.
+If you always insist on sticking to the schedule,
+people will probably start burying extra work
+(i.e., doing it anyway but not telling you that it's happening).
 
 </div>
 
