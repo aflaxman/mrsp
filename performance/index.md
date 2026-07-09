@@ -79,7 +79,18 @@ When the annual review arrives,
 you are summarizing a conversation that has been happening all year,
 not reconstructing one from memory.
 
-A few things that make reviews more useful and less painful:
+<div class="callout" markdown="1">
+
+It isn't always possible to stick to a weekly or bi-weekly meeting schedule.
+If you have to cancel a one-to-one,
+ask for a more detailed three-part update
+and reply with one or two questions.
+The first ensures that the staff member has told you what they've done;
+the second helps ensure that you've actually read it.
+
+</div>
+
+A few things can make annual reviews more useful and less painful:
 
 -   Write down expectations before the review period starts, not during it.
     "Meets expectations" only means something if the expectations were documented in advance.
@@ -101,6 +112,15 @@ If the answer is no,
 start writing things down now.
 
 </div>
+
+Unfortunately,
+structured feedback and professional development plans don't always solve problems.
+At that point,
+job is not to continue the conversation,
+but to escalate to HR and begin the documentation trail that a termination decision will require.
+This is not a failure of management:
+it is the normal end of a process that sometimes leads there.
+The [previous lesson](@/hirefire/) describes how to do this.
 
 ## Training and Skill Development
 
@@ -179,8 +199,6 @@ and about what you have seen work elsewhere.
 
 </div>
 
-<section class="exercise" markdown="1">
- 
 ## What About AI?
 
 -   Positive:
@@ -203,6 +221,29 @@ and about what you have seen work elsewhere.
 
 ## Exercises
 
+<section class="exercise" markdown="1">
+
+### Three Team Members (5 min)
+
+The points below describe three people who are in trouble of different kinds.
+With a partner,
+come up with at least one more possible explanation for each scenario,
+and explain how you would figure out which is most accurate.
+
+1.  Someone who does good work is missing every deadline:
+    is it a time-management problem or a scope problem?
+
+1.  Someone keeps expanding the scope of their assignments:
+    is this poor design and estimation or is personal curiosity getting the better of them?
+
+1.  Someone has stopped communicating without explanation:
+    are they no longer interested in the work,
+    is there something going on in their personal life?
+
+</section>
+
+<section class="exercise" markdown="1">
+ 
 ### Feedback Role-Play (8 min)
 
 Prompt the LLM with this:
