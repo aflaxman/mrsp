@@ -77,6 +77,46 @@ but this doesn't justify building it if few users will notice when it's done.
 and that adding features makes maintenance harder
 for everyone who uses the features you already have [%b Perri2018 %].)
 
+## How to Say "No"
+
+Closing a feature request without explanation discourages contributors,
+but saying, "Yes, eventually," and then not following through is worse.
+It's better to limit yourself to one of the following responses:
+
+1.  "This is on our roadmap for [milestone]."
+	It helps to keep track of how often you say this and *don't* deliver
+	so that you can scale back promises as time goes on.
+
+2.  "This is out of scope because [one sentence reason]."
+	Most projects have a to-do list;
+	it's equally helpful to have a public "to-don't" list
+	of things that aren't going to be added and the reasons why not.
+
+3.  "We would accept a pull request for this if [specific condition]."
+	This answer is equivalent to saying
+	"it would be useful but it's not a priority for us".
+	The proposer's response is a good way to gauge how much they actually want the feature.
+
+Whichever answer you choose,
+write it down in the issue for future reference.
+
+<div class="callout" markdown="1">
+
+An open issue is an implicit promise that something is going to be done.
+A list of three hundred open issues breaks that promise.
+Similarly,
+a PR backlog that grows without bound is not a backlog:
+it's a graveyard.
+Issues and pull requests that have not been touched in twelve months
+should therefore either be closed with an apology,
+explicitly labeled "parked",
+or assigned to a milestone.
+Again,
+keep track of how often you promise to do things and then don't get to them
+so that you can scale back your promises over time.
+
+</div>
+
 ## After
 
 After the notes conversation,
