@@ -90,7 +90,11 @@ In pairs:
 
 </section>
 
-## Wrap-up (5 min)
+<section class="exercise" markdown="1">
+
+### Wrap-up (5 min)
 
 1.  What is the single most useful thing you learned or produced today?
 2.  What was included that you don't think you'll use?
+
+</section>

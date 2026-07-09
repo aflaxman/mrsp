@@ -216,8 +216,6 @@ and one describing how someone who believes they've been omitted can raise the i
 Both sentences were harder to write than she expected
 because they required being specific about things she had been comfortable leaving vague.
 
-<section class="exercise" markdown="1">
-
 ## What About AI?
 
 -   Positive:
@@ -241,6 +239,8 @@ because they required being specific about things she had been comfortable leavi
     have essentially adopted time bombs.
 
 ## Exercises
+
+<section class="exercise" markdown="1">
 
 ### Draft Your Governance Statement (12 min)
 

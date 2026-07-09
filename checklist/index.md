@@ -126,7 +126,7 @@ Ethics review
     right place to ask. Not asking is not a defense.
 
 Secrets in version control
-:   Api keys, passwords, and personal data committed to git are not
+:   API keys, passwords, and personal data committed to git are not
     gone when deleted: they live in history. Tools like `git-secrets`
     or `trufflehog` detect them. [%g secret-rotation "Key rotation" %],
     not deletion, is the fix when accidents happen.

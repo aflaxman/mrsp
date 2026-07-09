@@ -79,7 +79,7 @@ and
 even if the message is only "Thanks - I'll try to review this by [date]."
 If the review slips more than once,
 let the PR author know what's happening.
-	
+    
 </div>
 
 ## Legitimate Peripheral Participation
@@ -121,11 +121,11 @@ It's therefore useful to distinguish between three groups of contributors:
 
 -   **Occasional contributors**
     are likely to return if the experience is good,
-	and are therefore worth investing in.
+    and are therefore worth investing in.
 
 -   **Regulars**
     need a path to becoming project members,
-	which is discussed in the lesson on [governance](@/governance/).
+    which is discussed in the lesson on [governance](@/governance/).
 
 <div class="callout" markdown="1">
 

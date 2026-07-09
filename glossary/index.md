@@ -103,10 +103,6 @@
 :   A program that manages passwords used by multiple sites or
     applications.
 
-<span id="persona">persona</span>
-:   A brief description of a fictional character that captures key
-    features of a project's intended audience.
-
 <span id="phishing">phishing</span>
 :   An attack in which someone pretends to represent a legitimate
     organization, e.g., by sending an email that appears to come from

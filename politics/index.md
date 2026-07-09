@@ -12,7 +12,7 @@
     by asking whose support the decision-maker actually needs.
 -   Advocate for your work in ways that are honest and effective,
     and don't require pretending that politics doesn't exist.
-	
+    
 </div>
 
 ## Before

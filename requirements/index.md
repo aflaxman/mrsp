@@ -84,18 +84,18 @@ but saying, "Yes, eventually," and then not following through is worse.
 It's better to limit yourself to one of the following responses:
 
 1.  "This is on our roadmap for [milestone]."
-	It helps to keep track of how often you say this and *don't* deliver
-	so that you can scale back promises as time goes on.
+    It helps to keep track of how often you say this and *don't* deliver
+    so that you can scale back promises as time goes on.
 
 2.  "This is out of scope because [one sentence reason]."
-	Most projects have a to-do list;
-	it's equally helpful to have a public "to-don't" list
-	of things that aren't going to be added and the reasons why not.
+    Most projects have a to-do list;
+    it's equally helpful to have a public "to-don't" list
+    of things that aren't going to be added and the reasons why not.
 
 3.  "We would accept a pull request for this if [specific condition]."
-	This answer is equivalent to saying
-	"it would be useful but it's not a priority for us".
-	The proposer's response is a good way to gauge how much they actually want the feature.
+    This answer is equivalent to saying
+    "it would be useful but it's not a priority for us".
+    The proposer's response is a good way to gauge how much they actually want the feature.
 
 Whichever answer you choose,
 write it down in the issue for future reference.
