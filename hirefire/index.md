@@ -71,6 +71,38 @@ so this will let you see how well they do that using their preferred tools.
 
 </div>
 
+<div class="callout" markdown="1">
+
+References are usually treated as a formality in academic hiring
+because of sampling bias:
+if someone isn't comfortable saying nice things about the candidate,
+they won't be listed as a reference.
+To get more out of reference checks,
+ask, "What kind of work did you give them and what happened?"
+and,
+"What would help them succeed?"
+These are specific enough to be answerable even by someone who has reservations.
+
+</div>
+
+## Onboarding
+
+An employee who is lost or unsupported for three months and then leaves
+has cost the project more than the hiring process saved.
+To prevent this,
+create a structured onboarding plan:
+
+-   Week one: can get, build, and run all of the software.
+-   Week two: complete one small task with close supervision.
+-   Month one: first significant pull request reviewed and merged.
+
+Note that "significant pull request" doesn't have to mean "complex new feature".
+Newcomers are better at updating documentation
+than people who have learned to work around the software's quirks
+or haven't had to set it up from scratch in a couple of years.
+They can also create or refresh examples
+to help the next newcomer get up to speed more quickly.
+
 ## Firing
 
 Sometimes people have good reasons for poor performance.
@@ -143,6 +175,19 @@ Keep a record.
     People do not always act in good faith when they are hurt or angry,
     and a record protects everyone.
 
+<div class="callout" markdown="1">
+
+Many open source contributors have no formal employment relationship with the project.
+Removing a volunteer contributor's commit access
+or banning them from the mailing list
+is therefore a governance decision,
+not an HR issue.
+Reasons for doing this and the steps to go through
+should be documented in [the governance statement](@/governance/)
+*before they are needed*.
+
+</div>
+
 ## Being Fired
 
 Most management guides skip this section.
@@ -155,15 +200,6 @@ If,
 on the other hand,
 you feel you were fired unfairly,
 these rules may help.
-
-<div class="callout" markdown="1">
-
-Do not expect the organization to admit they were wrong.
-Their lawyers probably will not allow any statement that acknowledges wrongdoing or liability,
-and whatever happened probably wouldn't have
-if they were the sort of institution that could readily admit mistakes.
-
-</div>
 
 You are not a lawyer.
 :   Do not cite specific laws unless a lawyer tells you to.
@@ -194,14 +230,17 @@ Don't sign away your right to speak.
     Someone whose immigration status or family income is threatened may not have a real choice,
     which is precisely why people who do have a choice also have an obligation to push back when they can.
 
+Do not expect the organization to admit they were wrong.
+:   Their lawyers probably will not allow any statement that acknowledges wrongdoing or liability,
+    and whatever happened probably wouldn't have
+    if they were the sort of institution that could readily admit mistakes.
+
 Cry if you need to.
 :   Or go for long walks,
     or pick up something that requires you to focus
     on anything other than the situation for a while.
     Exhausted people make poor decisions,
     and you need to be at your best.
-
-<section class="exercise" markdown="1">
 
 ## What About AI?
 
@@ -233,6 +272,8 @@ Cry if you need to.
     can now be faked convincingly.
 
 ## Exercises
+
+<section class="exercise" markdown="1">
 
 ### The Hiring Brief (10 min)
 
