@@ -157,7 +157,7 @@ After the API key incident,
 Jess added `git-secrets` to the repository's pre-commit hooks
 and wrote a two-paragraph credential policy in `CONTRIBUTING.md`.
 She then did a compliance check on the rest of the project
-andfound that the simulator processed GPS location data from wildlife collars
+and found that the simulator processed GPS location data from wildlife collars
 that had been provided by a government agency under a data sharing agreement
 that she had never read.
 It turned out there were restrictions on redistribution
